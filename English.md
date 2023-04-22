@@ -1,0 +1,55 @@
+- **Murky** - obscure (the sky is murky; he offered a murky explanation)
+- **Screech** into reverse 
+- **Facile** - shallow (a facile victory, a facile solution to such a complex problem)
+- **Lull** - causing to rest/sleep/relax (lulled into a false sense of security) 
+- **Spur** - give a kick (the reward spurred them to achieving even greater success)
+- **Derogation** - belittling 
+- **Brisk** - energetic/lively (we'd expected a brisk business ahead of Eid) 
+---
+- **Tirade** - rant (he went into a tirade about the failures of the government) 
+- **Tenuous** - flimsy/weak (the attempt of the government to invoke the child exploitation issue seems to rest on tenuous grounds)
+- **Ostracise** - exclude from a group 
+- **Strife** - conflict 
+- **Avail** - give an advantage (e.g. Our best efforts did not avail; All his efforts availed him nothing)
+---
+- **Draughty** - (of an enclosed space) cold and uncomfortable because of currents of cool air. (e.g. anyone would get pneumonia living in that draughty old house)
+- **Dilapidated** - in a state of ruin/disrepair (e.g. old, dilapidated buildings)
+- **Snub** - rebuke (e.g. The President has snubbed Mohammad Bin Salman)
+- **Quid pro quo** - barter (e.g. in politics nobody does something for nothing: there's always a quid pro quo involved)
+---
+- **Standoff** - deadlock/impasse (e.g. Ace and Jinbe fought to a standoff)
+- **Thin-skinned** - touchy/offended at the slightest provocation (e.g. Mohammad Bin Salman is notoriously thin-skinned)
+- **Chafe**:
+	- Irritate/vex/get irritated/vexed e.g.
+		- The noise of the children playing chafed her 
+		- He chafes at the rules 
+- **Jilt** - cast off/reject (e.g. having become rich, she jilted all her old friends)
+- **Ravenous** - voracious (e.g. a ravenous appetite)
+---
+- **Falter**:
+	- Walking unsteadily/stumbling (e.g.her steps began to falter. He never faltered in his determination. The business was faltering)
+	- Stammering (e.g. her voice faltered)
+- **Comeuppance** - a deserved rebuke (e.g. one of these days, he'll get his comeuppance for treating us so badly)
+- **Curb** - an edging (as of concrete) built along a street to form part of a gutter (e.g. they sat on the curb eating their ice cream)
+- **Respite** - an interval of relief (e.g. the heatwave is continuing without respite)
+---
+- **Subvert** - ruin (e.g. They conspired to subvert the government)
+- **Touch off** - trigger (e.g. my decision to join Dr Sami's group despite Dr Sadi's objection *touched off* a dispute between us)
+- **Germane** - pertinent (e.g. it's not germane to our discussion)
+- **Promulgate** - promote/make widely known (an idea etc) (e.g. he was busy promulgating his newly invented theory)
+- **Escaping the drudgery of life**
+---
+- **Hegemony** - domination (e.g. the fact the BD is paying Russia for the nuclear plant on Yuans rather than in dollars hints at the end of dollar *hegemony*)
+- **Ratchet** - cause to move up/down by steps (e.g. this diplomatic move has the potential to *ratchet up* tension between BD and the US. I'm trying to *ratchet down* my error rates.)
+- **Boggy** - swampy / marshy (e.g. I often visit these *boggy* expanses)
+---
+- **Sear** 
+	- heat up intensely e.g.
+		- the *searing* heat of the sun  
+		- The water was so hot that it *seared* our lips 
+	- pain felt as a sudden burning sensation 
+		- A crushing pain *seared* through his chest 
+	- Fix in memory 
+		- The unfortunate encounter was *seared* on his memory 
+	- Severely critical 
+		- A *searing* indictment of the government

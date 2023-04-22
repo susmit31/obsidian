@@ -1,0 +1,13 @@
+- _Panda sign_ in midbrain in MRI => _Wilson disease_ 
+- Cirrhosis + hepatomegaly => 
+    - Early cirrhosis 
+    - Alcoholic cirrhosis 
+    - Cirrhosis due to haemochromatosis 
+- Cirrhosis + splenomegaly => portal htn 
+- All **cell wall synthesis inhibitors** are **SAFE** in pregnancy **_except_ imipenem and vancomycin** 
+- All **cell membrane/DNA/protein synthesis inhibitors** are **UNSAFE** in pregnancy **_except_**
+    - PSI: Azithromycin, Erythromycin, Clarithromycin 
+    - DSI: Metronidazole, Nitrofurantoin (except 3rd trimester)
+- Safest antihistamine in pregnancy => chlorpheniramine (Histacin 4mg)
+- Safest antiemetic in pregnancy => Meclizine (plus pyridoxine; Emenil PLUS)
+- Acanthosis nigricans is caused by increased activation of growth factor receptor proteins, usually due to endocrine dysfunction. This is most commonly insulin-mediated activation of IGF receptors on keratinocytes, as a result of hyperinsulinaemia or insulin resistance, as seen in diabetes mellitus.

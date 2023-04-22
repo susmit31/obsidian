@@ -1,0 +1,63 @@
+$$\small\text{Miracle $\rightarrow$ pg 590}$$
+- The child is the father of the man -> Wordsworth (My heart leaps up)
+- He prayeth best, who loveth best 
+   All things both great and small -> Coleridge (Mariner)
+- I am daughter of Earth and Water -> PB Shelley (The Cloud) 
+- Our sweetest songs are those that tell of our saddest stories -> PB Shelley (To a Skylark) 
+- Poets are unacknowledged legislators of the world -> PB Shelley (A defence of poetry)
+- For God's sake, hold your tongue and let me love -> Donne (The Canonization) 
+- A mixture of lie doth ever add pleasure -> F Bacon (Of Truth)
+- Sweet are the uses of adversity -> As You Like It 
+- There is nothing either good or bad, but thinking makes it so -> Hamlet 
+- I know nothing except my ignorance -> Socrates (from Plato's Apology)
+- The unexamined life isn't worth living -> Socrates (recorded in Plato's Apology)
+- The soul is immortal -> Plato (Apology)
+- We make war that we may live in peace -> Aristotle 
+- Man is by nature a political animal -> Aristotle (Politics)
+- But I have promises to keep, and miles to go before I sleep -> Robert Frost 
+- He who is unable to live in a society... because he's sufficient for himself, must be either a beast or a God -> Aristotle 
+- All the world's a stage -> As You Like It 
+- Blow, blow, thou winter wind,
+	Thou art not so unkind 
+	As man's ingratitude -> As You Like It
+- Frailty thy name is woman -> Hamlet 
+- Come live with me, and be my love.
+	And we will with all the pleasure prove -> Marlowe (The passionate shepherd to his love)
+- Give me the liberty to know, to utter, to argue -> Milton (Areopagitica)
+- Oh, lift me as a wave, a leaf, a cloud -> Shelley (West wind)
+- Heard melodies are sweet, but those unheard are sweeter -> Keats (Grecian)
+- Sweet is revenge, especially to women -> Byron (Don Juan)
+- Pleasure's a sin and sometimes, sin's a pleasure -> Byron (DJ)
+- Man's love is of man's life a thing apart. Tis a woman's whole existence. -> Byron (DJ)
+- She dwells with beauty - beauty that must die -> Keats (Ode on Melancholy)
+- Poetry is a criticism of life -> Arnold 
+- Truth sits upon the lips of dying men -> Arnold (Sohrab and Rustum)
+- Man is born free, and everywhere he's in chains -> Rousseau 
+- Full many a flower is born to blush unseen and waste its sweetness on the desert air -> Thomas Gray (Elegy... churchyard)
+- They think too little who talk too much -> Dryden 
+- Admiration is the daughter of ignorance -> Franklin 
+- Prejudice is the child of ignorance -> Hazlitt
+- Man's conscience is the oracle of God -> Byron 
+- Men are women's playthings, women are devil's -> Victor Hugo 
+- No man can be wise on an empty stomach -> George Eliot 
+- Patience is bitter, but its fruit is sweet -> Rousseau/Aristotle 
+- Power tends to corrupt, and absolute power corrupts absolutely -> Lord Acton 
+- I will never be an old man. To me, old age is always 15 yrs older than I am -> F Bacon 
+- Where are the songs of spring? Aye, where are they? Think not of them, thou hast thy music too -> Keats (Ode to Autumn) 
+- The music in my heart I bore, long after it was heard no more -> Wordsworth (Solitary Reaper)
+- Nature never did betray the heart that loved her -> Wordsworth 
+- Fair daffodils! We weep to see. You haste away so soon; as yet the early rising sun has not attained its noon -> Robert Herrick (To daffodils)
+- Good face is the best letter of recommendation -> Queen Elizabeth 
+- My heart aches, and a drowsy numbness pains. My sense, as though of hemlock I had drunk -> Keats (Nightingale)
+- There is divinity that shapes our ends -> Hamlet 
+- Behold her, single in the field, you solitary highland Lass! -> Wordsworth (solitary reaper)
+- Corruption wins not more than honesty   -> Merchant of Venice 
+- He who desires but acts not, breeds pestilence -> Blake (Marriage of Heaven and Hell)
+- 9 soldiers out of 10 are born fools -> Shaw (Arms and the Man)
+- It is our duty to live as long as we can -> Shaw (Arms and the Man)
+- Wonder is the seed of knowledge -> F Bacon
+- The secret to success is the constancy of purpose -> F Bacon 
+- Revenge is a kind of wild justice -> F Bacon 
+- Jealousy is the proof of love -> Dryden 
+- Where ignorance is bliss, tis folly to be wise -> Thomas Gray 
+- The paths of glory lead but to the grave -> Thomas Gray 

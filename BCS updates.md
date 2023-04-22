@@ -1,0 +1,15 @@
+- BRICS latest summits:
+    - 14th (2022): China 
+    - 13th (2021): India 
+- Human development index 2022 - 1st Switzerland (BD 129)
+- NATO latest (31st) member => Finland 
+- Press freedom index 2022 (by RWB) =>
+    - 1st: Norway 
+    - Last (180th): N. Korea 
+    - BD: 162nd
+- Corruption perception index (by TI) => 
+    - 1st: Denmark 
+    - Last (180th): Somalia 
+    - BD: 147th 
+- 22nd President of BD (24/4/23) => Md Sahabuddin Chuppu 
+- 
