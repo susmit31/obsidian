@@ -52,4 +52,6 @@
 	- Fix in memory 
 		- The unfortunate encounter was *seared* on his memory 
 	- Severely critical 
-		- A *searing* indictment of the government
+		- A *searing* indictment of the government 
+---
+- **Motorcade** - procession of motor vehicles (e.g. the outgoing president was given a grand farewell with a ceremonial motorcade)

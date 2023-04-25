@@ -14,4 +14,7 @@
 - Spironolactone induces gynecomastia by decreasing testosterone production, increasing peripheral conversion of testosterone to estradiol, and displacing estradiol from sex hormone-binding globulin.
 - **Monitoring of IBD => Faecal calprotectin**
 	- Calprotectin is a Ca and Zn binding protein found in neutrophils
-	- Hence presence of calprotectin in the faeces indicates the levels of neutrophil migration into the GIT and thus disease activity in IBD
+	- Hence presence of calprotectin in the faeces indicates the levels of neutrophil migration into the GIT and thus disease activity in IBD 
+- Drug induced lupus => Antihistone antibody 
+- Osteogenesis imperfecta => defective type I collagen synthesis 
+- Kimmelstiel-Wilson nodules in kidney biopsy => Diabetic nephropathy 
