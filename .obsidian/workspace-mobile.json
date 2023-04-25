@@ -62,7 +62,7 @@
               "type": "markdown",
               "state": {
                 "file": "Medicine MCQs.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -194,13 +194,13 @@
   },
   "active": "6229c534398acc98",
   "lastOpenFiles": [
+    "English.md",
+    "Medicine MCQs.md",
     "Medicine management tips.md",
     "Quotes.md",
-    "English.md",
     "BCS updates.md",
     "Paedi drug dosages.md",
     "Admission review.md",
-    "Medicine MCQs.md",
     "Letter.md",
     "Paedi medicine guidelines"
   ]

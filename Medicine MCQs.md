@@ -15,6 +15,10 @@
 - **Monitoring of IBD => Faecal calprotectin**
 	- Calprotectin is a Ca and Zn binding protein found in neutrophils
 	- Hence presence of calprotectin in the faeces indicates the levels of neutrophil migration into the GIT and thus disease activity in IBD 
-- Drug induced lupus => Antihistone antibody 
-- Osteogenesis imperfecta => defective type I collagen synthesis 
-- Kimmelstiel-Wilson nodules in kidney biopsy => Diabetic nephropathy 
+- *Drug induced* lupus => *Antihistone* antibody 
+- **Osteogenesis imperfecta** => defective *type I* collagen synthesis 
+- **Kimmelstiel-Wilson** nodules in kidney biopsy => **Diabetic nephropathy** 
+- **Erythema nodosum** => red tender nodules/lumps over both the shins (inflammation of subcutaneous fat cells)
+- **Sarcoidsosis** => BHL (bilateral hilar lymphadenopathy) + EN (erythema nodosum)
+	- Other features: ↑ S. ACE, hypercalcaemia, hypercalciuria 
+	- Very important to exclude TB and lymphoma
