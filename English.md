@@ -39,7 +39,7 @@
 - **Promulgate** - promote/make widely known (an idea etc) (e.g. he was busy promulgating his newly invented theory)
 - **Escaping the drudgery of life**
 ---
-- **Hegemony** - domination (e.g. the fact the BD is paying Russia for the nuclear plant on Yuans rather than in dollars hints at the end of dollar *hegemony*)
+- **Hegemony** - domination (e.g. the fact the BD is paying Russia for the nuclear plant in Yuans rather than in dollars hints at the end of dollar *hegemony*)
 - **Ratchet** - cause to move up/down by steps (e.g. this diplomatic move has the potential to *ratchet up* tension between BD and the US. I'm trying to *ratchet down* my error rates.)
 - **Boggy** - swampy / marshy (e.g. I often visit these *boggy* expanses)
 ---
@@ -55,3 +55,9 @@
 		- A *searing* indictment of the government 
 ---
 - **Motorcade** - procession of motor vehicles (e.g. the outgoing president was given a grand farewell with a ceremonial motorcade)
+- **Gamut** - range / spectrum (e.g. she experienced the full gamut of human emotions. We have discuss the entire gamut )
+- **Scrumptious** - delectable / delightful (e.g. we went to Secret Recipe and had a scrumptious lava cake with ice cream; a scrumptious place; her book was filled with scrumptious details)
+- **Spiffy**
+- **Deluge**
+- **Spruce**
+- 

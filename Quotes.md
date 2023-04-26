@@ -61,3 +61,4 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Jealousy is the proof of love -> Dryden 
 - Where ignorance is bliss, tis folly to be wise -> Thomas Gray 
 - The paths of glory lead but to the grave -> Thomas Gray 
+- I am one who loved not wisely but too well -> Othello

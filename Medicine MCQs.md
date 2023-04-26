@@ -21,4 +21,5 @@
 - **Erythema nodosum** => red tender nodules/lumps over both the shins (inflammation of subcutaneous fat cells)
 - **Sarcoidsosis** => BHL (bilateral hilar lymphadenopathy) + EN (erythema nodosum)
 	- Other features: ↑ S. ACE, hypercalcaemia, hypercalciuria 
-	- Very important to exclude TB and lymphoma
+	- Very important to exclude TB and lymphoma 
+- Atrophic glossitis => IDA, B12 deficiency
