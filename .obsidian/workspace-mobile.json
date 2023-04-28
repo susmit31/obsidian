@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Quotes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "English.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -79,8 +79,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -146,7 +145,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English.md",
+            "file": "Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +162,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English.md",
+            "file": "Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -175,7 +174,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English.md"
+            "file": "Quotes.md"
           }
         }
       }
@@ -192,11 +191,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ad68834ddd0d35ee",
+  "active": "52df15d457531a41",
   "lastOpenFiles": [
-    "Medicine MCQs.md",
     "English.md",
     "Quotes.md",
+    "Medicine MCQs.md",
     "Medicine management tips.md",
     "BCS updates.md",
     "Paedi drug dosages.md",
