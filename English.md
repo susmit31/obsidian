@@ -57,7 +57,14 @@
 - **Motorcade** - procession of motor vehicles (e.g. the outgoing president was given a grand farewell with a ceremonial motorcade)
 - **Gamut** - range / spectrum (e.g. she experienced the full gamut of human emotions. We have discuss the entire gamut )
 - **Scrumptious** - delectable / delightful (e.g. we went to Secret Recipe and had a scrumptious lava cake with ice cream; a scrumptious place; her book was filled with scrumptious details)
-- **Spiffy**
+- **Spiffy** - smart (e.g. he's looking really spiffy in that outfit)
+---
 - **Deluge**
 - **Spruce**
-- **Highbrow** - intellectual
+- **Highbrow** - intellectual 
+- **Maelstrom** - whirlpool (e.g. she was caught in a maelstrom of emotions. The ship got drawn into a treacherous maelstrom)
+- **Vacillation** - oscillation 
+- **Sombre** - dark / bleak (e.g. her death put us in a sombre mood. The movie is a sombre portrait of life on the streets)
+---
+- **Motley** - variegated /
+- 
