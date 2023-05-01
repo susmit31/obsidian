@@ -17,21 +17,21 @@
 - **Snub** - rebuke (e.g. The President has snubbed Mohammad Bin Salman)
 - **Quid pro quo** - barter (e.g. in politics nobody does something for nothing: there's always a quid pro quo involved)
 ---
-- **Standoff** - deadlock/impasse (e.g. Ace and Jinbe fought to a standoff)
-- **Thin-skinned** - touchy/offended at the slightest provocation (e.g. Mohammad Bin Salman is notoriously thin-skinned)
+- **Standoff** - deadlock/impasse (e.g. Ace and Jinbe fought to a *standoff*)
+- **Thin-skinned** - touchy/offended at the slightest provocation (e.g. Mohammad Bin Salman is notoriously *thin-skinned*)
 - **Chafe**:
 	- Irritate/vex/get irritated/vexed e.g.
-		- The noise of the children playing chafed her 
-		- He chafes at the rules 
-- **Jilt** - cast off/reject (e.g. having become rich, she jilted all her old friends)
-- **Ravenous** - voracious (e.g. a ravenous appetite)
+		- The noise of the children playing *chafed* her 
+		- He *chafes* at the rules 
+- **Jilt** - cast off/reject (e.g. having become rich, she *jilted* all her old friends)
+- **Ravenous** - voracious (e.g. a *ravenous* appetite)
 ---
 - **Falter**:
 	- Walking unsteadily/stumbling (e.g.her steps began to falter. He never faltered in his determination. The business was faltering)
 	- Stammering (e.g. her voice faltered)
-- **Comeuppance** - a deserved rebuke (e.g. one of these days, he'll get his comeuppance for treating us so badly)
-- **Curb** - an edging (as of concrete) built along a street to form part of a gutter (e.g. they sat on the curb eating their ice cream)
-- **Respite** - an interval of relief (e.g. the heatwave is continuing without respite)
+- **Comeuppance** - a deserved rebuke (e.g. one of these days, he'll get his *comeuppance* for treating us so badly)
+- **Curb** - an edging (as of concrete) built along a street to form part of a gutter (e.g. they sat on the *curb* eating their ice cream)
+- **Respite** - an interval of relief (e.g. the heatwave is continuing without *respite*)
 ---
 - **Subvert** - ruin (e.g. They conspired to subvert the government)
 - **Touch off** - trigger (e.g. my decision to join Dr Sami's group despite Dr Sadi's objection *touched off* a dispute between us)
@@ -67,4 +67,5 @@
 - **Sombre** - dark / bleak (e.g. her death put us in a sombre mood. The movie is a sombre portrait of life on the streets)
 ---
 - **Motley** - variegated /
-- 
+- **Recant** - disavow 
+- **Obviate** - preclude (e.g. the newfound medical treatment obviates the need for surgery)
