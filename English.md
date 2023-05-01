@@ -66,6 +66,10 @@
 - **Vacillation** - oscillation 
 - **Sombre** - dark / bleak (e.g. her death put us in a sombre mood. The movie is a sombre portrait of life on the streets)
 ---
-- **Motley** - variegated /
 - **Recant** - disavow 
 - **Obviate** - preclude (e.g. the newfound medical treatment obviates the need for surgery)
+- **Motley** - variegated in colour / made up of many different things (e.g. a motley coat. A motley crowd)
+- **Emancipate** - free from restraint etc (e.g. Straw Hat Luffy's adventures have led to the emancipation of numerous countries and people)
+- **Disburse** - pay out esp. from a fund (e.g. the money will be disbursed on the basis of need)
+- **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
+
