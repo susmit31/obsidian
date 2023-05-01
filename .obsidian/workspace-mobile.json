@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Quotes.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "English.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -91,8 +91,7 @@
               }
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophy curriculum.md",
+            "file": "Quotes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Philosophy curriculum.md",
+            "file": "Quotes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -187,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Philosophy curriculum.md"
+            "file": "Quotes.md"
           }
         }
       }
@@ -204,12 +203,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8183f79e027385a",
+  "active": "52df15d457531a41",
   "lastOpenFiles": [
-    "Quotes.md",
     "English.md",
-    "Medicine MCQs.md",
     "Philosophy curriculum.md",
+    "Quotes.md",
+    "Medicine MCQs.md",
     "BCS updates.md",
     "Medicine management tips.md",
     "Paedi drug dosages.md",
