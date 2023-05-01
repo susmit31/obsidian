@@ -25,4 +25,6 @@
 	- [ ] Twilight of the Idols 
 	- [ ] The Joyful Science 
 	- [ ] Thus Spoke Zarathustra 
-- [ ] 
+- [ ] Russel 
+	- [ ] Political Ideals 
+	- [ ] Mysticism and Other Sceptical Essays
