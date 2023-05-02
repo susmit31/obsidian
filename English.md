@@ -72,4 +72,5 @@
 - **Emancipate** - free from restraint etc (e.g. Straw Hat Luffy's adventures have led to the emancipation of numerous countries and people)
 - **Disburse** - pay out esp. from a fund (e.g. the money will be disbursed on the basis of need)
 - **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
+- **Thaw**
 
