@@ -75,7 +75,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Hope springs eternal in the human breast -> Pope 
 - Charms strike the sight but merit strikes the heart -> Pope 
 - Poetry is a spontaneous overflow of powerful feelings -> Wordsworth 
-- Our birth is but a sleep and forgetting -> Wordsworth 
+- Our birth is but a sleep and a forgetting -> Wordsworth 
 - Fear not the future, weep not for the past -> PB Shelley (Queen Mab)
 - Cowards die many times before their death, but the valiant never taste of the death but once - Julius Caesar 
 - 
