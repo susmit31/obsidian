@@ -16,7 +16,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Man is by nature a political animal -> Aristotle (Politics)
 - But I have promises to keep, and miles to go before I sleep -> Robert Frost 
 - He who is unable to live in a society... because he's sufficient for himself, must be either a beast or a God -> Aristotle 
-- All the world's a stage -> As You Like It 
+- All the world's a stage... And one man in his time plays many parts -> As You Like It 
 - Blow, blow, thou winter wind,
 	Thou art not so unkind 
 	As man's ingratitude -> As You Like It
@@ -65,4 +65,17 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Life's but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing ->Macbeth 
 - I am a man more sinned against than sinning -> King Lear 
 - Solitude is sometimes best society -> Paradise Lost 
+- Ignorance is not innocence but sin -> Browning 
+- Beware of false knowledge, it is more dangerous than ignorance -> Shaw 
+- No love is sincerer than the love of food -> Shaw 
+- There are two tragedies in life. One is not to get your heart's desire, and the other is to get it -> Shaw 
+- Cowards die many times before their death -> Julius Caesar 
+- Some books are to be tasted, others to be swallowed and some others to be chewed and digested -> Bacon 
+- Old wood best to burn, old wine to drink, old friend to trust and old author to read -> Bacon 
+- Hope springs eternal in the human breast -> Pope 
+- Charms strike the sight but merit strikes the heart -> Pope 
+- Poetry is a spontaneous overflow of powerful feelings -> Wordsworth 
+- Our birth is but a sleep and forgetting -> Wordsworth 
+- Fear not the future, weep not for the past -> PB Shelley (Queen Mab)
+- Cowards die many times before their death, but the valiant never taste of the death but once - Julius Caesar 
 - 
