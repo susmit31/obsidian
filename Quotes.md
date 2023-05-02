@@ -73,7 +73,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Some books are to be tasted, others to be swallowed and some others to be chewed and digested -> Bacon 
 - Old wood best to burn, old wine to drink, old friend to trust and old author to read -> Bacon 
 - Hope springs eternal in the human breast -> Pope 
-- Charms strike the sight but merit strikes the heart -> Pope 
+- Charms strike the sight but merit strikes the heart / wins the soul -> Pope (The Rape of The Lock)
 - Poetry is a spontaneous overflow of powerful feelings -> Wordsworth 
 - Our birth is but a sleep and a forgetting -> Wordsworth 
 - Fear not the future, weep not for the past -> PB Shelley (Queen Mab)
