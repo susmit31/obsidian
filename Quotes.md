@@ -77,5 +77,5 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Poetry is a spontaneous overflow of powerful feelings -> Wordsworth 
 - Our birth is but a sleep and a forgetting -> Wordsworth 
 - Fear not the future, weep not for the past -> PB Shelley (Queen Mab)
-- Cowards die many times before their death, but the valiant never taste of the death but once - Julius Caesar 
-- 
+- Cowards die many times before their death, but the valiant never taste of the death but once -> Julius Caesar 
+- A man can be destroyed but not defeated -> Hemingway 
