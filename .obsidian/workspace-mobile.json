@@ -1,31 +1,108 @@
 {
   "main": {
-    "id": "d22a18276c9bf11a",
+    "id": "720f1e498906dd69",
     "type": "split",
     "children": [
       {
-        "id": "ee6725bad6d3aac0",
+        "id": "c830a4db8d5762e7",
         "type": "tabs",
         "children": [
           {
-            "id": "b1a07d9bb9c65be5",
+            "id": "52df15d457531a41",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quotes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a4c434a72d728c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paedi drug dosages.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad68834ddd0d35ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy curriculum.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce3e0b5d275750c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine management tips.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6229c534398acc98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine MCQs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a1b5a16be8805bbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BCS updates.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85bb5d382651eacd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "375caf9032fcf2d9",
+    "id": "f0dd14cecf42dd4f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "745d95d9631d4a99",
+        "id": "a366e18b21acc51e",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +112,7 @@
         }
       },
       {
-        "id": "281d0fce98dabb2a",
+        "id": "9dc0cc4318670ace",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +127,7 @@
         }
       },
       {
-        "id": "baf8d28b6d28ca1f",
+        "id": "7a41c39dc1815eb2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +138,7 @@
         }
       },
       {
-        "id": "564d0e8efcd94c9b",
+        "id": "faac4b0f2a06343c",
         "type": "leaf",
         "state": {
           "type": "starred",
@@ -72,16 +149,17 @@
     "currentTab": 0
   },
   "right": {
-    "id": "9a87bf70756b9d5e",
+    "id": "af65a2df3bb5bf2a",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "c241abfd71eb5822",
+        "id": "523f8e8e5553b045",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "collapseAll": false,
+            "file": "English.md",
+"collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
             "showSearch": false,
@@ -92,22 +170,25 @@
         }
       },
       {
-        "id": "3912a285ea5c0da0",
+        "id": "64ef8ff75c19df05",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "English.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "67b93c5211e76378",
+        "id": "2e8f689d8feede79",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "English.md"
+          }
         }
       }
     ],
@@ -123,6 +204,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b1a07d9bb9c65be5",
-  "lastOpenFiles": []
-}
+  "active": "85bb5d382651eacd",
+  "lastOpenFiles": [
+    "Philosophy curriculum.md",
+    "English.md",
+    "Quotes.md",
+    "BCS updates.md",
+    "Medicine management tips.md",
+    "Medicine MCQs.md",
+    "Paedi drug dosages.md",
+    "Admission review.md",
+    "Letter.md",
+    "Paedi medicine guidelines"
+  ]
+  
