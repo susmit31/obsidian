@@ -79,3 +79,14 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Fear not the future, weep not for the past -> PB Shelley (Queen Mab)
 - Cowards die many times before their death, but the valiant never taste of the death but once -> Julius Caesar 
 - A man can be destroyed but not defeated -> Hemingway 
+- Injustice anywhere is a threat to justice everywhere -> ML King
+- Men make their own history -> Marx
+- If God didn't exist, it would be necessary to invent him -> Voltaire 
+- The more we study, the more we discover our ignorance -> PB Shelley (the revolt of Islam)
+- Eat to live not live to eat -> Ben Franklin
+- I disapprove of what you say, but I will defend to death your right to say it -> Voltaire 
+- Charity begins at home and justice next door -> Dickens (Great Expectations)
+- Knowledge comes but wisdom lingers -> Tennyson (Locksley Hall)
+- Good fences make good neighbours -> Frost
+- Man is the maker of his own fate -> Marlowe
+- Honesty is the best policy -> Ben Franklin
