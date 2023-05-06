@@ -62,7 +62,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Where ignorance is bliss, tis folly to be wise -> Thomas Gray 
 - The paths of glory lead but to the grave -> Thomas Gray 
 - I am one who loved not wisely but too well -> Othello 
-- Life's but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing ->Macbeth 
+- Life's but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing -> Macbeth 
 - I am a man more sinned against than sinning -> King Lear 
 - Solitude is sometimes best society -> Paradise Lost 
 - Ignorance is not innocence but sin -> Browning 
@@ -86,7 +86,13 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Eat to live not live to eat -> Ben Franklin
 - I disapprove of what you say, but I will defend to death your right to say it -> Voltaire 
 - Charity begins at home and justice next door -> Dickens (Great Expectations)
+- A dream isn't what you see while sleeping it is that which won't let you sleep -> APJ Abdul Kalam 
+- Early to bed and early to rise -> Ben Franklin
 - Knowledge comes but wisdom lingers -> Tennyson (Locksley Hall)
 - Good fences make good neighbours -> Frost
 - Man is the maker of his own fate -> Marlowe
 - Honesty is the best policy -> Ben Franklin
+- If you want to shine like the sun, first burn like it -> APJ Abdul Kalam
+- Speech is great, silence is greater -> Thomas Carlyle 
+- Popular opinion is the greatest lie -> Carlyle 
+- 
