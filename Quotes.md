@@ -95,4 +95,4 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - If you want to shine like the sun, first burn like it -> APJ Abdul Kalam
 - Speech is great, silence is greater -> Thomas Carlyle 
 - Popular opinion is the greatest lie -> Carlyle 
-- 
+- Hell is empty, and all the devils are here - Tempest
