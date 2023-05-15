@@ -95,4 +95,8 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - If you want to shine like the sun, first burn like it -> APJ Abdul Kalam
 - Speech is great, silence is greater -> Thomas Carlyle 
 - Popular opinion is the greatest lie -> Carlyle 
-- 
+- Poetry is the breath and the finer spirit of knowledge -> Wordsworth 
+- Death is the golden key that opens the place of eternity -> Milton
+- An honest man is the noblest work of God -> Pope
+- Sorrows are the best educator -> Tennyson 
+- The old order changeth, yielding place to the new -> Tennyson
