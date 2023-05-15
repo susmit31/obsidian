@@ -96,3 +96,5 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Speech is great, silence is greater -> Thomas Carlyle 
 - Popular opinion is the greatest lie -> Carlyle 
 - Hell is empty, and all the devils are here - Tempest
+- Love all, trust a few, do harm to none - all's well that ends well
+- 
