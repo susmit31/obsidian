@@ -97,4 +97,8 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Popular opinion is the greatest lie -> Carlyle 
 - Hell is empty, and all the devils are here - Tempest
 - Love all, trust a few, do harm to none - all's well that ends well
-- 
+- Poetry is the breath and the finer spirit of knowledge -> Wordsworth 
+- Death is the golden key that opens the place of eternity -> Milton
+- An honest man is the noblest work of God -> Pope
+- Sorrows are the best educator -> Tennyson 
+- The old order changeth, yielding place to the new -> Tennyson
