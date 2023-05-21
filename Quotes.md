@@ -14,7 +14,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - The soul is immortal -> Plato (Apology)
 - We make war that we may live in peace -> Aristotle 
 - Man is by nature a political animal -> Aristotle (Politics)
-- But I have promises to keep, and miles to go before I sleep -> Robert Frost 
+- But I have promises to keep, and miles to go before I sleep -> Robert Frost (Stopping by Woods on a Snowy Evening)
 - He who is unable to live in a society... because he's sufficient for himself, must be either a beast or a God -> Aristotle 
 - All the world's a stage... And one man in his time plays many parts -> As You Like It 
 - Blow, blow, thou winter wind,
@@ -66,9 +66,9 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - I am a man more sinned against than sinning -> King Lear 
 - Solitude is sometimes best society -> Paradise Lost 
 - Ignorance is not innocence but sin -> Browning 
-- Beware of false knowledge, it is more dangerous than ignorance -> Shaw 
-- No love is sincerer than the love of food -> Shaw 
-- There are two tragedies in life. One is not to get your heart's desire, and the other is to get it -> Shaw 
+- Beware of false knowledge, it is more dangerous than ignorance -> Shaw (Man and Superman)
+- No love is sincerer than the love of food -> Shaw (Man and Superman)
+- There are two tragedies in life. One is not to get your heart's desire, and the other is to get it -> Shaw (Man and Superman)
 - Cowards die many times before their death -> Julius Caesar 
 - Some books are to be tasted, others to be swallowed and some others to be chewed and digested -> Bacon 
 - Old wood best to burn, old wine to drink, old friend to trust and old author to read -> Bacon 
@@ -99,6 +99,12 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Love all, trust a few, do harm to none - all's well that ends well
 - Poetry is the breath and the finer spirit of knowledge -> Wordsworth 
 - Death is the golden key that opens the place of eternity -> Milton
-- An honest man is the noblest work of God -> Pope
+- An honest man is the noblest work of God -> Pope (Am Essay on Man)
 - Sorrows are the best educator -> Tennyson 
 - The old order changeth, yielding place to the new -> Tennyson
+- All changed, changed utterly. A terrible beauty is born -> Yeats (Easter 1916)
+- Grow old along with me. The best is yet to be -> Robert Browning (Rabbi Ben Ezra)
+- I must be cruel, only to be kind. Thus bad begins, and worse remains behind -> Hamlet
+- 'Tis better to have loved and lost than never to have loved at all -> Tennyson (In Memoriam)
+- 
+
