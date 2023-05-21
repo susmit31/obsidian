@@ -64,7 +64,7 @@
 - **Highbrow** - intellectual 
 - **Maelstrom** - whirlpool (e.g. she was caught in a maelstrom of emotions. The ship got drawn into a treacherous maelstrom)
 - **Vacillation** - oscillation 
-- **Sombre** - dark / bleak (e.g. her death put us in a sombre mood. The movie is a sombre portrait of life on the streets)
+- **Sombre** - dark / bleak (e.g. her death put us in a sombre mood. The movie is a sombre portrayal of life on the streets)
 ---
 - **Recant** - disavow 
 - **Obviate** - preclude (e.g. the newfound medical treatment obviates the need for surgery)
@@ -75,4 +75,5 @@
 - **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
 - **Thaw**
 - **Take to**
-
+- **Flout** - treating with contemptuous disregard (e.g. flouting the rules; an able-bodied motorist proudly flouted the law and parked in a space reserved for the disabled)
+- **Overhaul** 

@@ -50,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Medicine management tips.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -90,8 +90,29 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bce997547dd9c50",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "85ba82b3028e5c61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine quick notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -165,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Quotes.md",
+            "file": "Medicine quick notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Quotes.md",
+            "file": "Medicine quick notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -194,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Quotes.md"
+            "file": "Medicine quick notes.md"
           }
         }
       }
@@ -211,10 +232,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "52df15d457531a41",
+  "active": "85ba82b3028e5c61",
   "lastOpenFiles": [
-    "English.md",
     "Medicine management tips.md",
+    "Medicine quick notes.md",
+    "English.md",
     "Quotes.md",
     "Paedi drug dosages.md",
     "Medicine MCQs.md",
