@@ -77,3 +77,5 @@
 - **Take to**
 - **Flout** - treating with contemptuous disregard (e.g. flouting the rules; an able-bodied motorist proudly flouted the law and parked in a space reserved for the disabled)
 - **Overhaul** 
+- **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory abstruse)
+- **Recondite** - abstruse (e.g. it is indeed a recondite matter)

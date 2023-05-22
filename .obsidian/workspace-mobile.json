@@ -112,7 +112,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -186,7 +186,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine quick notes.md",
+            "file": "English.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +203,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Medicine quick notes.md",
+            "file": "English.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +215,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Medicine quick notes.md"
+            "file": "English.md"
           }
         }
       }
@@ -232,10 +232,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ba82b3028e5c61",
+  "active": "85bb5d382651eacd",
   "lastOpenFiles": [
-    "Medicine management tips.md",
     "Medicine quick notes.md",
+    "Medicine management tips.md",
     "English.md",
     "Quotes.md",
     "Paedi drug dosages.md",
