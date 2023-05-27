@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "ad68834ddd0d35ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy curriculum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ce3e0b5d275750c3",
             "type": "leaf",
             "state": {
@@ -62,7 +50,7 @@
               "type": "markdown",
               "state": {
                 "file": "Medicine MCQs.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -89,14 +77,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "5bce997547dd9c50",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           },
           {
@@ -186,7 +166,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English.md",
+            "file": "Medicine quick notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -203,7 +183,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English.md",
+            "file": "Medicine quick notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -215,7 +195,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English.md"
+            "file": "Medicine quick notes.md"
           }
         }
       }
@@ -232,18 +212,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85bb5d382651eacd",
+  "active": "85ba82b3028e5c61",
   "lastOpenFiles": [
-    "Medicine quick notes.md",
-    "Medicine management tips.md",
     "English.md",
-    "Quotes.md",
     "Paedi drug dosages.md",
-    "Medicine MCQs.md",
     "Philosophy curriculum.md",
-    "BCS updates.md",
-    "Admission review.md",
+    "Medicine management tips.md",
+    "Medicine MCQs.md",
     "Letter.md",
+    "Medicine quick notes.md",
+    "Quotes.md",
+    "BCS updates.md",
+    "Climate.md",
+    "Admission review.md",
     "Paedi medicine guidelines"
   ]
 }

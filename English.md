@@ -76,6 +76,9 @@
 - **Thaw**
 - **Take to**
 - **Flout** - treating with contemptuous disregard (e.g. flouting the rules; an able-bodied motorist proudly flouted the law and parked in a space reserved for the disabled)
-- **Overhaul** 
+- **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an *overhaul* of the BCS exam process)
 - **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory abstruse)
 - **Recondite** - abstruse (e.g. it is indeed a recondite matter)
+- **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
+- *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm***
+- 
