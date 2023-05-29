@@ -1,108 +1,31 @@
 {
   "main": {
-    "id": "720f1e498906dd69",
+    "id": "e194e73609392d10",
     "type": "split",
     "children": [
       {
-        "id": "c830a4db8d5762e7",
+        "id": "3159b747de071cce",
         "type": "tabs",
         "children": [
           {
-            "id": "52df15d457531a41",
+            "id": "e71e9642236cd154",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Quotes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a4c434a72d728c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Paedi drug dosages.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce3e0b5d275750c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine management tips.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6229c534398acc98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine MCQs.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a1b5a16be8805bbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BCS updates.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85bb5d382651eacd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "85ba82b3028e5c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine quick notes.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f0dd14cecf42dd4f",
+    "id": "d0e33e9f8d859209",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "a366e18b21acc51e",
+        "id": "bbd8a1b339d21e09",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -112,7 +35,7 @@
         }
       },
       {
-        "id": "9dc0cc4318670ace",
+        "id": "d890b759c06f2fc7",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -127,7 +50,7 @@
         }
       },
       {
-        "id": "7a41c39dc1815eb2",
+        "id": "b07b192c8285c0a4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -138,15 +61,7 @@
         }
       },
       {
-        "id": "faac4b0f2a06343c",
-        "type": "leaf",
-        "state": {
-          "type": "starred",
-          "state": {}
-        }
-      },
-      {
-        "id": "9a79409bb21ec79e",
+        "id": "538921dc789d6983",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -157,16 +72,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "af65a2df3bb5bf2a",
+    "id": "286a62f4544f1a12",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "523f8e8e5553b045",
+        "id": "2ba02785501d1eb4",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Medicine quick notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,25 +92,22 @@
         }
       },
       {
-        "id": "64ef8ff75c19df05",
+        "id": "b8b9d81de1578f06",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Medicine quick notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "2e8f689d8feede79",
+        "id": "105657b9a9709a7e",
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Medicine quick notes.md"
-          }
+          "state": {}
         }
       }
     ],
@@ -212,19 +123,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "85ba82b3028e5c61",
-  "lastOpenFiles": [
-    "English.md",
-    "Paedi drug dosages.md",
-    "Philosophy curriculum.md",
-    "Medicine management tips.md",
-    "Medicine MCQs.md",
-    "Letter.md",
-    "Medicine quick notes.md",
-    "Quotes.md",
-    "BCS updates.md",
-    "Climate.md",
-    "Admission review.md",
-    "Paedi medicine guidelines"
-  ]
+  "active": "e71e9642236cd154",
+  "lastOpenFiles": []
 }

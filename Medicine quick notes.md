@@ -35,3 +35,21 @@
 		- 4+0+0 -> 2 months, then
 	- Tab. Rimstar 2FDC
 		- 4+0+0 -> 4 months
+- Nitrofurantoin => severely nauseating; always prescribe with an antiemetic
+- **COX-1 vs COX-2**:
+	- COX-1: 
+			- *Constitutively expressed* by GI mucosa
+			- *Mucosal integrity, platelet aggregation, renal blood flow* => nonselective NSAIDs (e.g. naproxen, ibuprofen, diclofenac) are GI and nephro toxic.
+	- COX-2:
+		- *Induced by cytokines*
+		- *Pain, inflammation*
+		- GI and renal risk ↓↓ => etoricoxin, celecoxib safest 
+- Antidote of ***rivaroxaban*** => ***andexanet alpha***
+- Antidote of ***dabigatran*** => ***idarucizumab***
+- **Rhythm control in AF**
+	- Immediate cardioversion if AF < 48h
+		- IV flecainide (2 mg/kg, max 150 mg, over 30 mins)
+	- Else, defer cardioversion until patient has been on 4 weeks of anticoagulant and underlying problem e.g. htn has been corrected (as intracardiac clots may have formed by 48h)
+	- Anticoagulation should be started ≥ 4 weeks before and ≥ 3 months after cardioversion
+
+

@@ -107,3 +107,53 @@ $$(-\frac{\hbar^2}{2m}\nabla^2 +U(x,y,z))\;\Psi(x,y,z) = i\hbar \frac{\partial}{
     - Alcet 5 mg - 0+0+1 - 10d
 - Viral =>
     - Drylief E/D => 1 drop TDS - 7d
+
+## DKA
+### Diagnosis 
+- RBS > 11 mmol/L (usually > 14)
+- Blood ketone bodies > 3 mmol/L
+- Urinary ketone bodies > 2+
+- Kussmaul breathing
+	- Deep breaths with normal respiratory rate
+- Acetone breath
+- Nausea, vomiting, hypotension
+
+### Management
+- Problems that need to be solved:
+	- Hyperglycaemia
+	- Hypovolaemia (100mL/kg fluid loss -> ≈ 6-7L in average adult)
+	- Hypokalaemia: arises from the insulin pumped into the body for correcting the hyperglycaemia 
+#### **Fluid**
+<table>
+<tr>
+<td> SBP < 90 mmHg </td>
+<td> <ul> <li> Inf. NS (500mL) running in 15 mins (repeat up to twice; if not responding then ICU) </li> </ul>
+</td>
+</tr>
+<tr>
+<td> SBP > 90 mmHg </td>
+<td> 
+	<ul>
+		<li> Inf. NS (1L) in 1h </li>
+		<li> Inf. NS (1L) in 2h (twice) </li>
+		<li> Inf. NS (1L) in 4h (twice) </li>
+		<li> Inf. NS (1L) in 6h </li>
+	</ul>
+</td>
+</tr>
+</table>
+
+#### **Insulin**
+
+- Inf. NS (100 mL) + 50 IU Maxsulin-R => infuse @ 0.1 U/kg/h ≈ 15 microdrops/min
+- Add 10% DA 125 mL/hr IV when glucose < 14 mmol/L
+
+#### **Potassium**
+|||
+|---|---|
+|K > 5.5 mmol/L|No supplementation needed|
+|K within 3.5 - 5.5 mmol/L | Inj. KT 40 mmol/L (2 amps) in 2nd litre of fluid |
+|K < 3.5 mmol/L | Senior review |
+
+
+

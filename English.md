@@ -79,6 +79,8 @@
 - **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an *overhaul* of the BCS exam process)
 - **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory abstruse)
 - **Recondite** - abstruse (e.g. it is indeed a recondite matter)
+<<<<<<< HEAD
 - **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
 - *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm***
-- 
+- **The ominous drumbeats grew louder**
+- **Jaded** - fatigued by overwork (e.g. *a jaded medical student*) / made apathetic by seeing too much of something (e.g. *he became jaded from years of work as a police officer*)
