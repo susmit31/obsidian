@@ -16,10 +16,35 @@
                 "file": "English.md",
                 "mode": "source",
                 "source": false
+             }
+                "file": "Medicine management tips.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90f662788ace7475",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "be9c1d12240992bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "International relations.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "English.md",
+            "file": "International relations.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "English.md",
+            "file": "International relations.md"
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "English.md"
+            "file": "International relations.md"
           }
         }
       }
@@ -145,5 +170,10 @@
     "Climate.md",
     "Admission review.md",
     "Paedi medicine guidelines"
+    "International relations.md",
+    "Medicine management tips.md",
+    "Medicine quick notes.md",
+    "Medicine MCQs.md",
+    "English.md"
   ]
 }
