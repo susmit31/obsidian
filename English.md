@@ -75,12 +75,21 @@
 - **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
 - **Thaw**
 - **Take to**
-- **Flout** - treating with contemptuous disregard (e.g. flouting the rules; an able-bodied motorist proudly flouted the law and parked in a space reserved for the disabled)
+- **Flout** - treating with contemptuous disregard (e.g. ***flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
+---
+
 - **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an *overhaul* of the BCS exam process)
 - **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory abstruse)
 - **Recondite** - abstruse (e.g. it is indeed a recondite matter)
-<<<<<<< HEAD
 - **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
+---
 - *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm***
 - **The ominous drumbeats grew louder**
-- **Jaded** - fatigued by overwork (e.g. *a jaded medical student*) / made apathetic by seeing too much of something (e.g. *he became jaded from years of work as a police officer*)
+- **Jaded** - fatigued by overwork (e.g. *a **jaded** medical student*) / made apathetic by seeing too much of something (e.g. *he became **jaded** from years of work as a police officer*)
+---
+- **Squalid** - sordid (e.g. *the family lived in **squalid** conditions*)
+- **Bad patch** -> *The president of the FBCCI said that businesses are going through a **bad patch** for multiple factors*
+- **Levy** - impose or collect by legal authority (e.g. *the government **levied** a tax on gasoline*) / the amount levied (e.g. *the government imposed a **levy** on gasoline*)
+- **Rescind** - abrogate (e.g. ***rescind** an act/contract*)
+- **Repeal** - rescind by authority (e.g. *the 15th amendment **repealed** the 13th, thus making an interim caretaker government unconstitutional*)
+---
