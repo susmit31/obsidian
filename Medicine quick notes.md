@@ -51,5 +51,25 @@
 		- IV flecainide (2 mg/kg, max 150 mg, over 30 mins)
 	- Else, defer cardioversion until patient has been on 4 weeks of anticoagulant and underlying problem e.g. htn has been corrected (as intracardiac clots may have formed by 48h)
 	- Anticoagulation should be started ≥ 4 weeks before and ≥ 3 months after cardioversion
+- ***VERTIGO***
+	- *Episodic?* -> 
+		- *Deafness, tinnitus? *-> Meniere's
+		- *Positional change?* ->
+			- BPPV
+			- Postural hypotension
+		- *Headache, nausea vomiting?* -> Migraine
+		- *Drugs* -> antihtn, antidepressant
+		- *Palpitations?* -> Arrhythmia
+		- *DM + missed meals?* -> Hypoglycaemia 
+		- *Motion?* -> motion sickness
+	- *Constant?* ->
+		- *Acute onset?* ->
+			- *Severe vomiting?* -> intracerebral haemorrhage 
+			- Labyrinthitis
+			- Vestibular neuritis
+		- *Gradual onset?* ->
+			- MS
+			- CP angle tumour (e.g. acoustic neuroma)
+
 
 

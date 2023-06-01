@@ -1,60 +1,72 @@
 {
   "main": {
-    "id": "e194e73609392d10",
+    "id": "b1d729565b719a1a",
     "type": "split",
     "children": [
       {
-        "id": "3159b747de071cce",
+        "id": "229bf8e6a2b56a06",
         "type": "tabs",
         "children": [
           {
-            "id": "e71e9642236cd154",
+            "id": "f897d342c901406f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "English.md",
-                "mode": "source",
-                "source": false
-             }
-                "file": "Medicine management tips.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "90f662788ace7475",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "be9c1d12240992bb",
+            "id": "2bf08653ed3242fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "International relations.md",
+                "file": "Medicine quick notes.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "336a6b6fe8ea2681",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine MCQs.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "496cd22eb4cb3a51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Medicine management tips.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d0e33e9f8d859209",
+    "id": "d028fe1218cc397d",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "bbd8a1b339d21e09",
+        "id": "989f71b6b1b361a8",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -64,7 +76,7 @@
         }
       },
       {
-        "id": "d890b759c06f2fc7",
+        "id": "48d052bd178f0279",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -79,7 +91,7 @@
         }
       },
       {
-        "id": "b07b192c8285c0a4",
+        "id": "405041378ba11df4",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -90,7 +102,7 @@
         }
       },
       {
-        "id": "538921dc789d6983",
+        "id": "32ab86c513374a11",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -101,16 +113,16 @@
     "currentTab": 0
   },
   "right": {
-    "id": "286a62f4544f1a12",
+    "id": "58025a78495dac65",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2ba02785501d1eb4",
+        "id": "876b07e880ec5f89",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "International relations.md",
+            "file": "Medicine quick notes.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,24 +134,24 @@
         }
       },
       {
-        "id": "b8b9d81de1578f06",
+        "id": "09c9862c6e690184",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "International relations.md"
+            "file": "Medicine quick notes.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
         }
       },
       {
-        "id": "105657b9a9709a7e",
+        "id": "bf79c31c6d55167b",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "International relations.md"
+            "file": "Medicine quick notes.md"
           }
         }
       }
@@ -156,24 +168,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e71e9642236cd154",
+  "active": "2bf08653ed3242fa",
   "lastOpenFiles": [
-    "Medicine quick notes.md",
-    "English.md",
-    "Paedi drug dosages.md",
-    "Philosophy curriculum.md",
     "Medicine management tips.md",
     "Medicine MCQs.md",
-    "Letter.md",
-    "Quotes.md",
-    "BCS updates.md",
-    "Climate.md",
-    "Admission review.md",
-    "Paedi medicine guidelines"
-    "International relations.md",
-    "Medicine management tips.md",
     "Medicine quick notes.md",
-    "Medicine MCQs.md",
     "English.md"
   ]
 }
