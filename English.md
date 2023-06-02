@@ -93,6 +93,7 @@
 - **Rescind** - abrogate (e.g. ***rescind** an act/contract*)
 - **Repeal** - rescind by authority (e.g. *the 15th amendment **repealed** the 13th, thus making an interim caretaker government unconstitutional*)
 ---
+
 - **Accession** ->
 	- *The **accession** of the new Queen.*
 	- *The politician's **accession** to power.*
@@ -101,3 +102,5 @@
 - **Wishy-washy**: ineffective (e.g. *a **wishy-washy** leadership*)
 - *Budget support from development partners is not a guarantee, so should he decide to borrow from the central bank during the course of the fiscal year to **plug the holes in the books**, it would be catastrophic, as it would **fan the inflationary flames** even further*.
 - *In the face of soaring prices, people far and wide are struggling to **keep their heads above water***.
+---
+- **Sweltering** - insanely hot temperatures (e.g. *the **sweltering** heat made it unbearable*)
