@@ -78,8 +78,8 @@
 - **Flout** - treating with contemptuous disregard (e.g. ***flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
 ---
 
-- **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an *overhaul* of the BCS exam process)
-- **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory abstruse)
+- **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an ***overhaul*** of the BCS exam process)
+- **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory ***abstruse***)
 - **Recondite** - abstruse (e.g. it is indeed a recondite matter)
 - **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
 ---
@@ -93,3 +93,11 @@
 - **Rescind** - abrogate (e.g. ***rescind** an act/contract*)
 - **Repeal** - rescind by authority (e.g. *the 15th amendment **repealed** the 13th, thus making an interim caretaker government unconstitutional*)
 ---
+- **Accession** ->
+	- *The **accession** of the new Queen.*
+	- *The politician's **accession** to power.*
+- **Toast**: someone highly admired (e.g. *she's the **toast** of our school*. *Bangladesh's impressive campaign against poverty has made it the **toast** of the developing nations*.)
+- **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile***)
+- **Wishy-washy**: ineffective (e.g. *a **wishy-washy** leadership*)
+- *Budget support from development partners is not a guarantee, so should he decide to borrow from the central bank during the course of the fiscal year to **plug the holes in the books**, it would be catastrophic, as it would **fan the inflationary flames** even further*.
+- *In the face of soaring prices, people far and wide are struggling to **keep their heads above water***.
