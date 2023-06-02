@@ -70,6 +70,5 @@
 		- *Gradual onset?* ->
 			- MS
 			- CP angle tumour (e.g. acoustic neuroma)
-
-
-
+- **Htn urgency**: > 180/120 w/o end organ damage
+- **Htn emergency**: > 180/120 with end organ damage

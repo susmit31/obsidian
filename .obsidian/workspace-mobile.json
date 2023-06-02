@@ -1,72 +1,35 @@
 {
   "main": {
-    "id": "b1d729565b719a1a",
+    "id": "62fc751a562ad110",
     "type": "split",
     "children": [
       {
-        "id": "229bf8e6a2b56a06",
+        "id": "0f74f17c077d9ee1",
         "type": "tabs",
         "children": [
           {
-            "id": "f897d342c901406f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2bf08653ed3242fa",
+            "id": "8c7173f9eab9d4f0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Medicine quick notes.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "336a6b6fe8ea2681",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine MCQs.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "496cd22eb4cb3a51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Medicine management tips.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d028fe1218cc397d",
+    "id": "1b6b6a89a712a6a7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "989f71b6b1b361a8",
+        "id": "4fe4f6980ffeb8b5",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -76,7 +39,7 @@
         }
       },
       {
-        "id": "48d052bd178f0279",
+        "id": "fee31a61c65c77cf",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -91,7 +54,7 @@
         }
       },
       {
-        "id": "405041378ba11df4",
+        "id": "c5bdea8456cb5498",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -102,7 +65,7 @@
         }
       },
       {
-        "id": "32ab86c513374a11",
+        "id": "e9ade8bd1f461f3e",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -113,11 +76,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "58025a78495dac65",
+    "id": "ca5c8d157005c9b4",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "876b07e880ec5f89",
+        "id": "6bdb03221666e595",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -134,7 +97,7 @@
         }
       },
       {
-        "id": "09c9862c6e690184",
+        "id": "76d409c979067db0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -146,7 +109,7 @@
         }
       },
       {
-        "id": "bf79c31c6d55167b",
+        "id": "56585b8342c50db7",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -168,11 +131,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2bf08653ed3242fa",
-  "lastOpenFiles": [
-    "Medicine management tips.md",
-    "Medicine MCQs.md",
-    "Medicine quick notes.md",
-    "English.md"
-  ]
+  "active": "8c7173f9eab9d4f0",
+  "lastOpenFiles": []
 }
