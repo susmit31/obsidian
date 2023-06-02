@@ -100,7 +100,20 @@
 - **Toast**: someone highly admired (e.g. *she's the **toast** of our school*. *Bangladesh's impressive campaign against poverty has made it the **toast** of the developing nations*.)
 - **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile***)
 - **Wishy-washy**: ineffective (e.g. *a **wishy-washy** leadership*)
+---
 - *Budget support from development partners is not a guarantee, so should he decide to borrow from the central bank during the course of the fiscal year to **plug the holes in the books**, it would be catastrophic, as it would **fan the inflationary flames** even further*.
 - *In the face of soaring prices, people far and wide are struggling to **keep their heads above water***.
----
 - **Sweltering** - insanely hot temperatures (e.g. *the **sweltering** heat made it unbearable*)
+- **Fell** - cutting down (e.g. *I've **felled** many trees in the past, but I am willing to atone for my sins*)
+---
+
+- **Umpteenth** - latest in a series of many (e.g. *I've failed a job entrance test for the **umpteenth** time*)
+- **Shut the stable door once the horse has bolted** - taking action against sth after that event has already occurred (e.g. *starting to prepare for the 45th preliminary 1 week before was like **shutting the stable door after the horse had bolted***)
+- **Wade through** - proceed with difficulty (e.g. *It took a painstaking few months, but I managed to **wade through** a large chunk of the syllabus*)
+---
+- **Wade into** - set to work with vigour and determination (e.g. *Even though I was fearful at first, I **waded into** the daunting world of job hunting*)
+- **Deft** - skillful (e.g. *The software engineer's **deft** use of C to create such a great piece of software speaks volumes about his ability*)
+- **Rake** - gathering as if by a rake (e.g. *soaring production costs hasn't stopped big companies from **raking in** stockpiles of profit*)
+- 
+
+
