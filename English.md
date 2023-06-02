@@ -114,6 +114,8 @@
 - **Wade into** - set to work with vigour and determination (e.g. *Even though I was fearful at first, I **waded into** the daunting world of job hunting*)
 - **Deft** - skillful (e.g. *The software engineer's **deft** use of C to create such a great piece of software speaks volumes about his ability*)
 - **Rake** - gathering as if by a rake (e.g. *soaring production costs hasn't stopped big companies from **raking in** stockpiles of profit*)
-- 
-
-
+---
+- **Scrupulous** - conscientious (e.g. *the **unscrupulous** traders have deliberately hiked up the prices yet again*)
+- **Surge**
+	- To rise and fall actively (e.g. *the ship was **surging** in heavy seas. The sea was **surging**.*)
+	- Rising suddenly to an unexpected value (e.g. *the stock market **surged** to a record high*)
