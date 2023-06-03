@@ -119,3 +119,14 @@
 - **Surge**
 	- To rise and fall actively (e.g. *the ship was **surging** in heavy seas. The sea was **surging**.*)
 	- Rising suddenly to an unexpected value (e.g. *the stock market **surged** to a record high*)
+- **Abet** - assist (e.g. *Is inflation being **aided and abetted** by price-gouging?*)
+- **Single out** - choose from many for special treatment (praise or criticism) (e.g. *As the toppef of the class, Galib was often **singled out** for special opportunities*)
+---
+- **Price cap** - the upper limit set by a government on the price of something (e.g. )
+- **Windfall** - something blown down by the wind / a fortuitous gain (e.g. *Large corporations use supply problems as an opportunity to scoop **windfall** profits*)
+- **Austerity**
+	- Sternness (e.g. *the **austerity** of his manner*)
+	- Plainness (e.g. *the **austerity** of the design*)
+	- Extreme economy (e.g. *he had to live through the post-war years of **austerity**. The government could target specific prices that drive inflation instead of moving to **austerity** which risks a recession.*)
+---
+
