@@ -75,7 +75,7 @@
 - **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
 - **Thaw**
 - **Take to**
-- **Flout** - treating with contemptuous disregard (e.g. ***flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
+- **Flout** - treating with contemptuous disregard (e.g.* **flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
 ---
 
 - **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an ***overhaul*** of the BCS exam process)
@@ -83,32 +83,32 @@
 - **Recondite** - abstruse (e.g. it is indeed a recondite matter)
 - **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
 ---
-- *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm***
+- *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm** *
 - **The ominous drumbeats grew louder**
 - **Jaded** - fatigued by overwork (e.g. *a **jaded** medical student*) / made apathetic by seeing too much of something (e.g. *he became **jaded** from years of work as a police officer*)
 ---
 - **Squalid** - sordid (e.g. *the family lived in **squalid** conditions*)
 - **Bad patch** -> *The president of the FBCCI said that businesses are going through a **bad patch** for multiple factors*
 - **Levy** - impose or collect by legal authority (e.g. *the government **levied** a tax on gasoline*) / the amount levied (e.g. *the government imposed a **levy** on gasoline*)
-- **Rescind** - abrogate (e.g. ***rescind** an act/contract*)
+- **Rescind** - abrogate (e.g. * **rescind** an act/contract*)
 - **Repeal** - rescind by authority (e.g. *the 15th amendment **repealed** the 13th, thus making an interim caretaker government unconstitutional*)
 ---
 
-- **Accession** ->
+- **Accession**
 	- *The **accession** of the new Queen.*
 	- *The politician's **accession** to power.*
 - **Toast**: someone highly admired (e.g. *she's the **toast** of our school*. *Bangladesh's impressive campaign against poverty has made it the **toast** of the developing nations*.)
-- **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile***)
+- **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile** *)
 - **Wishy-washy**: ineffective (e.g. *a **wishy-washy** leadership*)
 ---
 - *Budget support from development partners is not a guarantee, so should he decide to borrow from the central bank during the course of the fiscal year to **plug the holes in the books**, it would be catastrophic, as it would **fan the inflationary flames** even further*.
-- *In the face of soaring prices, people far and wide are struggling to **keep their heads above water***.
+- *In the face of soaring prices, people far and wide are struggling to **keep their heads above water**.*
 - **Sweltering** - insanely hot temperatures (e.g. *the **sweltering** heat made it unbearable*)
 - **Fell** - cutting down (e.g. *I've **felled** many trees in the past, but I am willing to atone for my sins*)
 ---
 
 - **Umpteenth** - latest in a series of many (e.g. *I've failed a job entrance test for the **umpteenth** time*)
-- **Shut the stable door once the horse has bolted** - taking action against sth after that event has already occurred (e.g. *starting to prepare for the 45th preliminary 1 week before was like **shutting the stable door after the horse had bolted***)
+- **Shut the stable door once the horse has bolted** - taking action against sth after that event has already occurred (e.g. *starting to prepare for the 45th preliminary 1 week before was like **shutting the stable door after the horse had bolted** *)
 - **Wade through** - proceed with difficulty (e.g. *It took a painstaking few months, but I managed to **wade through** a large chunk of the syllabus*)
 ---
 - **Wade into** - set to work with vigour and determination (e.g. *Even though I was fearful at first, I **waded into** the daunting world of job hunting*)
@@ -120,7 +120,7 @@
 	- To rise and fall actively (e.g. *the ship was **surging** in heavy seas. The sea was **surging**.*)
 	- Rising suddenly to an unexpected value (e.g. *the stock market **surged** to a record high*)
 - **Abet** - assist (e.g. *Is inflation being **aided and abetted** by price-gouging?*)
-- **Single out** - choose from many for special treatment (praise or criticism) (e.g. *As the toppef of the class, Galib was often **singled out** for special opportunities*)
+- **Single out** - choose from many for special treatment (praise or criticism) (e.g. *As the topper, Galib was often **singled out** for special opportunities*)
 ---
 - **Price cap** - the upper limit set by a government on the price of something (e.g. )
 - **Windfall** - something blown down by the wind / a fortuitous gain (e.g. *Large corporations use supply problems as an opportunity to scoop **windfall** profits*)
@@ -129,4 +129,23 @@
 	- Plainness (e.g. *the **austerity** of the design*)
 	- Extreme economy (e.g. *he had to live through the post-war years of **austerity**. The government could target specific prices that drive inflation instead of moving to **austerity** which risks a recession.*)
 ---
+
+- **Sideline** - putting out of action (e.g. *the US and the UK helped the Shah of Iran out when a left-leaning government was trying to **sideline** him*)
+- **Embroil** - involving in conflict etc (e.g. *his opinion on the theory has **embroiled him in** controversy*)
+- **Dissident** - deviating from commonly accepted beliefs (e.g. *political **dissidents** were tortured atrociously during his regime*)
+- **Pariah** - outcast
+- **Fray** - a fight involving many (e.g. *he entered the political **fray** *)
+---
+- **Recount** - give an account of an event (e.g. *US secretary of state John Kerry **recounted** his horrid experience of the Vietnam war*)
+- **Punitive** - aiming at punishment (e.g. *we must ensure **punitive** measures against sexual predators like Anarul*)
+- **Rapprochement** - rapport (e.g. *through judicious diplomacy, the arch-enemies found a way to **rapprochement** *)
+- **Eclectic** - heterogeneous (e.g. *the book contains an **eclectic** collection of thought-provoking essays*)
+- **Riveting** - holding sb's attention completely (e.g. *the secretary shared a **riveting** account of how diplomacy has helped shape the world we live in*)
+---
+
+- **Discern** - detect (e.g.* **Discern** right from wrong. I **discerned** a strange odour.*)
+- **Half-baked** - poorly done (e.g. *a **half-baked** research*)
+- *He has helped establish a political climate where the **knee-jerk response** to any predicament is costly government intervention.*
+- *This has been **little short of** disastrous*
+- 
 
