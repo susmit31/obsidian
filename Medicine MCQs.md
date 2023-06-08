@@ -22,4 +22,7 @@
 - **Sarcoidsosis** => BHL (bilateral hilar lymphadenopathy) + EN (erythema nodosum)
 	- Other features: ↑ S. ACE, hypercalcaemia, hypercalciuria 
 	- Very important to exclude TB and lymphoma 
-- Atrophic glossitis => IDA, B12 deficiency
+- **Atrophic glossitis** => IDA, B12 deficiency
+- **RA in pregnancy**
+	- ***DMARDs***
+		- *Can be used*: 

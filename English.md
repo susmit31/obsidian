@@ -147,5 +147,21 @@
 - **Half-baked** - poorly done (e.g. *a **half-baked** research*)
 - *He has helped establish a political climate where the **knee-jerk response** to any predicament is costly government intervention.*
 - *This has been **little short of** disastrous*
+- **Discretionary** - left to one's own judgment (e.g. *inflation causes us to purchase **discretionary goods** at higher prices*)
+---
+- **Play ducks and drakes with** - squander / treat frivolously (e.g. *he played **ducks and drakes with** his money*. *No evil force can **play ducks and drakes with** the people of Bangladesh*)
+- **Jeer at** - mock (e.g. *Leo Messi was **jeered at** during his last match for PSG*)
+- *The legacy of cold-war style thinking still **looms large** in contemporary analyses*
+- **Prescience** - foresight
+- **Détente** - relaxation of tensions between nations (e.g. *diplomats brokering a **détente** *)
+---
+- **Embargo** - legal prohibition on commerce (e.g. *a trade **embargo** *)
+- **Prosaic** - ordinary / **cut and dry** / **run of the mill** (e.g. *heroic characters wasted in **prosaic** lives*)
+- **Arrear** - an unfinished duty (e.g. *He was **in arrears** with the rent* (i.e. unable to pay the rent). ***Arrears** of work have piled up*.)
+- **Pass the buck** - shifting responsibility to someone else (e.g. *stop trying to **pass the buck** and take responsibility for your actions*)
+---
+- **Quiver**
+	- a case for holding arrows (e.g. *a **quiver** of arrows*)
+	- shiver 
+- **Thaw**
 - 
-

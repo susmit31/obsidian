@@ -52,7 +52,7 @@
 	- Else, defer cardioversion until patient has been on 4 weeks of anticoagulant and underlying problem e.g. htn has been corrected (as intracardiac clots may have formed by 48h)
 	- Anticoagulation should be started ≥ 4 weeks before and ≥ 3 months after cardioversion
 - ***VERTIGO***
-	- *Episodic?* -> 
+	- <u>*Episodic?*</u> -> 
 		- *Deafness, tinnitus? *-> Meniere's
 		- *Positional change?* ->
 			- BPPV
@@ -62,7 +62,7 @@
 		- *Palpitations?* -> Arrhythmia
 		- *DM + missed meals?* -> Hypoglycaemia 
 		- *Motion?* -> motion sickness
-	- *Constant?* ->
+	- <u>*Constant?*</u> ->
 		- *Acute onset?* ->
 			- *Severe vomiting?* -> intracerebral haemorrhage 
 			- Labyrinthitis
@@ -72,3 +72,20 @@
 			- CP angle tumour (e.g. acoustic neuroma)
 - **Htn urgency**: > 180/120 w/o end organ damage
 - **Htn emergency**: > 180/120 with end organ damage
+- **Gout**
+	- <u>*Acute flare*</u>
+		- Tab. Colchicine 0.5 $\rightarrow$ 2-4 times daily PLUS
+		- Tab. Cortan 20 $\rightarrow$ OD, A/M, 3 days
+		- Local ice packs
+	- <u>*Prophylaxis*</u>
+		- Recommended *if*
+			- ≥ 2 flares in 12 months OR
+			- Tophi
+		- Target: SUA < 5 mg/dL
+		- Tab. Allurol 100 $\rightarrow$ 
+			- Start OD, A/M (if old/ckd, 50mg OD)
+			- 4 wkly add 100 mg until target SUA OR 900mg daily
+	- <u>*Advice*</u>
+		- $\downarrow$ weight, $\downarrow$ alcohol
+		- Avoid uraemic drugs: thiazide, ACEi, $\beta$-b
+		- Add uricosuric drugs: losartan
