@@ -164,4 +164,7 @@
 	- a case for holding arrows (e.g. *a **quiver** of arrows*)
 	- shiver 
 - **Thaw**
+- **Under somebody's nose** - right in front of sb (e.g. *my phone got stolen from ***right under my nose** *)
+- **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
+- *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 - 
