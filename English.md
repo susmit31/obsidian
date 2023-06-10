@@ -167,4 +167,6 @@
 - **Under somebody's nose** - right in front of sb (e.g. *my phone got stolen from ***right under my nose** *)
 - **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
+---
+- **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
 - 
