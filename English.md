@@ -164,7 +164,27 @@
 	- a case for holding arrows (e.g. *a **quiver** of arrows*)
 	- shiver 
 - **Thaw**
-- **Under somebody's nose** - right in front of sb (e.g. *my phone got stolen from ***right under my nose** *)
+- **Under somebody's nose** - right in front of sb (e.g. *my phone got stolen from **right under my nose** *)
 - **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
-- 
+---
+- **To this end** - to achieve sth (e.g. *I wanted to get cured, and so looked for the best doctor around **to this end** *)
+- ***A practice that's becoming the norm***
+- **Ill-conceived**
+- **Precarious** - dependent on chance circumstances (e.g. *he earns a **precarious** living as a garbage collector / sanitation worker*. *Life is **precarious**, but always **tenacious**.*)
+- *Mismanagement and irregularities **plaguing** our development projects*
+- *Development projects being **stalled halfway** *
+---
+- **Mutatis mutandis** - having made the necessary changes (e.g. *the same can be said, **mutatis mutandis**, in the case of Bangladesh's development projects*)
+- ***Ever widening gulf between the promises of development and the reality***
+- **Disgruntled** - annoyed (e.g. *the **disgruntled** patient absconded from the hospital*)
+- **Coffer** - treasury/funds (e.g. *unnecessary construction projects are gobbling up **public coffers** *)
+- **Guzzle** - consume / use up (e.g. *megaprojects of this government have mostly been **money guzzlers** thanks to corruption and mismanagement*).
+---
+- *Citizen welfare makes for **good lip service** only*
+- *The situation in other sectors is no less **dystopian** k
+
+
+
+
+
