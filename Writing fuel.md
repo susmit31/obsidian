@@ -3,3 +3,7 @@
 
 ## Power crisis
 - 153 power plants in total, 49 fully operational, 51
+
+## Ukraine
+- How did the Russia-Ukraine war trigger a global food crisis? https://www.aljazeera.com/economy/2022/6/18/explainer-how-did-russia-ukraine-war-trigger-a-food-crisis
+- 

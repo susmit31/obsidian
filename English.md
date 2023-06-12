@@ -168,8 +168,15 @@
 - **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 ---
+
+- **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
+- **Act out**
+	- Translating into action (e.g. *they were unwilling to **act out** their beliefs*)
+	- To behave badly to express pent-up painful emotions such as fear or anger (e.g. *the children are **acting out** as they don't understand why they have to go through the war*)
 - **To this end** - to achieve sth (e.g. *I wanted to get cured, and so looked for the best doctor around **to this end** *)
 - ***A practice that's becoming the norm***
+---
+
 - **Ill-conceived**
 - **Precarious** - dependent on chance circumstances (e.g. *he earns a **precarious** living as a garbage collector / sanitation worker*. *Life is **precarious**, but always **tenacious**.*)
 - *Mismanagement and irregularities **plaguing** our development projects*
@@ -182,9 +189,22 @@
 - **Guzzle** - consume / use up (e.g. *megaprojects of this government have mostly been **money guzzlers** thanks to corruption and mismanagement*).
 ---
 - *Citizen welfare makes for **good lip service** only*
-- *The situation in other sectors is no less **dystopian** k
-
-
-
-
-
+- *The situation in other sectors is no less **dystopian** *
+- **Encumber** - burden (e.g. *tourists **encumbered** by heavy luggage*. *Negotiations **encumbered** by lack of trust*)
+- **In cahoots** - working together (e.g. *shadowy characters **in cahoots** who work their secret ends until intrepid reporting flushes them out*. *Turns out the doctor was working **in cahoots with** the diagnostic centre.*)
+- **Cogent** - convincing (e.g. *a **cogent** analysis*)
+---
+- **Recourse** - resort (e.g. *they settled the dispute without **recourse** to law*)
+- **Profusion** - lavishness / extravagance / prodigality (e.g. *flowers grow in **profusion** in this valley*)
+- **Draconian** - cruel (e.g. *China's **Draconian** measures to contain covid was duly criticised*)
+- **Capricious** - fickle / unsteady / impulsive (e.g. *the game of Cricket was at the mercy of a **capricious** weather*)
+- **Offhand** - extempore (e.g. *the economist couldn't give the figures **offhand** during the interview*)
+---
+- **Glib** - showing little forethought / lacking depth or substance (e.g. *the current media environment rewards **glib** predictions delivered with certainty more than thoughtful analyses*)
+- **Pivot / turn on a dime** - change direction quickly (e.g. *economists these days make **glib** predictions, turn out to be wrong, **pivot on a dime** and move on to making another prediction*)
+- **Purvey** - supply (e.g. *a shop **purveying** handmade merchandise*)
+---
+- **Debase** - lowering in status (e.g. *he **debased** himself by lying*)
+- **Modicum** - a small portion (e.g. *only a **modicum** of skill is needed to assemble the kit*)
+- **Verbiage** - a profusion of words of little substance (e.g. *such a **tangled maze of evasive verbiage** *)
+- **Ambit**

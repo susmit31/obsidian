@@ -89,3 +89,41 @@
 		- $\downarrow$ weight, $\downarrow$ alcohol
 		- Avoid uraemic drugs: thiazide, ACEi, $\beta$-b
 		- Add uricosuric drugs: losartan
+- ***Septic arthritis***
+	- **Features**: monoarthritis, fever, leucocytosis, on arthrocentesis > 50k WBC count
+	- **Cause**: staph aureus (most common), gonococcus etc
+	- **Treatment**:
+		- Gram positive: Inj. Fluclox 2g (IV, QDS) 2wks then Oral fluclox 4wks
+		- Gram negative: Ceftriaxone 1g (IV, once daily) for 1 wk
+- ***Seronegative arthritis / spondyloarthropathies***
+	- Group of arthritides which are **RF -ve and HLA B27 +ve**. These are (mnemonic: <u>*PEAR*</u>)
+		1. Psoriatic arthritis (PsA)
+		2. Enteropathic arthritis
+		3. Ankylosing spondylitis
+		4. Reactive arthritis (ReA)
+	- **Family history common**
+	- Common features: *asymmetrical oligoarthritis*, *enthesitis* (inflammation at the site of tendon insertion), *sacroilitis*, *uveitis*, *psoriasis*
+- ***Crohn's***
+	- **Induction**: *GAMA*
+		- Glucocorticoid
+		- Azathioprine
+		- MTX
+		- 5-ASA
+	- **Maintenance**: *AMA*
+	- **Relapse**: *Infliximab*
+- ***Rheumatoid arthritis (RA)***
+	- Starting therapy: *MTX 15mg/wk* (titrate upto 25mg/wk) + *Cortan 30mg/day* (titrate down by 5mg/wk, then stop)
+	- **Triple therapy**: *MTX, HCQ, SSZ*
+		- Start when MTX alone isn't sufficient (DAS28 ≥3.2 on MTX)
+- ***Reactive arthritis (ReA)***
+	- **Asymmetrical oligoarthritis** after **1-4 wks** of infection (***post-infective autoimmune arthritis***)
+		- **Post-dysentery ReA**: caused by
+			- *Salmonella*
+			- *Shigella*
+			- *Campylobacter*
+		- **Post-STI ReA**: caused by *Chlamydia*
+	- Features: **can't see, can't pee, can't bend the knee**
+		- Can't see: *conjunctivitis, uveitis*
+		- Can't pee: *urethritis*
+		- Can't bend the knee: *asymmetrical oligoarthritis*
+- ***inflamed synovium $\rightarrow\;\;\boldsymbol{\uparrow}$ anti-CCP***
