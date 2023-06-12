@@ -171,4 +171,4 @@
 - **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
 - **Act out**
 	- Translating into action (e.g. *they were unwilling to **act out** their beliefs*)
-	- To express (e.g. an impulse) overtly without compliance to social norms (e.g. *the children are **acting out** *)
+	- To behave badly to express pent-up painful emotions such as fear or anger (e.g. *the children are **acting out** as they don't understand why they have to go through the war*)
