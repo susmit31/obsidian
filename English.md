@@ -169,4 +169,6 @@
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 ---
 - **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
-- 
+- **Act out**
+	- Translating into action (e.g. *they were unwilling to **act out** their beliefs*)
+	- To express (e.g. an impulse) overtly without compliance to social norms (e.g. *the children are **acting out** *)
