@@ -55,7 +55,7 @@
 		- A *searing* indictment of the government 
 ---
 - **Motorcade** - procession of motor vehicles (e.g. the outgoing president was given a grand farewell with a ceremonial motorcade)
-- **Gamut** - range / spectrum (e.g. she experienced the full gamut of human emotions. We have discuss the entire gamut )
+- **Gamut** - range / spectrum (e.g. she experienced the full gamut of human emotions. We have discussed the entire gamut of IR theories.)
 - **Scrumptious** - delectable / delightful (e.g. we went to Secret Recipe and had a scrumptious lava cake with ice cream; a scrumptious place; her book was filled with scrumptious details)
 - **Spiffy** - smart (e.g. he's looking really spiffy in that outfit)
 ---
@@ -208,3 +208,46 @@
 - **Modicum** - a small portion (e.g. *only a **modicum** of skill is needed to assemble the kit*)
 - **Verbiage** - a profusion of words of little substance (e.g. *such a **tangled maze of evasive verbiage** *)
 - **Ambit**
+- **To the tune of** - amounting to (e.g. *he took loans **to the tune of** Tk. 40k*)
+- *How much of these funds is going to go towards patronising the **vested interests**?*
+- **Pander to** - satisfy (e.g. *films that **pander to** the basest emotions*. *Stop **pandering to** the plunderers*.)
+---
+
+- **Auspices** - patronage (e.g. *I was doing research **under the auspices of** our pathology professor*)
+- **Galvanise** - stimulate as if by an electric shock (e.g. *an issue that **galvanised** public opinion*)
+- *whose view has been **echoed by** xyz*
+- **Daisy chain** - an interlinked series (e.g. *a **daisy chain** of toddlers*)
+- *Some USD 6 billion was **siphoned out** of Bangladesh through trade misinvoicing*
+- *To **leech off** somebody*
+---
+- **Citadel** - stronghold (e.g. *the nation's **citadel** of health research*. *each and every **citadel** of patriarchy*)
+- **Dismay** - losing courage or resolve (e.g. *I, for one, was left with a slight feeling of **dismay** *)
+- **Disquieting** - alarming (e.g. *the staggering rate at which inflation is progressing is **disquieting** *)
+- **Disarray** - chaos (e.g. *everything was in **disarray** and I was to blame*)
+- *A **wilting flower struggling to hold on** to my fame*
+---
+- **Monastic** - resembling life in a monastery (e.g. *his **monastic** dedication to his work pushed him to new heights*)
+- **Certitude** - certainty (e.g. *we don't know the right path to follow with exact **certitude** *)
+- **Indomitable** - insurmountable (e.g. *he was always taking on one **indomitable** challenge after the other*)
+- **Adulation** - excessive admiration (e.g. *Celebrities often feed off the **adulation** of fans*)
+- **Disembark** - get off (e.g. *we **disembarked** from the plane*)
+---
+- **Conflate** - confuse / blend together (e.g. *nation-states are often **confused and conflated** with nations*)
+- **Exasperated** - disgruntled / annoyed (e.g. *the US government is **exasperated with** the ruling Bangladeshi government*)
+- **Tussle** - **scuffle** / argument (e.g. *the issue **touched off** a **tussle** between me and my brother*)
+- **Staunch** - steadfast / watertight (e.g. *he's a **staunch** advocate of constructivism*. *I'm one of his **staunchest** supporters.*)
+---
+- *Due to the interconnectedness of the global system, nation-states have little  choice but to work together to deal with cross-border issues such as  terrorism, security and the movement of refugees, **to name but three**.*
+- **Flagrant** - **egregious** / conspicuously bad (e.g. *ceasefires amid **flagrant** violations by both sides*)
+- **Quagmire** - predicament (e.g. *with little money in his pockets, Susmit was now in a **quagmire** - how would he manage to buy the books he needs?*)
+---
+- *Ended with a **whimper rather than with a bang**.*
+- **Brazen** - audacious (e.g. *the Soviet was rampant with **brazen** corruption*)
+- **Hubris** - excessive pride (e.g. *His downfall was brought on by his **hubris**.*)
+- **Emblematic** - symbolic (e.g. *the dove is **emblematic** of the organisation's mission to ensure peace and stability*)
+- **Hunky-dory** - fine (e.g. *okay, so I study everyday, ace the exams, and everything becomes **hunky-dory** thereafter?*)
+- **Uppity** - arrogant (e.g. *his **hubris** made him act **uppity** causing his **decadence** *)
+- **Caught with one's pants down** - be surprised in an embarrassing situation 
+---
+- **Assuage** - alleviate (e.g. *the US officials purport to have tried hard to **assuage** Russian fears*)
+- 

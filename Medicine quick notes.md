@@ -127,3 +127,18 @@
 		- Can't pee: *urethritis*
 		- Can't bend the knee: *asymmetrical oligoarthritis*
 - ***inflamed synovium $\rightarrow\;\;\boldsymbol{\uparrow}$ anti-CCP***
+- ***Pleural effusion***
+	- Pleural fluid:
+		- Normally *5-15 mL*
+		- ≥ 100 mL $\implies$ detectable in lateral decubitus view
+		- ≥ 200 mL $\implies$ detectable in PA view
+		- ≥ 500 mL $\implies$ detectable clinically
+		- Small effusion (20-100mL) $\implies$ detectable by USG
+	- 
+
+
+
+
+
+
+
