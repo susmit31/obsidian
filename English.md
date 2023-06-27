@@ -75,7 +75,7 @@
 - **Earmark** - mark distinctively / designate (e.g. funds) for specific use (e.g. the WB has earmarked a few transformational projects for Bangladesh)
 - **Thaw**
 - **Take to**
-- **Flout** - treating with contemptuous disregard (e.g.* **flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
+- **Flout** - treating with contemptuous disregard (e.g. * **flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
 ---
 
 - **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an ***overhaul*** of the BCS exam process)
