@@ -250,4 +250,23 @@
 - **Caught with one's pants down** - be surprised in an embarrassing situation 
 ---
 - **Assuage** - alleviate (e.g. *the US officials purport to have tried hard to **assuage** Russian fears*)
-- 
+- **Preempt** - seize before others
+- *The US ensured that all its competitors **ended up on the scrap heap of history**.*
+- **Countenance**
+	- expression (e.g. *he managed to keep his **countenance** throughout the ordeal*)
+	- mental composure (e.g. *startled, and also somewhat out of **countenance**.*)
+	- face (e.g. *the photo showed his **sombre countenance**.*)
+	- approve (e.g. *the party refused to **countenance** the policy*)
+---
+- **Clobber** - defeat decisively (e.g. *Brock Lesnar **clobbered** John Cena at Extreme Rules*)
+- **Despot** - one who exercises power tyranically (e.g. *a tyrannical **despot**.*)
+- **Circumvent** - get around by ingenuity (e.g. *it is tricky to **circumvent** this issue, in particular*)
+- **Recalcitrant** - obstinately defiant of authority (e.g. *international organisations are unable to nudge **recalcitrant**.*)
+- **Acrimony** - anger / bitterness (e.g. *the dispute continued with increased **acrimony**. The states cooperated, albeit **acrimoniously**, to achieve their goals*.)
+---
+- **Vanquish** - defeat / subdue (e.g. *you have to **vanquish** your fears. They were **vanquished** in the battle.*)
+- *A closer look at what took place adds **grim overtones** to these judgments, with **reverberations** to the present moment.*
+- **Scourge** - a whip / cause of affliction (e.g. *preventing succeeding generations from the **scourge** of war*)
+- *The educational budget discussion has become a **dialogue of the deaf** *
+- **Malfeasance** - wrongdoing esp. by a public official (e.g. *the US secretary of defence berated the Turkish military for allowing the **malfeasance** of the government*)
+---
