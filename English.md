@@ -168,6 +168,7 @@
 - **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 ---
+<<<<<<< HEAD
 
 - **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
 - **Act out**
@@ -270,3 +271,6 @@
 - *The educational budget discussion has become a **dialogue of the deaf** *
 - **Malfeasance** - wrongdoing esp. by a public official (e.g. *the US secretary of defence berated the Turkish military for allowing the **malfeasance** of the government*)
 ---
+
+- **Irate** - indignant / angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
+
