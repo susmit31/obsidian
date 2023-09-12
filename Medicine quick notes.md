@@ -134,7 +134,14 @@
 		- ≥ 200 mL $\implies$ detectable in PA view
 		- ≥ 500 mL $\implies$ detectable clinically
 		- Small effusion (20-100mL) $\implies$ detectable by USG
-	- 
+- **Enteric fever**
+	- Coated tongue
+	- WBC $\downarrow$
+	- BASU
+		- Widal:
+			- O rises and falls before H (OH)
+			- During convalescence, H > O
+			- Rising titre of O diagnostic
 
 
 

@@ -27,16 +27,16 @@
 - **Ravenous** - voracious (e.g. a *ravenous* appetite)
 ---
 - **Falter**:
-	- Walking unsteadily/stumbling (e.g.her steps began to falter. He never faltered in his determination. The business was faltering)
+	- Walking unsteadily/stumbling (e.g. her steps began to falter. He never faltered in his determination. The business was faltering)
 	- Stammering (e.g. her voice faltered)
 - **Comeuppance** - a deserved rebuke (e.g. one of these days, he'll get his *comeuppance* for treating us so badly)
 - **Curb** - an edging (as of concrete) built along a street to form part of a gutter (e.g. they sat on the *curb* eating their ice cream)
 - **Respite** - an interval of relief (e.g. the heatwave is continuing without *respite*)
 ---
-- **Subvert** - ruin (e.g. They conspired to subvert the government)
-- **Touch off** - trigger (e.g. my decision to join Dr Sami's group despite Dr Sadi's objection *touched off* a dispute between us)
-- **Germane** - pertinent (e.g. it's not germane to our discussion)
-- **Promulgate** - promote/make widely known (an idea etc) (e.g. he was busy promulgating his newly invented theory)
+- **Subvert** - ruin (e.g. *They conspired to **subvert** the government*)
+- **Touch off** - trigger (e.g. *my decision to join Dr Sami's group despite Dr Sadi's objection **touched off** a dispute between us*)
+- **Germane** - pertinent (e.g. *it's not **germane to** our discussion*)
+- **Promulgate** - promote/make widely known (an idea etc) (e.g. *he was busy **promulgating** his newly invented theory*)
 - **Escaping the drudgery of life**
 ---
 - **Hegemony** - domination (e.g. the fact the BD is paying Russia for the nuclear plant in Yuans rather than in dollars hints at the end of dollar *hegemony*)
@@ -108,7 +108,7 @@
 ---
 
 - **Umpteenth** - latest in a series of many (e.g. *I've failed a job entrance test for the **umpteenth** time*)
-- **Shut the stable door once the horse has bolted** - taking action against sth after that event has already occurred (e.g. *starting to prepare for the 45th preliminary 1 week before was like **shutting the stable door after the horse had bolted** *)
+- **Shut the stable door once the horse has bolted** - taking action against sth after that event has already occurred (e.g. *starting to prepare for the 45th preliminary 1 week before was like **shutting the stable door after the horse had bolted**.*)
 - **Wade through** - proceed with difficulty (e.g. *It took a painstaking few months, but I managed to **wade through** a large chunk of the syllabus*)
 ---
 - **Wade into** - set to work with vigour and determination (e.g. *Even though I was fearful at first, I **waded into** the daunting world of job hunting*)
@@ -134,11 +134,11 @@
 - **Embroil** - involving in conflict etc (e.g. *his opinion on the theory has **embroiled him in** controversy*)
 - **Dissident** - deviating from commonly accepted beliefs (e.g. *political **dissidents** were tortured atrociously during his regime*)
 - **Pariah** - outcast
-- **Fray** - a fight involving many (e.g. *he entered the political **fray** *)
+- **Fray** - a fight involving many (e.g. *he entered the political **fray**.*)
 ---
 - **Recount** - give an account of an event (e.g. *US secretary of state John Kerry **recounted** his horrid experience of the Vietnam war*)
 - **Punitive** - aiming at punishment (e.g. *we must ensure **punitive** measures against sexual predators like Anarul*)
-- **Rapprochement** - rapport (e.g. *through judicious diplomacy, the arch-enemies found a way to **rapprochement** *)
+- **Rapprochement** - rapport (e.g. *through judicious diplomacy, the arch-enemies found a way to **rapprochement**.*)
 - **Eclectic** - heterogeneous (e.g. *the book contains an **eclectic** collection of thought-provoking essays*)
 - **Riveting** - holding sb's attention completely (e.g. *the secretary shared a **riveting** account of how diplomacy has helped shape the world we live in*)
 ---
@@ -153,10 +153,10 @@
 - **Jeer at** - mock (e.g. *Leo Messi was **jeered at** during his last match for PSG*)
 - *The legacy of cold-war style thinking still **looms large** in contemporary analyses*
 - **Prescience** - foresight
-- **Détente** - relaxation of tensions between nations (e.g. *diplomats brokering a **détente** *)
+- **Détente** - relaxation of tensions between nations (e.g. *diplomats brokering a **détente**.*)
 ---
 - **Embargo** - legal prohibition on commerce (e.g. *a trade **embargo** *)
-- **Prosaic** - ordinary / **cut and dry** / **run of the mill** (e.g. *heroic characters wasted in **prosaic** lives*)
+- **Prosaic** - ordinary / mundane / **cut and dry** / **run of the mill** (e.g. *heroic characters wasted in **prosaic** lives*)
 - **Arrear** - an unfinished duty (e.g. *He was **in arrears** with the rent* (i.e. unable to pay the rent). ***Arrears** of work have piled up*.)
 - **Pass the buck** - shifting responsibility to someone else (e.g. *stop trying to **pass the buck** and take responsibility for your actions*)
 ---
@@ -168,8 +168,6 @@
 - **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 ---
-<<<<<<< HEAD
-
 - **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
 - **Act out**
 	- Translating into action (e.g. *they were unwilling to **act out** their beliefs*)
@@ -181,16 +179,16 @@
 - **Ill-conceived**
 - **Precarious** - dependent on chance circumstances (e.g. *he earns a **precarious** living as a garbage collector / sanitation worker*. *Life is **precarious**, but always **tenacious**.*)
 - *Mismanagement and irregularities **plaguing** our development projects*
-- *Development projects being **stalled halfway** *
+- *Development projects being **stalled halfway**.*
 ---
 - **Mutatis mutandis** - having made the necessary changes (e.g. *the same can be said, **mutatis mutandis**, in the case of Bangladesh's development projects*)
-- ***Ever widening gulf between the promises of development and the reality***
+- ***Ever widening gulf** between the promises of development and the reality*
 - **Disgruntled** - annoyed (e.g. *the **disgruntled** patient absconded from the hospital*)
-- **Coffer** - treasury/funds (e.g. *unnecessary construction projects are gobbling up **public coffers** *)
+- **Coffer** - treasury/funds (e.g. *unnecessary construction projects are gobbling up **public coffers**.*)
 - **Guzzle** - consume / use up (e.g. *megaprojects of this government have mostly been **money guzzlers** thanks to corruption and mismanagement*).
 ---
 - *Citizen welfare makes for **good lip service** only*
-- *The situation in other sectors is no less **dystopian** *
+- *The situation in other sectors is no less **dystopian**.*
 - **Encumber** - burden (e.g. *tourists **encumbered** by heavy luggage*. *Negotiations **encumbered** by lack of trust*)
 - **In cahoots** - working together (e.g. *shadowy characters **in cahoots** who work their secret ends until intrepid reporting flushes them out*. *Turns out the doctor was working **in cahoots with** the diagnostic centre.*)
 - **Cogent** - convincing (e.g. *a **cogent** analysis*)
@@ -207,8 +205,8 @@
 ---
 - **Debase** - lowering in status (e.g. *he **debased** himself by lying*)
 - **Modicum** - a small portion (e.g. *only a **modicum** of skill is needed to assemble the kit*)
-- **Verbiage** - a profusion of words of little substance (e.g. *such a **tangled maze of evasive verbiage** *)
-- **Ambit**
+- **Verbiage** - a profusion of words of little substance (e.g. *such a **tangled maze of evasive verbiage**.*)
+- **Ambit** - scope / **gamut** (e.g. *the **ambit** of influence*)
 - **To the tune of** - amounting to (e.g. *he took loans **to the tune of** Tk. 40k*)
 - *How much of these funds is going to go towards patronising the **vested interests**?*
 - **Pander to** - satisfy (e.g. *films that **pander to** the basest emotions*. *Stop **pandering to** the plunderers*.)
@@ -228,7 +226,7 @@
 - *A **wilting flower struggling to hold on** to my fame*
 ---
 - **Monastic** - resembling life in a monastery (e.g. *his **monastic** dedication to his work pushed him to new heights*)
-- **Certitude** - certainty (e.g. *we don't know the right path to follow with exact **certitude** *)
+- **Certitude** - certainty (e.g. *we don't know the right path to follow with exact **certitude**.*)
 - **Indomitable** - insurmountable (e.g. *he was always taking on one **indomitable** challenge after the other*)
 - **Adulation** - excessive admiration (e.g. *Celebrities often feed off the **adulation** of fans*)
 - **Disembark** - get off (e.g. *we **disembarked** from the plane*)
@@ -247,7 +245,7 @@
 - **Hubris** - excessive pride (e.g. *His downfall was brought on by his **hubris**.*)
 - **Emblematic** - symbolic (e.g. *the dove is **emblematic** of the organisation's mission to ensure peace and stability*)
 - **Hunky-dory** - fine (e.g. *okay, so I study everyday, ace the exams, and everything becomes **hunky-dory** thereafter?*)
-- **Uppity** - arrogant (e.g. *his **hubris** made him act **uppity** causing his **decadence** *)
+- **Uppity** - arrogant (e.g. *his **hubris** made him act **uppity** causing his **decadence**.*)
 - **Caught with one's pants down** - be surprised in an embarrassing situation 
 ---
 - **Assuage** - alleviate (e.g. *the US officials purport to have tried hard to **assuage** Russian fears*)
@@ -271,6 +269,126 @@
 - *The educational budget discussion has become a **dialogue of the deaf** *
 - **Malfeasance** - wrongdoing esp. by a public official (e.g. *the US secretary of defence berated the Turkish military for allowing the **malfeasance** of the government*)
 ---
-
 - **Irate** - indignant / angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
+- **Poignant** - fervent / ardent / fervid (e.g. *the article expressed **poignant** feelings of a disgruntled citizen*)
+- **Banal** - cliche (e.g. *the ideas of constructivism seem rather **banal** to me*)
+- **Obfuscate** - complicate (e.g. *the way traditional textbooks represent IR theory **obfuscates** many interesting details*)
+---
+- **Forestall** - avert / stave off (e.g. *all the diplomatic effort was unable to **forestall** the conflict*)
+- *were **teetering** on the brink of default*
+- *a **slew** of policy measures*
+- **Jack up** - ratchet up (e.g. *measures were ensured for **jacking up** economic growth*)
+- **Exult** - rejoice (e.g. *Monisha and Susmit **exulted in** their victory*)
+- *The Asians **scurrying around** trying to survive*
+---
+- **Ebb** - subside (e.g. *France unrest appears to be **ebbing**.*)
+- **Irk** - exasperate (e.g. *the doctor was swift to calm the **irked** patient*)
+- *A **spectre** of war soon **hung over** Europe*
+- *A **narrative spun by** the ruling class*
+- **Nefarious**
+- **Despondent** - hopeless (e.g. *utterly **despondent** of his career prospects, he decided to choose the path of violence*)
+---
+- **Tutelage** - tutoring (e.g. *Thank Meham bhai's **tutelage** for whatever skills I have now*)
+- **Foment** - bringing into existence (e.g. *Like him or not, Zafar Iqbal's books have **fomented** a love for science in an entire generation of kids*)
+- **Stalwart** - stout / intrepid (e.g. *the **stalwart** soldiers in Alexander the great's army*)
+- *The BCB is **in tatters**.*
+- **Behest** - authoritative command (e.g. *Tamim has withdrawn his declaration of retirement **at the behest of** the PM*)
+---
+- **Blurt out** - utter impulsively (e.g. *he **blurted out** "obstructive sleep apnoea" - even tho it wasn't a question aimed at him*)
+- *The **rumour mill** kept running*
+- *Putin and associates flew out of Moscow **in droves**.*
+- *I'd become a **jargon kiln** with all my creative juices drained*
+- *The unending well of inspiration felt drained, replaced by a sterile stream of academic jargon that made my poetry colourless and my prose mundane*
+---
+- **Play to the gallery** - doing for popularity instead of doing what's right (e.g. *the whole point of their rallies was to **play to the gallery**.*)
+- *Interest groups are **spinning the story to fit their own narratives** and agendas*
+- **Shambles** - wreckage (e.g. *the city was a **shambles** after the war. We've made a **shambles** of our elections*)
+- **Play havoc with** - damage sth (e.g. *we **played havoc with** our electoral system through 153 "uncontested" MPs in 2014. The snowstorm is **playing havoc with** rush-hour traffic*)
+---
+- **A foregone conclusion** - an inevitability (e.g. *with no serious challenger, his victory was a **foregone conclusion** from the get go*)
+- *The Chinese military has been **cracking down on** the pro-democracy protesters in Hong Kong*
+- **Putatively** - ostensibly
+- **Abdicate** - renounce a throne / office (e.g. *due to growing protests, the PM **abdicated** the office*
+---
+- *The death of Masha Amini in police custody was **the straw that broke the camel's back** and launched huge waves of protest in Tehran*
+- **Raze** - annihilate (e.g. *the entire city was **razed** by a nuclear bomb*)
+- **Bulwark** - strong support (e.g. *democratic principles that stand as a **bulwark** against tyranny*)
+- **Wriggle** - **squirm** (e.g. *he **wriggled** free of his ropes*)
+- **Knock-on effect** - secondary / cumulative effect (e.g. *Millions will be at risk of hunger from the **knock-on effects** of Russia's moves*)
+---
+- **Makeshift** - temporary (e.g. *most Rohingyas in Bangladesh live in **makeshift** camps*)
+- **Decry** - disapprove strongly (e.g. *rights groups have **decried** the government's plan to relocate them*)
+- **Unfettered** - unrestricted (e.g. *he had **unfettered** access to the library*)
+- *The flow of refugees was not a trickle but a monsoon flood*
+- *The warmth of heart is **on the wane** though the empathy remains*
+---
+- **Fight windmills** - fight imaginary opponents (e.g. *the US continues to **fight windmills** in the name of global peace*)
+- **Nab** - apprehend (e.g. *the perpetrators were **nabbed** quickly by the police*)
+- **Unruly** - not readily ruled (e.g. *an **unruly** crowd*)
+- **Rough up** - beat up (e.g. *he was **roughed up** in jail*)
+- **Supplant** - replace / **usurp** (e.g. *old traditions are fading away and being **supplanted** by modern ways*)
+---
+- **Tailspin** - declining (e.g. *the world economy is **in a tailspin** thanks to COVID-19 and the Ukraine war*)
+- **Skirt** - going around (e.g. *trading in INRs helped BD and IND to **skirt** the global dominance of the USD*)
+- **Setting homes ablaze**
+- **Racket** - a fraudulent scheme etc (e.g. *12 members of a question-leak **racket** were arrested yesterday*)
+- **Sweep under the rug** - hide (e.g. *I suspect that they're **sweeping something under the rug**.*)
+---
+- **Mete out** - giving or ordering punishment (e.g. *in the past, schoolteachers regularly **meted out** physical punishment to their pupils*)
+- **Come to grips with**
+- **Rapacious** - ravenous (e.g. *a **rapacious** appetite*)
+- **Suffuse** - spread out like fluid or light (e.g. *he was **suffused** with an overwhelming feeling of liberation*)
+- **Over the long haul**
+- **Infringe a patent**
+- **Infringe on rights**
+---
+- *Freedom of expression was not only **muzzled**, but also criminalised*
+- **Rehash** - reuse in another form without much change (e.g. *Replacing the DSA with the CSA seems like an old trick being **rehashed**.*)
+- **Languish** - living in a state of decreasing vitality (e.g. *he **languished** in prison for 5 years*)
+- **Conflagration**
+	- a large fire (e.g. *the **conflagration** destroyed the library*)
+	- conflict / war (e.g. *the **conflagration** that ensued killed millions of civilians*)
+---
+- *The other side, however, considers it as **one more feather in its electoral cap**.*
+- *Claims that the survey findings were manufactured, if not **doctored**.*
+- **Spate** 
+	- a large number (e.g. *in '98, a massive El Niño triggered a **spate** of extreme weather*)
+	- a sudden outburst (e.g. *a **spate** of anger*)
+- **Heft** - weight (e.g. *the group is marked by its rising economic **heft**.*)
+---
+- **Untenable** - undefendable (e.g. *an **untenable** position*)
+- **Paltry** - despicable (e.g. *built **paltry** houses unfit for occupancy*. *A **paltry** trick*)
+- **Scathing** - bitterly severe (e.g. *his **scathing** retort*)
+- **Chime in**
+	- interrupt a conversation (e.g. *"I don't want to hear y'all blabbering about One Piece anymore!", Rufus **chimed in**.*)
+	- agree (e.g. *unfortunately, his views on child rearing don't **chime in** with those of his new wife, who has two children from a previous marriage*)
+---
+- **Dribs and drabs** - in small amounts (e.g. *people migrated out of East Bengal in **dribs and drabs**.*)
+- *Change has been **more in name than in substance**.*
+- *The DSA is a political instrument **in the garb of** a law*
+- **Begrudge** - concede reluctantly / disapprove / **decry** (e.g. *I don't **begrudge** you your success - you earned it fair and square*)
+- **Bleary** - dull or dimmed vision due to fatigue (e.g. *had to pull **bleary** all-nighters before the exams*) / very tired (e.g. *the **bleary** passengers*)
+---
+- **Hammer out** - work out an agreement etc (e.g. *after two weeks of **bleary all-nighters**, diplomats from around the world have **hammered out** an agreement*)
+- **Wad** - a bundle or roll of paper/banknotes (e.g. *stop flaunting that thick **wad** of banknotes from the lottery, you **overweening** son of a gun*)
+- *He went off on a **diatribe** about China's economic **doldrums**.*
+- *Winds of change appear to be blowing*
+---
+- *The Modi government has **bolstered** ties with the west while **paring back** defence purchases from Russia*
+- **Peter** - decrease gradually / phase out (e.g. *while he started out with a bang, his enthusiasm quickly **petered out**.*)
+- **Snap up** - quickly buying something in sale etc (e.g. *India has been **snapping up** cheap Russian crude since the start of the war*)
+- *Still a **hefty** 63% higher*
+---
+- *In the face of the prospects of an **onerous** defeat, the brave Kozuki retainers were **poised to** take on Kaido*
+- *Tali office to Mitford is really quite a bit of a **long haul**.*
+- **Shoddy** - low quality (e.g. *his business is full of **shoddy**, third-rate stuff*)
+- **Round up** - assemble (e.g. *he **rounded everyone up** for one final lesson*)
+- **Spruce up** - tidy up (e.g. *Modi **spruced up** Delhi in preparation for the G20 summit*)
+---
+- **Humdrum** - blandness / **drabness** (e.g. *it was not often that I had the chance to escape the tedious **humdrum** of my life as a doctor*)
+- **Engender** - produce (e.g. *his reforms **engendered** innovations on an unprecedented scale*)
+- **Up the ante** - raise demands to achieve a better result (e.g. *the government has decided to **up the ante** by refusing to provide transit until they sign the teesta treaty*)
+- **Pipe dream** - an unattainable dream (e.g. *becoming a physicist is nothing more than a **pipe dream** for me now*)
+---
+- 
 
