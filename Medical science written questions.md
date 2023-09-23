@@ -1,0 +1,40 @@
+## CVS
+- Blood supply of the heart
+- Artery vs vein
+- Dx criteria of acute rheumatic fever
+- Causes of chest pain
+- Cardiac vs noncardiac chest pain
+- Conductive system of heart 
+- Cardiac cycle + changes during cc
+- HTN criteria, classification
+- Complications of HTN
+- Anti htn with A/E
+- Angina pectoris features
+- IHD risk factors
+- Base of heart, postetior relations of base
+- Development of interatrial septum
+- BP regulation mechanism
+- Mx of MI
+- Lipid lowering drugs
+- Definition of central venous pressure, arterial pressure
+- Cyanosis, mechanism of cyanosis in CCF 
+- Conducting system of the heart 
+- Beriberi CVS effects
+- Cardiomyopathy 
+- Investigations to detect target organ damage in htn
+- 70yo male COPD + severe rt ches pain + pulsus paradoxus
+- Complications of MI
+- Conduction of cardiac impulse
+- Causes of bradycardia
+- Causes of high ESR
+- Syncope, mx of Stokes Adams attack
+- Define and classify pulse
+- Atherosclerosis definition and complications
+- Causes of cyanosis
+- Atherosclerosis types
+- Types of BP
+- Blood supply of interventricular septum
+- ACS
+- Complications of MI
+- Causes of absent radial pulse
+- 

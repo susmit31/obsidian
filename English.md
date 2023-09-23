@@ -1,16 +1,16 @@
-- **Murky** - obscure (the sky is murky; he offered a murky explanation)
-- **Screech** into reverse 
-- **Facile** - shallow (a facile victory, a facile solution to such a complex problem)
-- **Lull** - causing to rest/sleep/relax (lulled into a false sense of security) 
-- **Spur** - give a kick (the reward spurred them to achieving even greater success)
+- **Murky** - obscure (e.g. *the sky is **murky**; he offered a **murky** explanation*)
+- ***Screech** into reverse*
+- **Facile** - shallow (e.g. *a **facile** victory, a **facile** solution to such a complex problem*)
+- **Lull** - causing to rest/sleep/relax (e.g. *were **lulled** into a false sense of security*) 
+- **Spur** - give a kick (e.g. *the reward **spurred** them to achieving even greater success*)
 - **Derogation** - belittling 
-- **Brisk** - energetic/lively (we'd expected a brisk business ahead of Eid) 
+- **Brisk** - energetic/lively (e.g. *we'd expected a **brisk** business ahead of Eid*) 
 ---
-- **Tirade** - rant (he went into a tirade about the failures of the government) 
-- **Tenuous** - flimsy/weak (the attempt of the government to invoke the child exploitation issue seems to rest on tenuous grounds)
+- **Tirade** - rant (*he went into a **tirade** about the failures of the government*) 
+- **Tenuous** - flimsy/weak (*the attempt of the government to invoke the child exploitation issue seems to rest on **tenuous** grounds*)
 - **Ostracise** - exclude from a group 
 - **Strife** - conflict 
-- **Avail** - give an advantage (e.g. Our best efforts did not avail; All his efforts availed him nothing)
+- **Avail** - give an advantage (e.g. *Our best efforts did not **avail**; All his efforts **availed him** nothing*)
 ---
 - **Draughty** - (of an enclosed space) cold and uncomfortable because of currents of cool air. (e.g. anyone would get pneumonia living in that draughty old house)
 - **Dilapidated** - in a state of ruin/disrepair (e.g. old, dilapidated buildings)
@@ -390,5 +390,69 @@
 - **Up the ante** - raise demands to achieve a better result (e.g. *the government has decided to **up the ante** by refusing to provide transit until they sign the teesta treaty*)
 - **Pipe dream** - an unattainable dream (e.g. *becoming a physicist is nothing more than a **pipe dream** for me now*)
 ---
+- **Limpid** - lucid (e.g. *his **limpid** writing made a **recondite** subject like astrophysics accessible to the masses*)
+- *the molar mass of NaCl is **to the tune of** 60*
+- If you are **reeling from** a shock, you are feeling extremely surprised or upset because of it. (e.g. *I'm still **reeling** from the shock of hearing of it*)
+- *Credit growth **nosedived** to single digit*
+- *The **lacklustre** loan recovery rate pushed down credit growth*
+---
+- **Window dressing** - display on windows of a retail store (e.g. *the reforms are not just **window-dressing** this time*)
+- ***Embroiled in** conflict*
+- ***Mired in** conflict*
+- *It's not just **pie-in-the-sky** optimism*
+- *The government failed to ensure the **upkeep** of vital infrastructure*
+- ***The straw that broke the camel's back***
+- **Culpable** - blameworthy (e.g. *his nonchalance doesn't make him any less **culpable**.*)
+---
+- **Bank on** - rely on (e.g. *you can always **bank on** me for nerdy stuff like this*)
+- *A **flurry of activity**.*
+- *By normalising their presence in the entirety of the South China sea, China is intending to establish their jurisdiction as **fait accompli**.*
+- *It's a **wrenching** decision*
+- *remove the **bureaucratic tangles**.*
+- **Expedient** - convenient but may be immoral (e.g. *making our own seals was an **expedient** decision*)
+---
+- **Blithe**
+	- unconcerned (e.g. *a **blithe** disregard*)
+	- happy and lighthearted in disposition (e.g. *Luffy's as **blithe** and friendly as one could get*)
+- **Spat** - a disagreement (e.g. *the murder of the Indian-Canadian Sikh activist touched off a **spat** between New Delhi and Toronto*)
+- **Phantasmagoria** - a sequence of optical illusions (e.g. *their prediction is based on nothing short of theoretical **phantasmagoria**.*)
+- **Stoke** - fuelling (e.g. *the **dirt-cheap** lending rates kept **stoking** inflation*)
+---
+- *We're facing strong **headwinds** from a **fraught** international economical environment caused by the Russia-Ukraine war*
+- *Drowned out in the **cacophony** of discussions surrounding climate change*
+- *Nothing but the result of **egregiously** low valuation of the dollar*
+- **Beleaguered** - in a predicament/**quandary**/**quagmire**/pickle (e.g. *I was **beleaguered** when I was not allowed to join*)
+---
+- *Due to a staggering difference in the exchange rates, transactions through the official channel are financially **punitive**.*
+- *Dengue has **cast a long shadow** over our country this year*
+- **Vituperate** - berate (e.g. *he fancied himself a juggernaut, but he was soon caught and **vituperated** by his parents*)
+- **Invective** - vituperation (n.) / vituperative (adj.) (e.g. *his opponents took online to launch an **invective** campaign*, *this professor is one of the most **invective** ones in this uni*)
+---
+- *I'll have a hard time forgetting the **imbroglio** when I accidentally pressed the bells during my exam*
+- *No matter how well you perform you'll never satisfy this old **curmudgeon** of a professor*
+- **Cupidity** - (adj-noun of covet) greed for money (e.g. *heard he snatched from that old lady - his **cupidity** really knows no limits*)
+- **Sybarite** - indulgent in luxury / **hedonist** (e.g. *despite losing nearly all his money, he's still a **Sybarite** through and through*)
+---
+- **Jejune**
+	- dull, tasteless (e.g. *despite going to Meritage with high hopes, we found their food to be **jejune**.*)
+	- immature (e.g. *your remarks on my getting the food earlier was **jejune** at best*)
+- **Picayune**
+	- narrow-minded (e.g. *the **picayune** ponderings of the neo-nazi commentator*)
+	- minute / negligible / **paltry** (e.g. *irritatingly **picayune** complaints*)
+	- sth of little importance (e.g. *our lives don't amount to a **picayune** in the grand scheme of things*)
+---
+- **Bilious** - sickening / irritable (e.g. *the **bilious** weather made us **bilious**.*)
+- **Aghast** - shocked and upset (e.g. *she was **aghast** at the news of his demise*)
+- **Peremptory** - expressive of urgency / bossy (e.g. *a **peremptory** call*, *his sister **peremptorily** ordered him around*)
+- **Mulct** - rob by trickery or threats / **swindle** / **defraud** (e.g. *he used his cunning to **mulct** a hundred people into paying him big sums of money*)
+---
+- **Remonstrate** - object reproachfully (e.g. *the decision was so counterproductive that even I had to **remonstrate**.*)
+- **Protean** - versatile (e.g. *Tagore dabbled in everything from science to arts - truly a **protean** man*)
+- **Mettlesome** - **stalwart** / intrepid (e.g. *the **mettlesome** crew of a **stalwart** captain*)
+- ***Scores** of vehicles broke down in the waterlogged streets of Dhaka*
+- **Unbridled** - unrestrained (e.g. *the US will no longer allow the **unbridled** rise of China*)
+---
+- **Moot** - up for discussion (e.g. *the **moot question** here is when the US and China will engage in a full-blown conflagration*)
 - 
+
 
