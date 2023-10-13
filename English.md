@@ -488,7 +488,7 @@
 ---
 - **Imperious** - domineering (e.g. *I've always hated **imperious** trainees such as boudi and Faria apu*)
 - **Punctilious** - meticulous
-- *.**Riding high** on the victory of capturing territory four times its size in the 1967 Arab-Israeli war, Israel never anticipated an attack like this.*
+- **Ride high** - be successful (e.g.*, **riding high** on the victory of capturing territory four times its size in the 1967 Arab-Israeli war, Israel never anticipated an attack like this.*)
 - **Finest hour** - A point in time when an especially distinguished set of actions is performed.
 - *The conflict-ridden region is now **spiralling into** a full-blown war*
 ---
@@ -499,7 +499,7 @@
 ---
 - **Proscribe** - ban (e.g. *taking cell phones was **proscribed** during college*)
 - **Provident** - careful in the usage of resources / **frugal** (e.g. *the reserve crisis could have been averted if the governor had been more **provident**.*)
-- **Chastise** - **excoriate** / vituperate / reprimand (e.g. *Shakib heavily **chastised** Tamim*)
+- **Chastise** - **excoriate** / vituperate / reprimand / **reproach** (e.g. *Shakib heavily **chastised** Tamim*)
 - **Irascible** - easily provoked (e.g. *Tamim definitely isn't **irascible**, he spoke up after putting up with a boatload of insult*)
 - **Mollify** - assuage / pacify (e.g. *attempts to **mollify** Israel over the issue of Palestine have always been in vain*)
 ---
@@ -515,7 +515,10 @@
 - *Israeli clarions are trumpeting vengeance. When they fall silent, introspection will follow.*
 - *The west have since been **in doldrums**.*
 ---
+- *It is the cacophony of two political parties that will be assaulting our eardrums*
+- **Entrench** - establish solidly (e.g. *they **entrenched** themselves in the business.*)
 - 
+
 
 
 
