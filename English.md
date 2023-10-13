@@ -78,16 +78,16 @@
 - **Flout** - treating with contemptuous disregard (e.g. * **flouting** the rules; an able-bodied motorist proudly **flouted** the law and parked in a space reserved for the disabled*)
 ---
 
-- **Overhaul** - thorough examination/ repairing (e.g. the PSC has, on several occasions, promised an ***overhaul*** of the BCS exam process)
-- **Abstruse** - difficult to comprehend (e.g. You're not the only one who finds IR theory ***abstruse***)
-- **Recondite** - abstruse (e.g. it is indeed a recondite matter)
-- **Backlog** - accumulation of unperformed tasks (e.g. we have a huge *backlog* of tasks at hand)
+- **Overhaul** - thorough examination/ repairing (e.g. *the PSC has, on several occasions, promised an **overhaul** of the BCS exam process*)
+- **Abstruse** - difficult to comprehend (e.g. *You're not the only one who finds IR theory **abstruse**.*)
+- **Recondite** - abstruse (e.g. *it is indeed a **recondite** matter*)
+- **Backlog** - accumulation of unperformed tasks (e.g. *we have a huge **backlog** of tasks at hand*)
 ---
 - *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm** *
 - **The ominous drumbeats grew louder**
 - **Jaded** - fatigued by overwork (e.g. *a **jaded** medical student*) / made apathetic by seeing too much of something (e.g. *he became **jaded** from years of work as a police officer*)
+- **Squalid** - **sordid** (e.g. *the family lived in **squalid** conditions*)
 ---
-- **Squalid** - sordid (e.g. *the family lived in **squalid** conditions*)
 - **Bad patch** -> *The president of the FBCCI said that businesses are going through a **bad patch** for multiple factors*
 - **Levy** - impose or collect by legal authority (e.g. *the government **levied** a tax on gasoline*) / the amount levied (e.g. *the government imposed a **levy** on gasoline*)
 - **Rescind** - abrogate (e.g. * **rescind** an act/contract*)
@@ -122,8 +122,7 @@
 - **Abet** - assist (e.g. *Is inflation being **aided and abetted** by price-gouging?*)
 - **Single out** - choose from many for special treatment (praise or criticism) (e.g. *As the topper, Galib was often **singled out** for special opportunities*)
 ---
-- **Price cap** - the upper limit set by a government on the price of something (e.g. )
-- **Windfall** - something blown down by the wind / a fortuitous gain (e.g. *Large corporations use supply problems as an opportunity to scoop **windfall** profits*)
+- **Windfall** - something blown down by the wind / a fortuitous or serendipitous gain (e.g. *Large corporations use supply problems as an opportunity to scoop **windfall** profits*)
 - **Austerity**
 	- Sternness (e.g. *the **austerity** of his manner*)
 	- Plainness (e.g. *the **austerity** of the design*)
@@ -149,7 +148,7 @@
 - *This has been **little short of** disastrous*
 - **Discretionary** - left to one's own judgment (e.g. *inflation causes us to purchase **discretionary goods** at higher prices*)
 ---
-- **Play ducks and drakes with** - squander / treat frivolously (e.g. *he played **ducks and drakes with** his money*. *No evil force can **play ducks and drakes with** the people of Bangladesh*)
+- **Play ducks and drakes with** - squander / treat frivolously (e.g. *he **played ducks and drakes with** his money*. *No evil force can **play ducks and drakes with** the people of Bangladesh*)
 - **Jeer at** - mock (e.g. *Leo Messi was **jeered at** during his last match for PSG*)
 - *The legacy of cold-war style thinking still **looms large** in contemporary analyses*
 - **Prescience** - foresight
@@ -157,7 +156,7 @@
 ---
 - **Embargo** - legal prohibition on commerce (e.g. *a trade **embargo** *)
 - **Prosaic** - ordinary / mundane / **cut and dry** / **run of the mill** (e.g. *heroic characters wasted in **prosaic** lives*)
-- **Arrear** - an unfinished duty (e.g. *He was **in arrears** with the rent* (i.e. unable to pay the rent). ***Arrears** of work have piled up*.)
+- **Arrear** - an unfinished duty (e.g. *He was **in arrears** with the rent* (i.e. unable to pay the rent)*. **Arrears** of work have piled up*.)
 - **Pass the buck** - shifting responsibility to someone else (e.g. *stop trying to **pass the buck** and take responsibility for your actions*)
 ---
 - **Quiver**
@@ -165,7 +164,7 @@
 	- shiver 
 - **Thaw**
 - **Under somebody's nose** - right in front of sb (e.g. *my phone got stolen from **right under my nose** *)
-- **Onus** - burden (e.g. *The **onus** is now on the government to look into this issue*)
+- **Onus** - burden (e.g. *The **onus is on** the government to look into this issue*)
 - *Frequent outages and heatwaves **lay bare** the dysfunctional state of power sector*
 ---
 - **Irate** - angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
@@ -182,9 +181,9 @@
 - *Development projects being **stalled halfway**.*
 ---
 - **Mutatis mutandis** - having made the necessary changes (e.g. *the same can be said, **mutatis mutandis**, in the case of Bangladesh's development projects*)
-- ***Ever widening gulf** between the promises of development and the reality*
+- *The **ever widening gulf** between the promises of development and the reality*
 - **Disgruntled** - annoyed (e.g. *the **disgruntled** patient absconded from the hospital*)
-- **Coffer** - treasury/funds (e.g. *unnecessary construction projects are gobbling up **public coffers**.*)
+- **Coffer** - treasury/funds (e.g. *unnecessary construction projects are **gobbling up public coffers**.*)
 - **Guzzle** - consume / use up (e.g. *megaprojects of this government have mostly been **money guzzlers** thanks to corruption and mismanagement*).
 ---
 - *Citizen welfare makes for **good lip service** only*
@@ -221,7 +220,7 @@
 ---
 - **Citadel** - stronghold (e.g. *the nation's **citadel** of health research*. *each and every **citadel** of patriarchy*)
 - **Dismay** - losing courage or resolve (e.g. *I, for one, was left with a slight feeling of **dismay** *)
-- **Disquieting** - alarming (e.g. *the staggering rate at which inflation is progressing is **disquieting** *)
+- **Disquieting** - alarming (e.g. *the staggering rate at which inflation is progressing is **disquieting**.*)
 - **Disarray** - chaos (e.g. *everything was in **disarray** and I was to blame*)
 - *A **wilting flower struggling to hold on** to my fame*
 ---
@@ -266,7 +265,7 @@
 - **Vanquish** - defeat / subdue (e.g. *you have to **vanquish** your fears. They were **vanquished** in the battle.*)
 - *A closer look at what took place adds **grim overtones** to these judgments, with **reverberations** to the present moment.*
 - **Scourge** - a whip / cause of affliction (e.g. *preventing succeeding generations from the **scourge** of war*)
-- *The educational budget discussion has become a **dialogue of the deaf** *
+- *The educational budget discussion has become a **dialogue of the deaf**.*
 - **Malfeasance** - wrongdoing esp. by a public official (e.g. *the US secretary of defence berated the Turkish military for allowing the **malfeasance** of the government*)
 ---
 - **Irate** - indignant / angry / arising from anger (e.g. *an **irate** taxpayer*. *His **irate** words hurt her*.)
@@ -397,8 +396,7 @@
 - *The **lacklustre** loan recovery rate pushed down credit growth*
 ---
 - **Window dressing** - display on windows of a retail store (e.g. *the reforms are not just **window-dressing** this time*)
-- ***Embroiled in** conflict*
-- ***Mired in** conflict*
+- *They were **embroiled in** conflict / **mired in** conflict*
 - *It's not just **pie-in-the-sky** optimism*
 - *The government failed to ensure the **upkeep** of vital infrastructure*
 - ***The straw that broke the camel's back***
@@ -446,13 +444,78 @@
 - **Peremptory** - expressive of urgency / bossy (e.g. *a **peremptory** call*, *his sister **peremptorily** ordered him around*)
 - **Mulct** - rob by trickery or threats / **swindle** / **defraud** (e.g. *he used his cunning to **mulct** a hundred people into paying him big sums of money*)
 ---
-- **Remonstrate** - object reproachfully (e.g. *the decision was so counterproductive that even I had to **remonstrate**.*)
+- **Remonstrate** - object reproachfully (e.g. *the decision was so counterproductive that even I had to **remonstrate**. I **remonstrated with** the decision politely.*)
 - **Protean** - versatile (e.g. *Tagore dabbled in everything from science to arts - truly a **protean** man*)
 - **Mettlesome** - **stalwart** / intrepid (e.g. *the **mettlesome** crew of a **stalwart** captain*)
 - ***Scores** of vehicles broke down in the waterlogged streets of Dhaka*
 - **Unbridled** - unrestrained (e.g. *the US will no longer allow the **unbridled** rise of China*)
 ---
 - **Moot** - up for discussion (e.g. *the **moot question** here is when the US and China will engage in a full-blown conflagration*)
+- **Raft** - many people or things etc (e.g. *BB is taking a **raft** of measures to contain skyrocketing inflation and tackle the current economic **woes**.*)
+- **Revel** - take immense pleasure in (e.g. *he **revelled in** the quiet after everyone had gone*)
+- **Histrionic** - overtly theatrical (e.g. *he had a **penchant for** dish throwing, door slamming, and other **histrionic** displays of temper*)
+- **Jaundiced** - biased against due to envy / prejudice (e.g. *because of my behavioural issues, the examiners were pretty **jaundiced** towards me*)
+---
+- **Antic** - an attention-drawing, often playful, act (e.g. *the pre-COVID phase of my medical life was full of childish **antics** and **frolicsome shenanigans**.*)
+- **Shenanigans** - mischief (e.g. *the ruling party's financial **shenanigans** cost them much of their popular support*)
+- **Frolic** - lively and joyful activity (e.g. *my wife and I were **frolicking** in Cox's bazar*)
+- **Chalk out** - sketch (e.g. *I intend to finish things up within this month but I haven't yet **chalked out** a plan*)
+---
+- **Clamber** - climb with difficulty (e.g. *the firefighters **clambered** over the rubble to search for the injured*)
+- **Ebullient** - enthusiastic / lively / **frolicsome** (e.g. *can't really blame him for being in an **ebullient** mood on his first day of med school*)
+- **Chagrin** - dismay (e.g. *I have gained 5 more kilos since going on a diet, much to my **chagrin**.*)
+- **Admonish** - warn (e.g. *I was **admonished** from further leaving unnoticed*)
+- **Inchoate** - incompletely formed / budding / **incipient** (e.g. *I started publishing my **inchoate** ideas on global politics on my blog*)
+---
+- **Unseemly** - improper (e.g. *the **unseemly** attitude of the **unruly** youngsters*)
+- **Avarice** - **cupidity** (e.g.  *Boudi is notorious for her **avaricious** suggestions of investigations*)
+- **Nettlesome** - annoying (e.g. *everyone found boudi's **avarice** extremely **nettlesome**.*)
+- **Maverick** - radical thinker (e.g. *I have always attempted to be a **maverick** so I try thinking outside the box*)
+- **Reproach** - criticise (e.g. *the government was **reproached** duly for the DSA*)
+---
+- **Artifice** - ingenuity (e.g. *his **artifice** quickly got him out of the quandary*)
+- **Moment** - importance (as in *momentous*)
+- **Illustrious** - famous (e.g. *Hemingway's most **illustrious** work is arguably A Farewell to Arms*)
+- **Clemency** - mercy (e.g. *after returning from my unnoticed leave, I had to beg the HOD for **clemency**.*)
+- *"**fraught with**" difficulties*
+- **Saddle with** - encumber (e.g. *Global South countries are **saddled with** immense debts in dollars*)
+---
+- *Argentina's finances are **in disarray**.*
+- *Bangladesh's economy is growing slower because of strong economic **headwinds**.*
+- **Tear into** - attacking without restraint (e.g. *Shakib **tears into** Tamim in his latest interview*)
+- *Faria apu always **shirks** her duties and peremptorily hands the menial work over to me*
+- **Conniving** - conspiring to do bad (e.g. *Faria apu was always **conniving** to shirk her work and peremptorily command me around*)
+---
+- **Imperious** - domineering (e.g. *I've always hated **imperious** trainees such as boudi and Faria apu*)
+- **Punctilious** - meticulous
+- *.**Riding high** on the victory of capturing territory four times its size in the 1967 Arab-Israeli war, Israel never anticipated an attack like this.*
+- **Finest hour** - A point in time when an especially distinguished set of actions is performed.
+- *The conflict-ridden region is now **spiralling into** a full-blown war*
+---
+- **Nettlesome** - annoying (e.g. *I've always found dealing with patients to be **nettlesome**.*)
+- **Abjure** - renounce / **repudiate** (e.g. *The Church made Galileo **abjure** the heliocentric model*)
+- **Unflappable** - not easily panicked or upset (e.g. *I was known to be **unflappable** as I hardly flinched during the extensive physical training regimen*)
+- **Mellifluous** - sweet sounding (e.g. *While the prospect of inaugurating the nuclear power plant might sound **mellifluous**, they have been doing little to assuage the hardships of the common people*)
+---
+- **Proscribe** - ban (e.g. *taking cell phones was **proscribed** during college*)
+- **Provident** - careful in the usage of resources / **frugal** (e.g. *the reserve crisis could have been averted if the governor had been more **provident**.*)
+- **Chastise** - **excoriate** / vituperate / reprimand (e.g. *Shakib heavily **chastised** Tamim*)
+- **Irascible** - easily provoked (e.g. *Tamim definitely isn't **irascible**, he spoke up after putting up with a boatload of insult*)
+- **Mollify** - assuage / pacify (e.g. *attempts to **mollify** Israel over the issue of Palestine have always been in vain*)
+---
+- **Waver** - vacillating irresolutely between choices (e.g. *my father has always had the habit of **wavering** when told to make a choice, often leaving matters up to others*)
+- **Bow out** - retire (e.g. *All Might **bowed out** graciously from his illustrious hero career*)
+- **Ignominious** - humiliating (e.g. *Netanyahu's hubris has made him fall in an **ignominious** position - both politically and militarily*)
+- *Netanyahu's harsh and unbending rhetoric won him support*
+---
+- *Hamas' operation under Netanyahu's watch has instantly turned him into a **paper tiger**.*
+- **Bristle** - defend aggressively in response to criticism (e.g. *he **bristled at** the accusations of corruption*)
+- **Defenestration** - overthrowing (e.g. *Netanyahu's **defenestration** seems imminent*)
+- *Netanyahu's continued oppression of the Palestinians will soon be brought to **reckoning**.*
+- *Israeli clarions are trumpeting vengeance. When they fall silent, introspection will follow.*
+- *The west have since been **in doldrums**.*
+---
 - 
+
 
 
