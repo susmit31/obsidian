@@ -12,19 +12,19 @@
 - **Strife** - conflict 
 - **Avail** - give an advantage (e.g. *Our best efforts did not **avail**; All his efforts **availed him** nothing*)
 ---
-- **Draughty** - (of an enclosed space) cold and uncomfortable because of currents of cool air. (e.g. anyone would get pneumonia living in that draughty old house)
-- **Dilapidated** - in a state of ruin/disrepair (e.g. old, dilapidated buildings)
-- **Snub** - rebuke (e.g. The President has snubbed Mohammad Bin Salman)
-- **Quid pro quo** - barter (e.g. in politics nobody does something for nothing: there's always a quid pro quo involved)
+- **Draughty** - (of an enclosed space) cold and uncomfortable because of currents of cool air. (e.g. *anyone would get pneumonia living in that **draughty** old house*)
+- **Dilapidated** - in a state of ruin/disrepair (e.g. *old, **dilapidated** buildings*)
+- **Snub** - rebuke (e.g. *The President has **snubbed** Mohammad Bin Salman*)
+- **Quid pro quo** - barter (e.g. *in politics nobody does something for nothing: there's always a **quid pro quo** involved*)
 ---
-- **Standoff** - deadlock/impasse (e.g. Ace and Jinbe fought to a *standoff*)
-- **Thin-skinned** - touchy/offended at the slightest provocation (e.g. Mohammad Bin Salman is notoriously *thin-skinned*)
+- **Standoff** - deadlock/impasse (e.g. *Ace and Jinbe fought to a **standoff**.*)
+- **Thin-skinned** - touchy/offended at the slightest provocation (e.g. *Mohammad Bin Salman is notoriously **thin-skinned**.*)
 - **Chafe**:
 	- Irritate/vex/get irritated/vexed e.g.
-		- The noise of the children playing *chafed* her 
-		- He *chafes* at the rules 
-- **Jilt** - cast off/reject (e.g. having become rich, she *jilted* all her old friends)
-- **Ravenous** - voracious (e.g. a *ravenous* appetite)
+		- *The noise of the children playing **chafed** her*
+		- *He **chafes** at the rules*
+- **Jilt** - cast off/reject (e.g. *having become rich, she **jilted** all her old friends*)
+- **Ravenous** - voracious (e.g. *a **ravenous** appetite*)
 ---
 - **Falter**:
 	- Walking unsteadily/stumbling (e.g. her steps began to falter. He never faltered in his determination. The business was faltering)
@@ -39,7 +39,7 @@
 - **Promulgate** - promote/make widely known (an idea etc) (e.g. *he was busy **promulgating** his newly invented theory*)
 - **Escaping the drudgery of life**
 ---
-- **Hegemony** - domination (e.g. the fact the BD is paying Russia for the nuclear plant in Yuans rather than in dollars hints at the end of dollar *hegemony*)
+- **Hegemony** - domination (e.g. the fact BD is paying Russia for the nuclear plant in Yuans rather than in dollars hints at the end of dollar *hegemony*)
 - **Ratchet** - cause to move up/down by steps (e.g. this diplomatic move has the potential to *ratchet up* tension between BD and the US. I'm trying to *ratchet down* my error rates.)
 - **Boggy** - swampy / marshy (e.g. I often visit these *boggy* expanses)
 ---
@@ -83,14 +83,14 @@
 - **Recondite** - abstruse (e.g. *it is indeed a **recondite** matter*)
 - **Backlog** - accumulation of unperformed tasks (e.g. *we have a huge **backlog** of tasks at hand*)
 ---
-- *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm** *
+- *Even though the cost of living has skyrocketed over the last year, there will be no additional support for the poor to **weather the storm**.*
 - **The ominous drumbeats grew louder**
 - **Jaded** - fatigued by overwork (e.g. *a **jaded** medical student*) / made apathetic by seeing too much of something (e.g. *he became **jaded** from years of work as a police officer*)
 - **Squalid** - **sordid** (e.g. *the family lived in **squalid** conditions*)
 ---
 - **Bad patch** -> *The president of the FBCCI said that businesses are going through a **bad patch** for multiple factors*
 - **Levy** - impose or collect by legal authority (e.g. *the government **levied** a tax on gasoline*) / the amount levied (e.g. *the government imposed a **levy** on gasoline*)
-- **Rescind** - abrogate (e.g. * **rescind** an act/contract*)
+- **Rescind** - abrogate (e.g. *to **rescind** an act/contract*)
 - **Repeal** - rescind by authority (e.g. *the 15th amendment **repealed** the 13th, thus making an interim caretaker government unconstitutional*)
 ---
 
@@ -378,7 +378,7 @@
 - **Snap up** - quickly buying something in sale etc (e.g. *India has been **snapping up** cheap Russian crude since the start of the war*)
 - *Still a **hefty** 63% higher*
 ---
-- *In the face of the prospects of an **onerous** defeat, the brave Kozuki retainers were **poised to** take on Kaido*
+- **Onerous** - troublesome (*In the face of the prospects of an **onerous** defeat, the brave Kozuki retainers were **poised to** take on Kaido*)
 - *Tali office to Mitford is really quite a bit of a **long haul**.*
 - **Shoddy** - low quality (e.g. *his business is full of **shoddy**, third-rate stuff*)
 - **Round up** - assemble (e.g. *he **rounded everyone up** for one final lesson*)
@@ -517,8 +517,77 @@
 ---
 - *It is the cacophony of two political parties that will be assaulting our eardrums*
 - **Entrench** - establish solidly (e.g. *they **entrenched** themselves in the business.*)
+- **Pelt** - hurl missiles at (e.g. *the kids **pelted** rotten eggs at the clown*)
+- **Condone** - ignore a fault or sth (e.g. *the two-faced US government condemned Hamas yet **condoned** the atrocities of Israel*)
+- *Doing exactly what those with decades of experience and **walls of accolades** are*
+---
+- **Din** - loud noise (e.g. *universities erupted into a **deafening din** of **whataboutisms**.*)
+- *witness the **unrelenting** and brutal bombardment*
+- **Vaunt** - brag (e.g. *Israel's much-**vaunted** iron dome defence system has completely collapsed*)
+- **Grisly** - gruesome (e.g. *the attacks on Palestine by Israel and the support they've garnered displays the **grisly** state of human rights in the world*)
+- **Vilify** - defame (e.g. *the Daily Star journo was quick to take to his newspaper to **vilify** the doctor*)
+---
+- *The question that rings deafeningly in my mind*
+- **Skedaddle** - **make a run for it** (e.g. *the US in the middle east has been like a quack, claiming to be able to mend all your wounds, who **skedaddles** after making the wounds so festering that makes both cure and amputation impossible*)
+- **Quixotic** - foolishly idealistic with little realistic forethought (e.g. *MBS thought it too **quixotic** to continue being in bad terms with Israel*)
+- **Quash** - suppress / squash (e.g. *Netanyahu was quick to **quash** the rebellion*)
+---
+- **Tout** - glorify to sell or sth like that (e.g. *the Iron Dome was **touted** as the infallible, ultimate defence system*)
+- **Wrangle** - bicker (e.g. *instead of finding the root cause, we're **wrangling** over the outliers*)
+- *Using religion simplifies complex politics and makes it easier to bifurcate and **galvanise** people into group and identity based politics*
+- **Peevish** - irascible (e.g. *owing to his recent losing streak, Shakib's been quite **peevish** of late*)
+- **Sojourn** - a short stay (e.g. *We began our holidays with a **sojourn** in the countryside*)
+---
+- *The PM spent a fortnight on the other side of the Atlantic to **drum up** support for the planned reenactment of the rigged election*
+- **At loggerheads** - in disagreement / **wrangling** (e.g. *instead of working together to achieve a common goal, Hamas and Fatah have been **at loggerheads** since the Oslo accords, further perpetuating their quagmire*)
+- **Aficionado**
+- *All of my extended family was **evicted** from Palestine during the first Nakba*
+- *ravaged by financial woes*
+---
+- **Indelible** - unforgettable / unremovable (e.g. *The Israel-Palestine war of 2023 has left an **indelible** mark on the Muslim community*)
+- **Unconscionable** - exceeding acceptable limits (e.g. *the retaliation from Israel has been cruel and **unconscionable**.*)
+- **Flagrant** - blatant / **egregious** (e.g. *they've committed **flagrant** violations of international laws*)
+- **Face the music** - face the unpleasant consequences of one's action (e.g. *I skipped duties thinking that it'd be a breeze to do them later. Now I'm **facing the music** of those decisions.*)
+---
+- **Wayward** - recalcitrant / unruly / **obstreperous** / **contumacious** (e.g. *as a **wayward** child, I was always scolded by my teachers*)
+- **Clamorous** - noisy (e.g. *working in this new fancy office, I miss, in a certain way, the **clamorous** bustle of Mitford*)
+- **Bowl over** - impress (e.g. *I just watched one talk by Edward Said and it completely **bowled me over** - I've never stopped since*)
+- **Muck up** - do clumsily / ruin (e.g. *I have a knack for **mucking up** anything I dip my toes in*)
+---
+- **Reel** - move unsteadily as if about to fall (e.g. *at one point, the Tigers were **reeling at** 58 for 5*)
+- **Dogged** - stubborn / persevering (e.g. *the **dogged** determination of the people to gain freedom*)
+- **Hurly-burly** - boisterous / clamorous activity (e.g. *as I face the twilight of my med student years, I start missing the **hurly-burly** that I once tried so keenly to avoid*)
+- **Slated to** - scheduled to (e.g. *BNP's rally is **slated to** take place on the 28th*)
+---
+- **Behove** - being proper / necessary / advantageous (e.g. *it doesn't **behove** the ruling party **to** create such chaos*)
+- *The cacophony of the two leading parties will be assaulting our eardrums*
+- **Beset by** - fraught with (e.g. *Bangladesh is **beset by** problems*)
+- *Akther’s dilemma is symptomatic of Dhaka’s **broader woes**.*
+- *The aim of the Israeli government is one of pounding Palestinians into **petrified silence**.*
+- **Foray** - initial and often tentative attempt to do something in a new or different field (e.g. *I attempted **foraying** into the world of geopolitics and international relations*)
+---
+- **Let-up** - reduction of intensity (e.g. *There has been no **let-up** of bombardment of the civilians from the IDF*)
+- **Assail** - criticise / attack (e.g. *The newspapers **assail** the government for the CSA regularly. Guterres has been an outspoken voice about the ills that **assail** the masses*)
+- *The attitude is **imbecilic in form, foolhardy in substance**.*
+- *UN chiefs have often had a tough time **navigating the turbid waters** they have had to cross*
+- **Pliant** - easily bendable (e.g. *UN sec-gens are often **pliant** officials*)
+---
+- **Parlous** - perilous (e.g. *With significant wars going on in Asia, Europe, and Africa, the world is going through **parlous** times*)
+- *The violent **onslaught** of Israel*
+- **Demur** - object to (e.g. *others were pliant but the CEO immediately **demurred to** the proposal*)
+- *Sri Lanka's defaulting on its debt **ushered in** a $3B IMF bailout deal*
+- *Despite being fraught with imponderable financial quandaries, the resilient people of Sri Lanka have **gutted it out** against all odds*
+---
+- **Cash-strapped** - indigent (e.g. *since the end of my internship, I've been **cash-strapped** and have had to **pinch pennies**.*)
+- **Vet** - scrutinise (e.g. *When so many projects are approved, it's natural that most were not **vetted**, at least sufficiently*)
+- *No sooner had the government celebrated the achievement, the Ukraine war broke out, **casting a shadow over the success** with power and energy disruptions*
+- *When the **wheels of industries** slow down, the budget deficit widens*
+---
+- *The Internet is **emblematic of** an era in which what happens in Southeast Asia can affect Americans. As has been observed about water pollution, we all live downstream now.*
+- **Dearth** - lack (e.g. *There is no **dearth** of examples that suggest the opposite*)
+- **Beef up** - increase (e.g. *The Police have been told to **beef up** their patrols*)
+- **Thumping** - decisive (e.g. *Bangladesh has managed a **thumping** victory over SL*)
+- **On the trot** - in succession (e.g. *Bangladesh lost 6 matches **on the trot** before defeating SL*)
+---
+- **Bear on** - be a burden (e.g. *The political unrest is **bearing on** our fragile economy*)
 - 
-
-
-
-

@@ -5,10 +5,12 @@
 	3. Natural resources
 	4. Foreign policy
 	5. Songbidhan
+	6. Megaprojects
 - [ ]  International affairs = 100
 	1. Int'l orgs
 	2. Int'l relations
 	3. Major conflicts
+	4. Climate change
 - [ ]  Bangla = 100
 	1. Grammar
 	2. Adhunik jug
@@ -78,8 +80,17 @@
 
 ### Oct 11 - Oct 17
 - [ ]  4 translations + 4 retranslations
-- [ ]  Bangla grammar
+- [x]  Bangla grammar
 - [ ]  Constitution
-- [ ]  Int'l relations major conflicts
-- [ ]  Maps and charts
+- [x]  Int'l relations major conflicts
+- [x]  Maps and charts
 - [ ]  30 new words + apply to retranslation 
+
+### Oct 21 - Oct 27
+- [ ] BangLit modern
+- [ ] Int'l orgs, int'l rels
+- [ ] Maps and charts
+- [ ] Constitution 
+- [ ] Free hand writing practice
+- [ ] Med ¼ 
+- [ ] Megaprojects
