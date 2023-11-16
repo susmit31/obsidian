@@ -566,11 +566,13 @@
 - *The aim of the Israeli government is one of pounding Palestinians into **petrified silence**.*
 - **Foray** - initial and often tentative attempt to do something in a new or different field (e.g. *I attempted **foraying** into the world of geopolitics and international relations*)
 
-- **Let-up** - reduction of intensity (e.g. *There has been no **let-up** of bombardment of the civilians from the IDF*)
+- **Let-up** - reduction of inte
+- nsity (e.g. *There has been no **let-up** of bombardment of the civilians from the IDF*)
 - **Assail** - criticise / attack (e.g. *The newspapers **assail** the government for the CSA regularly. Guterres has been an outspoken voice about the ills that **assail** the masses*)
 - *The attitude is **imbecilic in form, foolhardy in substance**.*
 - *UN chiefs have often had a tough time **navigating the turbid waters** they have had to cross*
 - **Pliant** - easily bendable (e.g. *UN sec-gens are often **pliant** officials*)
+
 
 - **Parlous** - perilous (e.g. *With significant wars going on in Asia, Europe, and Africa, the world is going through **parlous** times*)
 - *The violent **onslaught** of Israel*
@@ -578,10 +580,12 @@
 - *Sri Lanka's defaulting on its debt **ushered in** a $3B IMF bailout deal*
 - *Despite being fraught with imponderable financial quandaries, the resilient people of Sri Lanka have **gutted it out** against all odds*
 
+
 - **Cash-strapped** - indigent (e.g. *since the end of my internship, I've been **cash-strapped** and have had to **pinch pennies**.*)
 - **Vet** - scrutinise (e.g. *When so many projects are approved, it's natural that most were not **vetted**, at least sufficiently*)
 - *No sooner had the government celebrated the achievement, the Ukraine war broke out, **casting a shadow over the success** with power and energy disruptions*
 - *When the **wheels of industries** slow down, the budget deficit widens*
+
 
 - *The Internet is **emblematic of** an era in which what happens in Southeast Asia can affect Americans. As has been observed about water pollution, we all live downstream now.*
 - **Dearth** - lack (e.g. *There is no **dearth** of examples that suggest the opposite*)
@@ -589,5 +593,13 @@
 - **Thumping** - decisive (e.g. *Bangladesh has managed a **thumping** victory over SL*)
 - **On the trot** - in succession (e.g. *Bangladesh lost 6 matches **on the trot** before defeating SL*)
 
+
 - **Bear on** - be a burden (e.g. *The political unrest is **bearing on** our fragile economy*)
+- **Burst at the seams** - overflow beyond reasonable estimate (e.g. *After the results were out my emotions were **bursting at the seams**.*)
+- **Curt** - brief and rude (e.g. *His **curt** response was unexpected to me*)
+- **Shimmer** - shine (e.g. *Bangladesh has been **shimmering** in the field of economic development under this regime*)
+- **Nebulous** - vague (e.g. *Redon's hints from the manga are often quite **nebulous**.*)
+
+
+- **Travesty** - a poor imitation (e.g. *The Govt's actions make but a **travesty** of justice*)
 - 
