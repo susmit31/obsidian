@@ -12,7 +12,7 @@
 
 ## Keywords of note
 
-### Money / Knowledge
+### Money / Knowledge 
 - An investment in knowledge pays the best interest - *Ben Franklin*
 - Money is a terrible master but an excellent servant - *PT Barnum*
 - All the money you made will never buy back your soul - *Bob Dylan*
@@ -29,7 +29,6 @@
 ### Success / Happiness
 - Man needs his difficulties because they are necessary to enjoy his success - *APJ Abdul Kalam*
 - Sometimes we need the salt of tears to remind us how to savor the sweetness of life - *Lysa TerKeurst*
-- 
 
 ### Justice
 - Justice delayed is justice denied - *William Gladstone*
@@ -38,6 +37,11 @@
 - You can also commit injustice by doing nothing - *Marcus Aurelius*
 
 ### Desires
-- Human behavior flows from three main sources: desire, emotion, and knowledge. - *Plato*
+- Human behavior flows from three main sources: desire, emotion, and knowledge - *Plato*
 - Wealth consists not in having great possessions, but in having few wants - *Epictetus*
--
+- The greatest wealth is a poverty of desires - *Seneca*
+
+### Knowledge
+- An investment in knowledge pays the best interest - *Ben Franklin*
+- If money is your hope for independence, then you will never have it. The only real security than a man can have in this world is a reserve of knowledge, experience, and ability - *Henry Ford
+- 
