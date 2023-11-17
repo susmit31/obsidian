@@ -26,10 +26,14 @@
 - For greed, all nature is too little - *Seneca*
 
 
-### Hardwork
+### Hardwork / hardships
 - The dictionary is the only place where success comes before work - *Mark Twain*
 - Without hard work, nothing grows but weeds - *Gordon B. Hinckley*
 - Being deeply learned and skilled, being well trained and using well spoken words; This is good luck - *Gautama Buddha*
+- When we long for life without difficulties, remind us that oaks grow strong in contrary winds and diamonds are made under pressure - *Peter Marshall*
+- Every opportunity has a difficulty, and every difficulty has an opportunity - *J. Sidlow Baxter*
+- A pessimist is one who makes difficulties of his opportunities and an optimist is one who makes opportunities of his difficulties - *Harry S. Truman*
+
 
 ### Success / Happiness
 - Man needs his difficulties because they are necessary to enjoy his success - *APJ Abdul Kalam*
