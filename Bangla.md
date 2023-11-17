@@ -12,7 +12,7 @@
 
 ## Keywords of note
 
-### Money / Knowledge 
+### Money / Greed / Knowledge 
 - An investment in knowledge pays the best interest - *Ben Franklin*
 - Money is a terrible master but an excellent servant - *PT Barnum*
 - All the money you made will never buy back your soul - *Bob Dylan*
@@ -20,6 +20,11 @@
 - But I, being poor, have only my dreams - *WB Yeats*
 - If money is your hope for independence, then you will never have it. The only real security than a man can have in this world is a reserve of knowledge, experience, and ability - *Henry Ford*
 - Too many people spend the money that they earned, to buy things that they don't want... to impress people that they don't like - *Will Rogers*
+- Greed is a bottomless pit which exhausts the person in an endless effort to satisfy the need without ever reaching satisfaction - *Erich Fromm*
+- Earth provides enough to satisfy every man's needs, but not every man's greed - *Mahatma Gandhi*
+- Experience demands that man is the only animal which devours his own kind, for I can apply no milder term to the general prey of the rich on the poor - *Thomas Jefferson*
+- For greed, all nature is too little - *Seneca*
+
 
 ### Hardwork
 - The dictionary is the only place where success comes before work - *Mark Twain*
@@ -43,5 +48,17 @@
 
 ### Knowledge
 - An investment in knowledge pays the best interest - *Ben Franklin*
-- If money is your hope for independence, then you will never have it. The only real security than a man can have in this world is a reserve of knowledge, experience, and ability - *Henry Ford
+- The only real security than a man can have in this world is a reserve of knowledge, experience, and ability - *Henry Ford*
 - 
+
+### Violence / Benevolence
+- Through violence, you may murder the hater, but you cannot murder the hate - *ML King*
+- We make a living by what we get, we make a life by what we give - *Churchill*
+- The best way to find yourself is to lose yourself in the service of others - *Mahatma Gandhi*
+- The true meaning of life is to plant trees, under whose shade you do not expect to sit - *Nelson Henderson*
+
+
+### Belittling
+- To belittle, you have to be little - *Khalil Gibran*
+- 
+
