@@ -60,6 +60,7 @@
 - We make a living by what we get, we make a life by what we give - *Churchill*
 - The best way to find yourself is to lose yourself in the service of others - *Mahatma Gandhi*
 - The true meaning of life is to plant trees, under whose shade you do not expect to sit - *Nelson Henderson*
+- Someone is sitting in the shade today because someone planted a tree a long time ago - *Warren Buffett*
 
 
 ### Belittling
