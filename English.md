@@ -602,4 +602,4 @@
 
 
 - **Travesty** - a poor imitation (e.g. *The Govt's actions make but a **travesty** of justice*)
-- 
+- **Affront** - insult (e.g. *My constructive criticism was mistaken for an **affront**.*)
