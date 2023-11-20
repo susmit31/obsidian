@@ -49,11 +49,13 @@
 - Human behavior flows from three main sources: desire, emotion, and knowledge - *Plato*
 - Wealth consists not in having great possessions, but in having few wants - *Epictetus*
 - The greatest wealth is a poverty of desires - *Seneca*
+- Misers take care of property as if it belonged to them, but derive no more benefit from it than if it belonged to others - *Wilfred Bion*
+
 
 ### Knowledge
 - An investment in knowledge pays the best interest - *Ben Franklin*
 - The only real security than a man can have in this world is a reserve of knowledge, experience, and ability - *Henry Ford*
-- 
+
 
 ### Violence / Benevolence
 - Through violence, you may murder the hater, but you cannot murder the hate - *ML King*
@@ -61,9 +63,13 @@
 - The best way to find yourself is to lose yourself in the service of others - *Mahatma Gandhi*
 - The true meaning of life is to plant trees, under whose shade you do not expect to sit - *Nelson Henderson*
 - Someone is sitting in the shade today because someone planted a tree a long time ago - *Warren Buffett*
+- What you do speaks so loud that I cannot hear what you say - *Ralph Waldo Emerson*
 
 
 ### Belittling
 - To belittle, you have to be little - *Khalil Gibran*
 - 
 
+### Character
+- Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are - *John Wooden*
+- When wealth is lost, nothing is lost; when health is lost, something is lost; when character is lost, all is lost - *Billy Graham*
