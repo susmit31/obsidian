@@ -68,6 +68,7 @@ The **current status** of the SCO is that it is an active and influential region
 
 
 ## Reserve currency
+### Utility of reserves
  Holding reserves in foreign currencies can provide several benefits to a country:
 
 1. **Increasing market confidence** in a country's ability to meet its external obligations.
@@ -82,3 +83,8 @@ Foreign currency reserves can also help a country **maintain liquidity** in case
 Foreign currency reserves can also be used to **fund internal projects** such as infrastructure or industry programs.
 
 It is important to note that holding foreign currency reserves can also have some drawbacks. For example, holding large amounts of foreign currency reserves can lead to **opportunity costs** as the country may miss out on higher returns from other investments.
+
+### Criteria for being a reserve
+- **Liquidity**
+- **Convertibility**
+- **Stability**
