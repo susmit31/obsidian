@@ -1,4 +1,5 @@
 - BRICS latest summits:
+	- 15th ('23): South Africa
     - 14th (2022): China 
     - 13th (2021): India 
 - Human development index 2022 - 1st Switzerland (BD 129)
@@ -32,7 +33,6 @@ These policies are expected to help Sri Lanka overcome the current crisis and ac
 
 
 ## SCO
-
 The **Shanghai Cooperation Organisation (SCO)** is a Eurasian political, economic, international security and defence organization established by China and Russia in 2001.  It is the world's largest regional organization in terms of geographic scope and population, covering approximately 80% of the area of Eurasia, 40% of the world population.  As of 2021, its combined GDP was around 20% of global GDP. 
 
 The **purposes** of the SCO are to strengthen mutual trust and good-neighbourliness among the member states, promote effective cooperation in politics, trade, economy, culture, education, energy, transportation, tourism, environmental protection and other fields, safeguard regional peace, security and stability, and create a new international political and economic order that is fair, rational, equal and mutually beneficial. 
