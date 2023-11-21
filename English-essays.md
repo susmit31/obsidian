@@ -18,22 +18,15 @@
 	- Current: 417ppm
 	- GHGs in Kyoto: CO2, CH4, N2O (major)
 	   H2O(g), O3, PFC, CFC
-- Each of the past 4 decades have been successively warmer than any decade that preceded it since 1850
-- Arctic sea ice area reduction ('80s vs '10s):
-	- September: 40%
-	- March: 10%
-- **Global warming**: increase in global surface temp relative to baseline (usually taken to be 1850-1900, the earliest period of reliable observation with sufficient geographical coverage)
-- Arctic ice melting won't contribute to SLR directly (as the ice is floating on the arctic sea) but rather indirectly by decreasing the Earth's albedo => ++T => melting.
-  However, melting of land ice does cause SLR.
 - Extreme weather events => $157B lost in '20-'21 globally
 - **Maplecroft** (Brit climate research institute) Climate Change Vulnerability Index: ***BD 1st*** 
 
 
 ### Causes of Climate Change
 - **Natural**: net temperature change contribution around 0 if avg over decades
-	- *Geological heat source*: volcanism
-	- *Variation in solar irradiation*
-	- *Variation in the Earth's orbit*
+	- *Geological* heat source: volcanism
+	- Variation in *solar irradiation*
+	- Variation in the Earth's *orbit*
 - **Human-induced**:
 	- GHG (+++T)
 	- Deforestation (+T)
@@ -55,7 +48,10 @@ IPCC 6th Assessment Report (2022)
 - Russia: 4.7%
 - Japan: 2.9%
 
-### Temperature	
+### Effects of Climate Change
+#### Temperature	
+- **Global warming**: increase in global surface temp relative to baseline (usually taken to be 1850-1900, the earliest period of reliable observation with sufficient geographical coverage)
+- Each of the **past 4 decades** have been **successively warmer than any decade that preceded** it since 1850
 - **Global**: 
 	- **1.2°C warming so far** compared to preindustrial times
 	- *Current state of policies* in different countries gives a projected warming of **2.7°C by 2100**
@@ -65,18 +61,56 @@ IPCC 6th Assessment Report (2022)
 - **BD**:
 	- Last 50y, on avg: **0.4°C**
 	- However locally this has been as high as 2°C in places
+	- 4.8% working hours will be lost by 2030 due to heat stress, leading to a near-5% GDP loss ($30B)
 
-### SLR
+#### SLR
 - Causes:
 	- Melting sea ice
 	- Rising Temp => volume expansion of water
-- BD 2/3rds <5m above SL
 - Mean SLR (1901 to 2018) = 20cm (1.7mm/yr)
 		   (2000 to 2018) = 4.8cm (3.7mm/yr)
-- As per IPCC,
-	- 30-45cm SLR => 35M coastal population displaced
-	- By 2050, 25cm SLR => 4% land of BD
-	- By 2100, 1m SLR => 17.5% land of BD
+- Arctic ice melting won't contribute to SLR directly (as the ice is floating on the arctic sea) but rather indirectly by decreasing the Earth's albedo => ++T => melting.
+  However, melting of land ice does cause SLR.
+- Arctic sea ice area reduction ('80s vs 2010s):
+	- September: 40%
+	- March: 10%
+- **BD**:
+	- 2/3rds area <5m above SL
+	- As per IPCC,
+		- 30-45cm SLR => 35M coastal population displaced
+		- By *2050*, *25cm* SLR => *4%* land permanently inundated
+		- By *2100*, *100cm* SLR => *17.5%*
+	- *↓30% food production*
+	- *1/3rd* population @risk of *displacement by 2100*
+	- 30% area inundated in regular floods, 67% in major floods
+	- *1.5% GDP loss/yr* by 2031
+
+#### Lightning strikes
+- ↑12% if ΔT=1°C
+
+#### Climate-induced disasters
+- More frequent extreme weather events
+	- Heatwaves
+	- Droughts
+	- Wildfires
+	- Heavy rainfall => flooding
+	- Storms / cyclones
+- **BD**:
+	- *$1.8B lost/yr* from '00-'20
+	- *$4B loss/yr* by 2030
+
+#### Human lives and economy
+- **Health impacts**: Direct damage costs to health *~$3B/yr* (WHO)
+	- *Direct impacts*:
+		- Extreme weather events such as heatwaves, storms, and floods can cause injury, illness, and death
+		- WHO: *37% heat-related deaths* by human-induced climate change
+	- *Indirect impacts*: Changes in temperature and rainfall can alter the survival, distribution, and behavior of insects and microbes, leading to *changes in infectious diseases*. Increases in precipitation, storm surge, and sea temperature can lead to more *water-related illnesses*
+	- *Air quality*: air pollution => ↓respiratory and cardiovascular health
+	- *Food safety*: ↓food production, ↑foodborne illnesses due to ↑temperature being suitable for microbial multiplication
+	- *Mental health*
+- **BD**:
+	- *~150k excess deaths/yr*
+	- *6.8% GDP loss/yr*
 
 ### Global Climate Diplomacy
 - **Montreal protocol** '87
