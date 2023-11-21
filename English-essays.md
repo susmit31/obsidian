@@ -7,12 +7,13 @@
 
 
 ## Climate change
+- The industrial revolution was quite similar to the mythical Golden Touch of King Midas. We were brimming with ecstasy and excitement as we saw everything we touched turn into gold. But alas, a fate much like Midas would await, something that nobody could hardly ever anticipate. The industrial revolution, the coveted golden goose that we'd invented, had turned us into Victor Frankenstein, a genius whose own creation had been his undoing. The way forward chosen by Victor, as his last words articulated in a sombre overtone, was by seeking happiness in tranquility and avoiding ambitions. Yet we humans can't abandon ambition even in the face of imminent destruction.
 ### General info
 - GHG:
 	- Preindustrial: 278ppm
 	- Current: 417ppm
 	- GHGs in Kyoto: CO2, CH4, N2O (major)
-					 H2O(g), O3, PFC, CFC
+	   H2O(g), O3, PFC, CFC
 - COPs:
 	- COP1 ('95) => Kyoto protocol
 	- COP21 ('15) => Paris agreement:
@@ -57,11 +58,15 @@ IPCC 6th Assessment Report (2022)
 - Japan: 2.9%
 
 ### Temperature	
-- **Global**: \Delta T (from 1850-1900 to 2011-2020) = 1.09dC. 
-  Human caused: 1.07dC.
+- **Global**: 
+	- **1.2°C warming so far** compared to preindustrial times
+	- *Current state of policies* in different countries gives a projected warming of **2.7°C by 2100**
+	- Full implementation of *pledges and commitments* so far would limit that to *2.1°C* at best.
+- **Human impact**: ∆T (from 1850-1900 to 2011-2020) = 1.09°C. 
+  Human caused: 1.07°C.
 - **BD**:
-	- Last 50y, on avg: 0.4dC
-	- However locally this has been as high as 2dC in places
+	- Last 50y, on avg: **0.4°C**
+	- However locally this has been as high as 2°C in places
 
 ### SLR
 - Causes:
