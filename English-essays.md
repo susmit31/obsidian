@@ -155,9 +155,16 @@
 		- air pollution causes 1 in 8 deaths worldwide
 	- *Food safety*: ↓food production, ↑foodborne illnesses due to ↑temperature being suitable for microbial multiplication
 	- *Mental health*
-- **BD**:
+
+- **Economic impacts**:
+	- GDP loss for ΔT = 2℃ :
+		- World: ~11%
+		- Asia, MENA: ~14-15%
+		
+- **BD**: 
 	- *~150k excess deaths/yr*
 	- *6.8% GDP loss/yr*
+
 
 ### Global Climate Diplomacy & Policymaking
 - **Montreal protocol** '87
