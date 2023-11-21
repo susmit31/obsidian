@@ -18,12 +18,6 @@
 	- Current: 417ppm
 	- GHGs in Kyoto: CO2, CH4, N2O (major)
 	   H2O(g), O3, PFC, CFC
-- COPs:
-	- COP3 ('97, Kyoto) => Kyoto protocol
-	- COP21 ('15) => Paris agreement:
-		- Limit temperature rise to 2deg C
-		- NDCs
-	- COP26 ('21) => Net zero by 2050
 - Each of the past 4 decades have been successively warmer than any decade that preceded it since 1850
 - Arctic sea ice area reduction ('80s vs '10s):
 	- September: 40%
@@ -116,7 +110,9 @@ IPCC 6th Assessment Report (2022)
 		- limit warming to 2dC, preferrably 1.5dC
 		- NDCs of the parties' choosing
 - **COP23** '17, Bonn: Establishment of **Powering Past Coal Alliance (PPCA)**, a "non-proliferation treaty" for fossil fuels by UK and Canada (170 members)
-- **COP26** '21, Glasgow: Formally addressed **coal phase-out** for the first time
+- **COP26** '21, Glasgow: 
+	- Formally addressed **coal phase-out** for the first time
+	- Net-zero by 2050
 - **COP27** '22, Sharm-Al-Sheikh: Addressed **loss-and-damage**
 
 ### Power generation methods comparison
