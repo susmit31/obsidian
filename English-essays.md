@@ -226,7 +226,7 @@
 		- **NDC** submitted to UNFCCC secretariat:
 			- *Unconditionally **↓Emissions 6.7%*** (27.56Mt CO2e) *by '30*
 			- *Conditional* upon foreign aid, *15.1%* (61.9Mt CO2e) 			
-		- Pursuing **renewables** (*1158MW renewable* / 26700MW total (BER23))
+		- Pursuing **renewables** (*1158MW renewable* / 26700MW total (BER23)) *(SDG goal 7)*
 			- ~1800 rooftop solars have been installed (60MW)
 			- Hydro e.g. Kaptai (230MW)
 		- **Phase-down of coal** for power generation (Coal source:11%, Gas:49%)
@@ -241,6 +241,20 @@
 			- Raids by mobile court against motor vehicles emitting black smoke
 		
 
+### Further suggestions
+- Reduce traffic
+- Improve public transport infrastructure
+- Levy taxes on motor vehicles
+- Allow even number-plates to run on even days, odd number-plates on odd days
+- Levy taxes on energy-intensive appliances e.g. AC
+- Stop subsidising fossil fuels
+- Subsidise clean energy solutions
+- Promote awareness
+- Include in curriculum more extensively
+- Climate science department in all unis
+- Stricter regulations of urbanisation, deforestation and ensuring implementation
+- Diplomatic efforts to ensure green funding
+- Stay below emissions quota => save money + carbon trade with saved quota
 
 
 ## Environmental pollution
