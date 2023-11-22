@@ -155,7 +155,7 @@
 		- air pollution causes 1 in 8 deaths worldwide
 	- *Food safety*: ↓food production, ↑foodborne illnesses due to ↑temperature being suitable for microbial multiplication
 	- *Mental health*
-
+		
 - **Economic impacts**:
 	- GDP loss for ΔT = 2℃ :
 		- World: ~11%
@@ -230,15 +230,73 @@
 
 
 ## Environmental pollution
+### Intro
+> "When the last tree is cut down, the last fish eaten, the last stream poisoned, you will realise that you cannot eat money" - John May
+
+Man's quest for "development" defines the modern era of our civilisation. Although it has always been part of the human agenda, for the longest part of history, mankind has been subject to the whims of mother nature. Prosperity was mostly within the confines she had set for us. But the mankind is a species of unfathomable potential. We not only persevered, but we invented. The invention of the steam engine by the illustrious inventor James Watt was the watershed moment that made man the subduer instead of the subdued, and then we never looked back. The days of worry were over. Even the poor of the industrial societies could consume a lot more, and hence were economically better off, compared to the "middle-class" of the pre-industrial times. Mankind had hit its puberty, its growth spurt had begun. Yet within all this shimmer, something was missing. We couldn't pinpoint exactly what, but many elderlies readily recognised that what was missing was the connection to mother nature. Much like an unruly child who enters into a rebellious adolescence, we pushed our economies further and further chasing the dreams of prosperity with no compunction, extracting more and more out of nature, until she started to show the signs of illness. We find ourselves at a historical crossroads where we have to pick between developing wisely ensuring the best of nature, or choosing to run amok until the entirety of our much-vaunted economy faces imminent implosion. As such, it is of paramount importance to address pollution much, much louder than ever before, now more than eer.
+
+
 - BD loses **2.7%GDP/yr** due to EnvPol (WB)
+- Introduction of **contaminants**, usually of **anthropogenic source** that **adversely change** the environment
+	- Anthropogenic source: manufacturing, extraction, waste disposal, transport, agriculture
+- Pollutant:
+	- Substances: Solid, liquid, gas
+	- Energy: radioactivity, heat, sound, light
+- Over the *past two decades*, **deaths caused by the modern forms of pollution** have **increased by 66%**, driven by
+	- industrialisation
+	- uncontrolled urbanisation
+	- population growth
+	- fossil fuel combustion
+	- an absence of adequate national or international chemical policy.
+- **>9 million deaths/yr globally**. This number has not changed since 2015.
+	- **More than AIDS, TB, Malaria killings combined**
+- **>90% of pollution-related deaths** occur in *low and middle-income countries*
 - ***Brundtland report '87***: "Environment is where we live, and development is what we all do in attempting to improve our lot within that abode. The two are inseparable... Ensure that it meets the needs of the present wihout compromising the ability of future generations to meet their own needs"
+- "The **triad of pollution, climate change, and biodiversity loss* are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
+- Men are more likely to die from air pollution, lead pollution, and occupational pollutants than women. Women and children are more likely to die from water pollution.
+
 
 ### Air pollution
-- According to the WHO, air pollution accounts for 1 in 8 deaths worldwide
+- According to the *WHO*, air pollution *accounts for 1 in 8 deaths* (6.67M/yr due to air pollution out of ~50M/yr total deaths) worldwide
 - Research has demonstrated increased risk of developing asthma and chronic obstructive pulmonary disease (COPD) from increased exposure to traffic-related air pollution
 - Air pollution has been associated with increased hospitalization and mortality from asthma and COPD
 - Ambient levels of air pollution have been associated with preterm birth and low birth weight
 - Data is accumulating that air pollution exposure also affects the central nervous system
 - Air pollution increases the risk of dementia in people over 50 years old
 - Childhood indoor air pollution may negatively affect cognitive function and neurodevelopment
+- Air pollution is *entwined with climate change* because the emissions driving both come largely from the same sources (eg, fossil fuel or biofuel burning)
+	- Burning fuels => fine and ultrafine particulates (eg, PM2·5 and others), long-lived greenhouse gases, and short-lived climate pollutants (SLCPs)
+	- SLCPs:
+		- Simultaneously warmer and polluter
+		- CH4, black carbon (ie, soot), and hydrofluorocarbons
+		- CH4 => 1/3rd of all GHG-related warming, 1/2 of all human-induced warming
+		- ~15y lifepan in the atmosphere => cacn be leveraged to quickly impact climate change and  pollution
 
+### Water pollution
+
+
+### Land pollution
+
+
+### Sound pollution
+
+
+### Chemical pollution
+- Chemical poisoning (e.g. Pb) kills 1.8M/yr worldwide
+- More than 800 million children are estimated to have blood lead concentrations that exceed 5·0 μg/dL
+- Children with blood lead concentrations higher than, or equal to, 5·0 μg/dL could score 3–5 points lower on intelligence tests 
+- Lead-related IQ losses are associated with increased rates of school failure, behavioural disorders, diminished economic productivity, and global economic losses of almost $1 trillion annually. In Africa, the economic losses from lead-related IQ loss are equivalent to about 4% of gross domestic product (GDP) and in Asia, these losses are equivalent to 2% of GDP.
+- sources of lead exposure: unsound recycling of lead–acid batteries and e-waste without pollution controls; spices that are contaminated with lead; pottery glazed with lead salts, which leach out into acidic foods; and lead in paint and other consumer products.
+- Toxicity:
+	- Neuro
+	- Fertility
+	- Immuno: perfluoroalkyl acids => reduced antibody responses to vaccines
+
+### Radioactive pollution
+
+
+### Plastic pollution
+
+
+### Conclusion
+ The problems associated with pollution will likely plague us for decades to come, but we are at a tipping-point where we still can prevent a runaway collapse of the entire ecosystem. As we move forward, we must choose and invent ways to develop our economy without exploiting the nature. 
