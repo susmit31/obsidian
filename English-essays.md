@@ -373,4 +373,6 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 
 
 ### Conclusion
- The problems associated with pollution will likely plague us for decades to come, but we are at a tipping-point where we still can prevent a runaway collapse of the entire ecosystem. As we move forward, we must choose and invent ways to develop our economy without exploiting the nature. 
+ The problems associated with pollution will likely plague us for decades to come, but we are at a tipping-point where we still can prevent a runaway collapse of the entire ecosystem. As we move forward, we must choose and invent ways to develop our economy without exploiting the nature. Each of us must ensure that we are doing our part in getting out of this mess that we ourselves have created. Although most statistics so far paint a bleak and sombre picture of what the future is to behold, maybe we should find solace in our ability to cooperate in times of crises. As the British Biologist *Sir David Attenborough* has eloquently articulated,
+
+> "If working apart we're a force powerful enough to destabilize our planet, then surely working together we're powerful enough to save it."
