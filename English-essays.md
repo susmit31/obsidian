@@ -160,7 +160,7 @@
 	- GDP loss for ΔT = 2℃ :
 		- World: ~11%
 		- Asia, MENA: ~14-15%
-		
+	- The annual average economic losses from climate-related disasters are in the hundreds of billions of dollars. This is not to mention the human impact of geo-physical disasters, which are 91 percent climate-related, and which between 1998 and 2017 killed 1.3 million people, and left 4.4 billion injured.	
 - **BD**: 
 	- *~150k excess deaths/yr*
 	- *6.8% GDP loss/yr*
@@ -201,7 +201,9 @@
 - **COP26** '21, Glasgow: 
 	- Formally addressed **coal phase-out** for the first time
 	- Net-zero by 2050
-- **COP27** '22, Sharm-Al-Sheikh: Addressed **loss-and-damage**
+- **COP27** '22, Sharm-Al-Sheikh:
+	- Addressed **loss-and-damage**; transitional committee to operationalize the Loss and Damage Fund
+	- Addressed the need to ***↓45% emissions by 2030 (base: 2010)*** levels AND ***net zero by 2050*** to keep global warming *≤1.5°C*
 
 
 ### National policies and action
@@ -221,17 +223,20 @@
 		- Brick-making and brick-field establishment control (amendment) act '19
 		- Air pollution control rules '22
 	- **Action / infrastructure**:
-		- Pursuing renewables (*1158MW renewable* / 26700MW total (BER23))
+		- **NDC** submitted to UNFCCC secretariat:
+			- *Unconditionally **↓Emissions 6.7%*** (27.56Mt CO2e) *by '30*
+			- *Conditional* upon foreign aid, *15.1%* (61.9Mt CO2e) 			
+		- Pursuing **renewables** (*1158MW renewable* / 26700MW total (BER23))
 			- ~1800 rooftop solars have been installed (60MW)
 			- Hydro e.g. Kaptai (230MW)
-		- Phase-down of coal for power generation (Coal source:11%, Gas:49%)
+		- **Phase-down of coal** for power generation (Coal source:11%, Gas:49%)
 		- Air pollution:
 			- Illegal, polluting brick kilns:
 				- Mobile court => sued 2300+ people/companies
 				- 86+ crore BDT fined
 				- ~300 jailed
 				- 761 illegal brick kilns have been demolished
-			- 31 CAMS (Continuous air-monitoring systems) installed in divisional and industrial cities including Dhaka
+			- *31 CAMS* (Continuous air-monitoring systems) installed in divisional and industrial cities including Dhaka
 			- HCFC phase-out as party to *Montreal protocol* (67.5% reduction by '25)
 			- Raids by mobile court against motor vehicles emitting black smoke
 		
@@ -295,7 +300,7 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 ### Land pollution
 
 
-### Sound pollution
+### Noise pollution
 
 
 ### Chemical pollution
@@ -327,11 +332,14 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 ### Government measures
 - **Policies**:
 	- Environment conservation act '95
+	- Noise pollution control rules '06
 	- Environmental crisis management rules '16
+	- National Biodiversity Strategy and Action Plan (NBSAP) '16-'21
 	- Biodiversity act '17
 	- National environment policy '18
 	- Brick-making and brick-field establishment control (amendment) act '19
 	- Air pollution control rules '22
+	- Blue economy action plan
 - **Air pollution**:
 	- Illegal, polluting *brick kilns*:
 		- *Mobile court* in Jan'19-Dec'22 => sued 2300+ people/companies
@@ -356,6 +364,13 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 		- 50% plastic waste recycling by 2025
 		- 80% by 2030
 	- 3-year action plan for winding down single-use plastic usage
+- **Water pollution**
+	- **Blue economy action plan** to protect marine ecologies, prevent seawater pollution, utilise marine assets, preserve marine biodiversity
+	- **Assessment of Coastal and Marine Biodiversity Resources and Ecosystems to Implement the BEAP**
+	- Regular **monitoring of water quality** in 99 areas of *30 rivers*: pH, BOD, COD, DO, TDS, SS (suspended solid) => **Surface and Ground Water Quality Report**
+- **13 ECAs (Ecologically Critical Areas)** where deforestation, hunting, fishing, damaging habitats etc are banned
+
+
 
 ### Conclusion
  The problems associated with pollution will likely plague us for decades to come, but we are at a tipping-point where we still can prevent a runaway collapse of the entire ecosystem. As we move forward, we must choose and invent ways to develop our economy without exploiting the nature. 
