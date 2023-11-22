@@ -225,6 +225,15 @@
 			- ~1800 rooftop solars have been installed (60MW)
 			- Hydro e.g. Kaptai (230MW)
 		- Phase-down of coal for power generation (Coal source:11%, Gas:49%)
+		- Air pollution:
+			- Illegal, polluting brick kilns:
+				- Mobile court => sued 2300+ people/companies
+				- 86+ crore BDT fined
+				- ~300 jailed
+				- 761 illegal brick kilns have been demolished
+			- 31 CAMS (Continuous air-monitoring systems) installed in divisional and industrial cities including Dhaka
+			- HCFC phase-out as party to *Montreal protocol* (67.5% reduction by '25)
+			- Raids by mobile court against motor vehicles emitting black smoke
 		
 
 
@@ -233,9 +242,15 @@
 ### Intro
 > "When the last tree is cut down, the last fish eaten, the last stream poisoned, you will realise that you cannot eat money" - John May
 
-Man's quest for "development" defines the modern era of our civilisation. Although it has always been part of the human agenda, for the longest part of history, mankind has been subject to the whims of mother nature. Prosperity was mostly within the confines she had set for us.
-But the mankind is a species of unfathomable potential. We not only persevered, but we invented. The invention of the steam engine by the illustrious inventor James Watt was the watershed moment that made man the subduer instead of the subdued, and then we never looked back. The days of worry were over. Even the poor of the industrial societies could consume a lot more, and hence were economically better off, compared to the "middle-class" of the pre-industrial times. Mankind had hit its puberty, its growth spurt had begun. Yet within all this shimmer, something was missing. We couldn't pinpoint exactly what, but many elderlies readily recognised that what was missing was the connection to mother nature. Much like an unruly child who enters into a rebellious adolescence, we pushed our economies further and further chasing the dreams of prosperity with no compunction, extracting more and more out of nature, until she started to show the signs of illness.
-We find ourselves at a historical crossroads where we have to pick between developing wisely ensuring the best of nature, or choosing to run amok until the entirety of our much-vaunted economy faces imminent implosion. As such, it is of paramount importance to address pollution much, much louder than ever before, now more than ever.
+Man's quest for "development" defines the modern era of our civilisation. Although it has always been part of the human agenda, for the longest part of history, mankind has been subject to the whims of mother nature. Prosperity was mostly within the confines she had set for us. 
+
+But the mankind is a species of unfathomable potential. We not only persevered, but we invented. The invention of the steam engine by the illustrious inventor James Watt was the watershed moment that transformed man from the subdued to the subduer. And since then we never looked back. The days of worry were over. Even the poor of the industrial societies could consume a lot more, and hence were economically better off, compared to the "middle-class" of the pre-industrial times. Mankind had hit its puberty, its growth spurt had begun. 
+
+Yet within all this shimmer, something was missing. We couldn't pinpoint exactly what, but many elderlies readily recognised it. What was missing was the connection to mother nature. Much like an unruly child who enters into a rebellious adolescence, we shrugged off the calls to restrain ourselves. We pushed our economies further and further chasing the dreams of prosperity, extracting every bit as we could from nature with no compunction, until she started to show the signs of illness.
+
+And as she is our nurturer, we too suffer the consequences. Pollution kills more people each year than AIDS, TB, and Malaria, three of the deadliest infectious diseases in existence, do combined. Climate change, largely a product of air pollution, is disrupting weather patterns and delivering fatal blows to economies reducing over a tenth of the global GDP. 
+
+We find ourselves at a historical crossroads where we have to make a conscious choice between developing wisely ensuring the best of nature, or choosing to run amok until the entirety of our much-vaunted economy faces imminent implosion. As such, it is of paramount importance to address pollution much, much louder than ever before, now more than ever.
 
 
 - BD loses **2.7%GDP/yr** due to EnvPol (WB)
@@ -284,7 +299,7 @@ We find ourselves at a historical crossroads where we have to pick between devel
 
 
 ### Chemical pollution
-- Chemical poisoning (e.g. Pb) kills 1.8M/yr worldwide
+- Chemical poisoning (e.g. Pb) kills 1.8M/yr worldwide (lead alone kills 50% of them)
 - More than 800 million children are estimated to have blood lead concentrations that exceed 5·0 μg/dL
 - Children with blood lead concentrations higher than, or equal to, 5·0 μg/dL could score 3–5 points lower on intelligence tests 
 - Lead-related IQ losses are associated with increased rates of school failure, behavioural disorders, diminished economic productivity, and global economic losses of almost $1 trillion annually. In Africa, the economic losses from lead-related IQ loss are equivalent to about 4% of gross domestic product (GDP) and in Asia, these losses are equivalent to 2% of GDP.
@@ -299,6 +314,48 @@ We find ourselves at a historical crossroads where we have to pick between devel
 
 ### Plastic pollution
 
+
+### Economic Impacts
+- Measured by economic output lost due to premature death
+- 2017 Lancet Commission on Pollution on Health:
+	- 6.2% global GDP loss in '15
+	- 80% of that due to air pollution
+- A World Bank study on health effects of PM2.5
+	- 6.1% GDP loss in '19
+	- Most in South Asia: 10.1% GDP loss
+
+### Government measures
+- **Policies**:
+	- Environment conservation act '95
+	- Environmental crisis management rules '16
+	- Biodiversity act '17
+	- National environment policy '18
+	- Brick-making and brick-field establishment control (amendment) act '19
+	- Air pollution control rules '22
+- **Air pollution**:
+	- Illegal, polluting *brick kilns*:
+		- *Mobile court* in Jan'19-Dec'22 => sued 2300+ people/companies
+		- *86+ crore BDT fined*
+		- *290 jailed*
+		- *761* illegal brick kilns have been *demolished*
+	- *Complete replacement of bricks with blocks by 2025* in government building, repair, and renovation
+	- *31 CAMS* (Continuous air-monitoring systems) installed in divisional and industrial cities including Dhaka
+	- *HCFC phase-out* as party to *Montreal protocol* (67.5% reduction by '25)
+	- Raids by mobile court against motor vehicles emitting black smoke
+- **Industrial waste management**
+	- Compulsory issuance & renewal of *environmental clearance* for industries
+	- Establishment of *ETPs*: ~2400 out of ~2900 industrial units have an ETP so far
+	- *IP cameras* for evaluation and monitoring of proper use of ETP
+	- ~485 crore BDT fines imposed on ~12k river polluting industries
+- **Sound pollution**: mobile court, raids, cases (~2400), fines (25 lacs)
+- **Plastic pollution**:
+	- Mobile court raids in *polythene* factories
+	- *Mymensingh polythene-free division*
+	- Awareness campaigning regularly in wet markets
+	- ***Multisectoral action plan for sustainable plastic management in Bangladesh***
+		- 50% plastic waste recycling by 2025
+		- 80% by 2030
+	- 3-year action plan for winding down single-use plastic usage
 
 ### Conclusion
  The problems associated with pollution will likely plague us for decades to come, but we are at a tipping-point where we still can prevent a runaway collapse of the entire ecosystem. As we move forward, we must choose and invent ways to develop our economy without exploiting the nature. 
