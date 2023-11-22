@@ -269,7 +269,7 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 	- **More than AIDS, TB, Malaria killings combined**
 - **>90% of pollution-related deaths** occur in *low and middle-income countries*
 - ***Brundtland report '87***: "Environment is where we live, and development is what we all do in attempting to improve our lot within that abode. The two are inseparable... Ensure that it meets the needs of the present wihout compromising the ability of future generations to meet their own needs"
-- "The **triad of pollution, climate change, and biodiversity loss* are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
+- "The **triad of pollution, climate change, and biodiversity loss** are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
 - Men are more likely to die from air pollution, lead pollution, and occupational pollutants than women. Women and children are more likely to die from water pollution.
 
 
