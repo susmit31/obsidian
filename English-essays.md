@@ -259,7 +259,9 @@
 
 ## Environmental pollution
 ### Intro
-> "When the last tree is cut down, the last fish eaten, the last stream poisoned, you will realise that you cannot eat money" - John May
+> "When the last tree is cut down, the last fish eaten, the last stream poisoned, you will realise that you cannot eat money" - Native American proverb
+
+> "There is enough on this planet for everyone's need, but not for everyone's greed." - Gandhi
 
 Man's quest for "development" defines the modern era of our civilisation. Although it has always been part of the human agenda, for the longest part of history, mankind has been subject to the whims of mother nature. Prosperity was mostly within the confines she had set for us. 
 
@@ -287,7 +289,9 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 - **>9 million deaths/yr globally**. This number has not changed since 2015.
 	- **More than AIDS, TB, Malaria killings combined**
 - **>90% of pollution-related deaths** occur in *low and middle-income countries*
-- ***Brundtland report '87***: "Environment is where we live, and development is what we all do in attempting to improve our lot within that abode. The two are inseparable... Ensure that it meets the needs of the present wihout compromising the ability of future generations to meet their own needs"
+
+> "Environment is where we live, and development is what we all do in attempting to improve our lot within that abode. The two are inseparable... Ensure that it meets the needs of the present wihout compromising the ability of future generations to meet their own needs" - Brundtland report '87 (Our Common Future)
+
 - "The **triad of pollution, climate change, and biodiversity loss** are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
 - Men are more likely to die from air pollution, lead pollution, and occupational pollutants than women. Women and children are more likely to die from water pollution.
 
