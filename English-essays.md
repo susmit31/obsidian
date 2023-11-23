@@ -33,6 +33,7 @@
 	- Deforestation (+T)
 	- Aerosols (-T)
 	- Melting ice sheets (+T)	
+
 #### Emissions by Sector
 |Sector|Emission|
 |---|---|
@@ -201,6 +202,13 @@
 - **COP26** '21, Glasgow: 
 	- Formally addressed **coal phase-out** for the first time
 	- Net-zero by 2050
+	- ***CVF meeting***:
+		- Then CVF *chair Sheikh Hasina*
+		- **4 points:**
+			- Ambitious NDCs by major emitters
+			- Developed countries 100B/y (50-50 for adaptation & mitigation)
+			- Low-cost green tech by devd
+			- Loss-and-damage; responsibility for climate migrants
 - **COP27** '22, Sharm-Al-Sheikh:
 	- Addressed **loss-and-damage**; transitional committee to operationalize the Loss and Damage Fund
 	- Addressed the need to ***↓45% emissions by 2030 (base: 2010)*** levels AND ***net zero by 2050*** to keep global warming *≤1.5°C*
