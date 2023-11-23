@@ -5,6 +5,31 @@ affiliation: None
 date: \today
 title: Megaprojects
 subtitle: The Bare Minimum for BCS (Preli and Written)
+header-includes:
+    - '\newcommand{\projectNumberCode}{CODE }'
+    - '\newcommand{\projectName}{Project Name }'
+    - '\newcommand{\coreSystemName}{Core Name }'
+    - '\newcommand{\bt}[1]{\fcolorbox{gray}{lightgray}{#1}}'
+    - '\usepackage{fontawesome}'
+    - '\usepackage{tocloft}'
+    - '\usepackage{graphicx}'
+    - '\usepackage{hyperref}'
+    - '\usepackage{float}'
+    - '\usepackage{glossaries}'
+    - '\setglossarystyle{altlistgroup}'
+    - '\usepackage{xparse}'
+    - '\usepackage{lscape}'
+    - '\makenoidxglossaries'
+    - '\usepackage{etoolbox}'
+    - '\usepackage{xstring}'
+    - '\setlength{\aboverulesep}{0pt}'
+    - '\setlength{\belowrulesep}{0pt}'
+    - '\renewcommand{\arraystretch}{1.3}'
+    - '\makeatletter'
+    - '\patchcmd{\LT@array}{\@mkpream{#2}}{\StrGobbleLeft{#2}{2}[\pream]\StrGobbleRight{\pream}{2}[\pream]\StrSubstitute{\pream}{l}{|l}[\pream]\@mkpream{@{}\pream|@{}}}{}{}'
+    - '\def\midrule{}'
+    - '\apptocmd{\LT@tabularcr}{\hline}{}{}'
+    - '\makeatother'
 documentclass: article
 fontsize: 10pt
 secnumdepth: 4
@@ -20,7 +45,18 @@ linkcolor: Blue
 numbersections: true
 ---
 
-## METRORAIL
+\pagebreak
+
+\tableofcontents
+
+\setcounter{table}{0}
+
+\listoftables
+
+\pagebreak
+
+
+Table: METRORAIL
 
 |Property |Description |
 |------------|------------|
@@ -53,6 +89,7 @@ numbersections: true
 |MRT line-1|Underground|
 |---|---|
 
+\newpage
 
 
 
@@ -77,6 +114,7 @@ numbersections: true
 |Traffic Capacity|17k/d|
 |---|---|
 
+\newpage
 
 
 
@@ -106,6 +144,7 @@ numbersections: true
 || (Rangamati)|
 |---|---|
 
+\newpage
 
 
 ## PADMA BRIDGE
@@ -132,4 +171,6 @@ numbersections: true
 ||Company|
 |---|---|
 
+\begin{center}END OF DOCUMENT\end{center}
 
+\hrulefill
