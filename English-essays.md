@@ -22,6 +22,7 @@
 	   H2O(g), O3, PFC, CFC
 - Extreme weather events => $157B lost in '20-'21 globally
 - **Maplecroft** (Brit climate research institute) Climate Change Vulnerability Index: ***BD 1st*** 
+- **Greenwatch** (German) Climate Risk Index '21: ***BD 7th*** in "Most affected by extreme weather in 2000-2019" category ($3.72B lost)
 
 ### Causes of Climate Change
 - **Natural**: net temperature change contribution around 0 if avg over decades

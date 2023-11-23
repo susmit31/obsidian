@@ -20,15 +20,28 @@ linkcolor: Blue
 numbersections: true
 ---
 
-## METRORAIL
+## All Megaprojects At A Glance
+1. Padma multipurpose bridge project
+1. Padma bridge rail link project
+1. DMRT dev project (Metro rail)
+1. Dohajari-Ramu-Gumdum rail project
+1. Rooppur nuclear power plant
+1. Maitree super thermal power plant (Rampal, Pabna)
+1. Payra seaport
+1. Matarbari deep-sea port
+1. Matarbari ultra-supercritical coal fired power
+1. LNG terminal
 
+
+## METRO RAIL
+### Specs
 |Property |Description |
 |------------|------------|
 |Inauguration | 29-Dec-22 |
 |---|---|
 |Length | 21.26km|
 |---|---|
-|Funding | JICA |
+|Funding | JICA (75%), BD-gov (25%) |
 |---|---|
 |Cost |33,472 Cr BDT |
 |---|---|
@@ -40,8 +53,7 @@ numbersections: true
 |---|---|
 |First operator | Mariam Afiza|
 |---|---|
-|Project Executor | Dhaka Mass Transit
-|| Company Ltd|
+|Project Executor | Dhaka Mass Transit Company Ltd|
 |---|---|
 |Trains |24.|
 |---|---|
@@ -50,7 +62,9 @@ numbersections: true
 |Fare | BDT 15/km|
 ||Base fee: BDT 20|
 |---|---|
-|MRT line-1|Underground|
+|Fuel|Electricity|
+|---|---|
+|**MRT LINE-1**|UNDERGROUND|
 |---|---|
 
 
@@ -59,11 +73,15 @@ numbersections: true
  
  
 ## BANGABANDHU/KARNAPHULI TUNNEL
+### Benefits / Facts
+- 
+### Specs
 |Property|Description|
 |---|---|
 |Inauguration|28-Oct-23|
 |---|---|
-|Length|3.3km|
+|Length|3.3km (Main tunnel)|
+|||
 |---|---|
 |Funding|EXIM bank of China|
 |---|---|
@@ -71,8 +89,7 @@ numbersections: true
 |---|---|
 |Endpoints|Patenga<=>Anowara|
 |---|---|
-|Project Executor|China Communication
-||& Construction Company|
+|Project Executor|China Communication & Construction Company|
 |---|---|
 |Traffic Capacity|17k/d|
 |---|---|
@@ -87,28 +104,40 @@ numbersections: true
 |---|---|
 |Activation date|17-May-19|
 |---|---|
-|Type|Geostationary|
-||Communication & Transmission|
+|Type|Geostationary; Communication & Transmission|
 |---|---|
-|Launch station|Cape Canaveral, Kennedy
-||Space Center|
+|Launch station|Cape Canaveral, Kennedy Space Center|
 |---|---|
 |Carrier|Falcon-9 (SpaceX)|
 |---|---|
-|Manufacturer|Thales-Athenia Space,|
-||France|
+|Manufacturer|Thales-Athenia Space, France|
 |---|---|
 |Lifespan|15y|
 |---|---|
 |Cost|3000 Cr BDT|
 |---|---|
-|Ground station|Jaidevpur; Betbunia|
-|| (Rangamati)|
+|Ground station|Jaidevpur; Betbunia (Rangamati)|
 |---|---|
 
 
 
-## PADMA BRIDGE
+## PADMA MULTIPURPOSE BRIDGE
+> "Whenever I think of the Padma bridge, 3 things come to my mind - courage, determination, and prosperity"
+> Li Jiming (Chinese ambassador to BD)
+
+### Benefits
+- ↑$6B GDP in 30 yrs
+	- ↑Industrialisation in the southwest
+	- ↑Agricultural sector as transport times reduced to around 50% => produce can be sent to different parts of the country with ease, paying the farmers more
+	- ↑Exports by ↑connectivity to the southwest where Mongla and Payra ports are located
+	- ↑Investment in the southwest
+	- ↑Tourism
+- National GDP growth rate ↑1.23%
+- Southeastern region GDP ↑2.3%
+- Poverty ↓4.84%
+
+
+### Specs
 |PROPERTY|DESCRIPTION|
 |---|---|
 |Inauguration|25-Jun-22|
@@ -119,8 +148,7 @@ numbersections: true
 |---|---|
 |Cost|30,193 Cr BDT|
 |---|---|
-|Endpoints| Mawa (Munshiganj)=>|
-||Jazeera (Shariat)|
+|Endpoints| Mawa (Munshiganj)=> Jazeera (Shariat)|
 |---|---|
 |Pillars|42.|
 |---|---|
@@ -128,8 +156,91 @@ numbersections: true
 |---|---|
 |Lanes|4.|
 |---|---|
-|Construction|China Major Bridge|
-||Company|
+|Construction|China Major Bridge Company|
 |---|---|
 
+
+
+## PADMA BRIDGE RAIL LINK PROJECT
+|PROPERTY|DESCRIPTION|
+|---|---|
+|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+|---|---|
+
+
+## PAYRA PORT
+### Benefits
+- Deepest port in BD
+- Operation on 24/7
+- Can unload 3 ships of max capacity simultaneously
+- ↓20% import costs compared to CTG and Mongla ports
+- Revolutionize the area by infrastructure developments associated with the project (19 components)
+	- 2 core terminals, 1 multipurpose terminal
+	- 1 LNG terminal
+	- Coal powered 1320MW power-plant
+	- Airport, rail connection
+	- SEZ
+- Can be turned into a deep-sea port in the future
+
+### Specs
+|Property|Description|
+|---|---|
+|Location|Rabnabad channel, Kalapara|
+||upazilla, Patuakhali|
+|---|---|
+|Cost|20,790 Cr BDT (estd)|
+|---|---|
+|Inauguration|2016 AD|
+|---|---|
+|Status|Ongoing|
+|---|---|
+|Ships per day|50.|
+|(once fully||
+|operational)||
+|---|---|
+|===============||
+|Ship Dimensions||
+|===============||
+|Length|200m|
+|Width|30m|
+|Draught|10.5m (after capital dredging)|
+|Capacity|3000 TEU|
+|–––––––––––––––|––––––––––––––––––––––|
+|---|---|
+
+
+## Rooppur Nuclear Power Plant
+### Benefits
+- We become world's 33rd nuclear power country
+- Clean, zero-carbon source (coal: 100kg CO2/MW, nuclear: <2kg/MW)
+- More energy dense (8 kWh/kg for coal vs 24M kWh/kg for U-235)
+	- An aside, during fission, each U-235 atom loses 0.2amu nass, which works out to around the 24M kWh figure mentioned
+- Not intermittent unlike other green energy (solar, wind)
+- Longer lifespan (60y vs 15y of traditional plants)
+
+### Specs
+|PROPERTY | DESCRIPTION|
+|---|---|
+|Inauguration|2024 (expected)|
+|---|---|
+|Capacity|2400 MW|
+|---|---|
+|Cost|1,13,092 Cr BDT|
+|| (90% Russia, 10% BD)|
+|---|---|
+|Lifespan|60y|
+|---|---|
+|Contractor|Rosatom|
+|---|---|
 
