@@ -3,7 +3,8 @@
 
 - A delta is a piece of land that has been *formed over thousands of years* by the deposition of alluvium by *rivers flowing into more stagnant bodies of water*, such as a sea, a lake, or a slower-moving river. Nearly 80% of our land area forms two-thirds of what is the *biggest delta in the world*, the *Ganges delta* or the *Ganges-Brahmaputra delta*, spanning a total of some *100,000 square kilometres*.
 
-- **Ministers come and go, even dictators die, but mountain ranges stand unperturbed.** - *Nicholas Spykman*, US Political Scientist.
+> **Ministers come and go, even dictators die, but mountain ranges stand unperturbed.**
+>  – *Nicholas Spykman*, US Political Scientist.
 
 - Geographical features happen to have formed over millions of years under mother nature's whims, and they rarely ever change within timescales proportionate to a human lifespan. As such, any reasonable development plans must keep them in the forefront, guiding the plans in every step of the way. Being a delta, however, is even more special, given the ***spate of hazards that it brings along***. The government has thus, prudently and aptly, channeled its efforts towards addressing this pressing issue.
 - 

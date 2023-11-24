@@ -27,3 +27,4 @@
 - [ ] LM, Uttoron BD question
 - [ ] Notepads
 - [ ] MaMA practice LiveMCQ
+- [ ] MVP for each sub
