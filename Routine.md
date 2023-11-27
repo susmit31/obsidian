@@ -1,4 +1,4 @@
-## TODAY: 23/11
+## TODAY: 27/11
 #### EXAM ROUTINE
 |DATE|EXAM|CEN|
 |---|---|---|
@@ -15,16 +15,25 @@
 |11/12| MEDICAL (4h)|Shere bangla |
 |||nagar girls |
 |||high school|
-|–––––|–––––|––––––––|
+|––––––|–––––––––––––––––|–––––––––––––|
 
 
 ### TODAY'S TASKS
-- [x] Megaprojects
+- [ ] GIT browse, gauge
+- [ ] Flask summariser completion within 2 hrs
+- [ ] Watch Go server videos
+- [ ] Muktijuddho
+- [ ] Practise 2 questions from MHS
+
+
+### TASKS ON HOLD
 - [ ] Economy
 - [ ] Constitution
+- [ ] Grammar last 10y questions solve
 - [ ] Bagdhara
 - [ ] LM, Uttoron Bangla question
 - [ ] LM, Uttoron BD question
 - [ ] Notepads
 - [ ] MaMA practice LiveMCQ
 - [ ] MVP for each sub
+- [x] Megaprojects

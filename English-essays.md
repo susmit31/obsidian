@@ -144,7 +144,7 @@
 	- Heavy rainfall => flooding
 	- Storms / cyclones
 - **BD**:
-	- *$1.8B lost/yr* from '00-'20
+	- *$3.7B lost/yr* from '00-'20 (Greenwatch)
 	- *$4B loss/yr* by 2030
 
 #### Human lives and economy
