@@ -603,3 +603,14 @@
 
 - **Travesty** - a poor imitation (e.g. *The Govt's actions make but a **travesty** of justice*)
 - **Affront** - insult (e.g. *My constructive criticism was mistaken for an **affront**.*)
+- *The discussions have **hit a roadblock**.*
+- *If they go back, they will likely be **stuck in the same mire** of statelessness*
+- *Voyage into the unknown that is **fraught with lethal perils of the odyssean scale**.*
+
+- *While stats can bolster any argument, the manner in which they're presented ultimately **holds sway over** our interpretation*
+- **Construe** - interpret in the backdrop of a certain set of circumstances (e.g. *his anti-Zionist posts were **construed** to be anti-Semitic*)
+- *It was a **quixotic** plan that could've **ended in fiasco**.*
+- **Forebode** - to have an inward conviction of (something, such as a coming ill or misfortune) (e.g. *the dry summer doesn't **forebode** well for the harvest*)
+
+- **Stickler for** - always demanding sth (e.g. *Magnus was a **stickler for** perfection*)
+- 

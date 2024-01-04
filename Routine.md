@@ -37,3 +37,17 @@
 - [ ] MaMA practice LiveMCQ
 - [ ] MVP for each sub
 - [x] Megaprojects
+
+
+### FCPS
+#### Chapter groupings
+- Gastro hepato haemato (23)
+- Resp rheumato nephro (26)
+- Neuro General Genetics Onco Austere (27-29)
+- Cardio toxi biostat nutri dm (28 + dm)
+- Endo derma psych metabolic (28)
+- Infectious immuno metabolic ageing (24)
+### Routine for last 5 days
+|Date|Topic|
+|---|---|
+|25-Dec|

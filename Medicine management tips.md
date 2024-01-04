@@ -1,8 +1,11 @@
 ## Acute rhinitis
 ### Dry cough + runny nose
 - **Syp. Mirakof** (_Butamirate citrate_) - 2TSF × TDS
+	- Avoid cough suppressants as much as possible 
 - **Antazol N/D** (_Oxymetazoline_) - 2d/nostril × BD
 - **Tab. Fexo 120** - 0+0+1
+	- Antihistamines thicken nasal secretions thereby rendering it stickier and more difficult to clear. Unless there's post-nasal drip (cough arises when the patient lies down due to dripping of secretions into the posterior pharynx), antihistamines won't help
+	- **Antihistamine in pregnancy**: Histacin safest
 
 ### Productive cough + runny nose
 - **Syp. Ambrox** (_Ambroxol HCl_) - 2TSF × TDS
@@ -77,10 +80,10 @@ $$(-\frac{\hbar^2}{2m}\nabla^2 +U(x,y,z))\;\Psi(x,y,z) = i\hbar \frac{\partial}{
 ---
 ## Vomiting in Pregnancy 
 ### Drug of Choice 
-|Line|Drug|
-|-----|------|
-|1st line|<ul><li>Meclizine</li><li>Cyclizine</li></ul>|
-|2nd line|<ul><li>Domperidone</li><li>Ondansetron</li></ul>| 
+|Line|Generic|Brand|
+|-----|------|------|
+|1st line|<ul><li>Meclizine</li><li>Cyclizine</li></ul>| *Vertina Plus* (mecli 25 + pyridoxine 50)|
+|2nd line|<ul><li>Domperidone</li><li>Ondansetron</li></ul>| |
 
 ## Corns and Calluses 
 ### Advice 
