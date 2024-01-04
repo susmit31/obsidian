@@ -16,8 +16,12 @@
 - **Stimulants** of acid secretion: GHA (acid secretion hoile GHA hobe)
 	- *Gastrin* (acts on  **CCK-2R** receptors on parietal cell / ECL)
 	- *Histamine* (acts on H2 receptors on PC)
-		- Released by **ECL cells** in response to Gastrin on ECL
+		- Released by **ECL cells** in response to
+			- Gastrin
+			- Gastric distension
+			- Vagal stimulation
 	- *ACh* (acts on ACh-R (M3) receptors on PC)
+- **Inhibitors of acid secretion**: SVG - Somatostatin, VIP, GIP
 - **Proton pump**:
 	- H+-K+-ATPase pump
 	- @ *apical membrane* of *parietal cells*
@@ -25,8 +29,8 @@
 - **Pepsinogen**
 	- Secreted by *chief cells*
 	- Activated by HCl
-- **Protective factors** from HCl and pepsin
-	- HCO3-
+- **Protective factors** from HCl and pepsin is by HCO3-, stimulated by
+	- PGs
 	- Mucin
 	- TFF (trefoil factor family) proteins
 

@@ -1,4 +1,4 @@
-## TODAY: 27/11
+## TODAY: 09/12
 #### EXAM ROUTINE
 |DATE|EXAM|CEN|
 |---|---|---|
@@ -19,12 +19,13 @@
 
 
 ### TODAY'S TASKS
-- [ ] GIT browse, gauge
-- [ ] Flask summariser completion within 2 hrs
-- [ ] Watch Go server videos
+- [ ] Svelte
+- [ ] Build frontend
+- [ ] JS sqlite, fuse
+- [ ] CV writing LaTeX
 - [ ] Muktijuddho
 - [ ] Practise 2 questions from MHS
-
+- [ ] Flask summariser CSS
 
 ### TASKS ON HOLD
 - [ ] Economy
