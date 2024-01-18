@@ -74,7 +74,12 @@ numbersections: true
  
 ## BANGABANDHU/KARNAPHULI TUNNEL
 ### Benefits / Facts
-- 
+- ↑GDP = 0.17%
+- Part of Asian highway => regional connectivity (Myanmar-Kunming)
+- Faster to Cox => Travel sector boom
+- ↓Congestion at the two bridges over karnaphuli (Shah Amanat & Kalurghat)
+- ↑Development of underdeveloped Anwara region
+ 
 ### Specs
 |Property|Description|
 |---|---|
@@ -162,20 +167,20 @@ numbersections: true
 
 
 ## PADMA BRIDGE RAIL LINK PROJECT
+### Benefits
+- ↓Distance from Jashore, Benapole, Mongla, Khulna etc by 308-318 km
+- Currently have to go thru Jamuna bridge which takes 2x as long
+
+### Specs
 |PROPERTY|DESCRIPTION|
 |---|---|
-|
+|Inauguration|10-Oct-2023|
 |---|---|
+|Funding|Chinese (G2G)|
 |---|---|
+|Cost|39,247 Cr BDT|
 |---|---|
-|---|---|
-|---|---|
-|---|---|
-|---|---|
-|---|---|
-|---|---|
-|---|---|
-|---|---|
+|Speed|30 kph|
 |---|---|
 
 
@@ -225,7 +230,7 @@ numbersections: true
 - We become world's 33rd nuclear power country
 - Clean, zero-carbon source (coal: 100kg CO2/MW, nuclear: <2kg/MW)
 - More energy dense (8 kWh/kg for coal vs 24M kWh/kg for U-235)
-	- An aside, during fission, each U-235 atom loses 0.2amu nass, which works out to around the 24M kWh figure mentioned
+	- An aside, during fission, each U-235 atom loses 0.2amu mass, which works out to around the 24M kWh figure mentioned
 - Not intermittent unlike other green energy (solar, wind)
 - Longer lifespan (60y vs 15y of traditional plants)
 
