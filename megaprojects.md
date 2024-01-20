@@ -25,8 +25,8 @@ numbersections: true
 1. Padma bridge rail link project
 1. DMRT dev project (Metro rail)
 1. Dohajari-Ramu-Gumdum rail project
-1. Rooppur nuclear power plant
-1. Maitree super thermal power plant (Rampal, Pabna)
+1. Rooppur nuclear power plant (Ishwardi, Pabna)
+1. Maitree super thermal power plant (Rampal, Khulna)
 1. Payra seaport
 1. Matarbari deep-sea port
 1. Matarbari ultra-supercritical coal fired power
@@ -103,6 +103,7 @@ numbersections: true
 
 
 ## BANGABANDHU SATELLITE-1
+### Specs
 |Property|Description|
 |---|---|
 |Launch date|12-May-18|
@@ -249,3 +250,21 @@ numbersections: true
 |Contractor|Rosatom|
 |---|---|
 
+
+## Matarbari Deep Sea Port
+### Benefits
+- Handle ships with draught around 15m
+- Ctg and Mongla ports can only handle around 9m, Payra 10.5m
+- Mother vessels couldn't be docked so extra time and $$$ wasted by using sister vessels or lighter vessels
+- By 2041, expected cargo traffic around 14M TEUs; existing ports cannot handle => miss out on a lot of profit
+- India, Nepal, Bhutan transit => more cash
+
+### Specs
+|PROPERTY | DESCRIPTION|
+|---|---|
+|Inauguration|2026 (expected)|
+|---|---|
+|Draught|16m|
+|---|---|
+|Capacity|8000 TEU|
+|---|---|

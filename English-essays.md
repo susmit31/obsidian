@@ -214,6 +214,9 @@
 - **COP27** '22, Sharm-Al-Sheikh:
 	- Addressed **loss-and-damage**; transitional committee to operationalize the Loss and Damage Fund
 	- Addressed the need to ***↓45% emissions by 2030 (base: 2010)*** levels AND ***net zero by 2050*** to keep global warming *≤1.5°C*
+- **COP28** '23, Dubai:
+	- "Fast-tracking a just, orderly, and equitable transition"
+	- **Global Renewables and Energy Efficiency Pledge**: *≥ triple* (≥ 11k GW) world's renewable generation capacity by 2030 
 
 
 ### National policies and action
