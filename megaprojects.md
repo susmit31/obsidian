@@ -177,7 +177,7 @@ numbersections: true
 |---|---|
 |Inauguration|10-Oct-2023|
 |---|---|
-|Funding|Chinese (G2G)|
+|Funding|China (G2G)|
 |---|---|
 |Cost|39,247 Cr BDT|
 |---|---|

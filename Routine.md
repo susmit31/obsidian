@@ -1,4 +1,4 @@
-## TODAY: 18/01
+## TODAY: 26/01
 #### EXAM ROUTINE
 |DATE|EXAM|CEN|
 |---|---|---|
@@ -17,23 +17,35 @@
 
 
 ### TODAY'S TASKS
+- [x] Int'l ProbSol + ForRel BD (2:30 - 4:00)
+- [ ] Econ (4:00 - 8:00)
+- [ ] Poribesh + natRes + vougolik (8:00 - 11:00)
+- [ ] Nirbachon + parties (11:00 - 12:30)
+- [ ] ICT + Globalisation + Gender (12:30 - 2:00)
+- [ ] Population + quotes charts review (6:30 - 8:00AM)
+- [ ] LM Dynamic Panel + BER23
+- [ ] Maps + Graphs
+- [ ] Med sci
+- [ ] Somarthok
+- [ ] All Quotes Topic wise
 - [ ] M&M practise
-- [ ] Muktijuddho
+- [ ] Check admit and other stuff
+
+
+### TOPICS TO LOOK UP
+- [ ] UNCTAD, G77
+- [ ] G7 vs G20 vs G77
+
+### TOPICS TO REVIEW
+- [ ] Megaprojects
 - [ ] Notebook
-- [ ] BD Constitution
 - [ ] BER23
-- [ ] Prachin + moddho
-- [ ] Robi + Kazi
+- [ ] Practise med figs
+- [ ] Demo dividend BD
+
+
+### TASKS ON HOLD
+- [ ] LM, Uttoron BD question
 - [ ] JS sqlite, fuse
 - [ ] Flask summariser CSS
 - [ ] Svelte
-
-### TASKS ON HOLD
-- [ ] Grammar last 10y questions solve
-- [ ] Bagdhara
-- [ ] LM, Uttoron Bangla question
-- [ ] LM, Uttoron BD question
-- [ ] Notepads
-- [ ] MaMA practice LiveMCQ
-- [ ] MVP for each sub
-- [x] Megaprojects

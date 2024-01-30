@@ -216,7 +216,8 @@
 	- Addressed the need to ***↓45% emissions by 2030 (base: 2010)*** levels AND ***net zero by 2050*** to keep global warming *≤1.5°C*
 - **COP28** '23, Dubai:
 	- "Fast-tracking a just, orderly, and equitable transition"
-	- **Global Renewables and Energy Efficiency Pledge**: *≥ triple* (≥ 11k GW) world's renewable generation capacity by 2030 
+	- **Global Renewables and Energy Efficiency Pledge**: *≥ triple* (≥ 11k GW) world's renewable generation capacity by 2030 (India, China didn't sign)
+	- move away from carbon energy sources "in a just, orderly and equitable manner" to mitigate the worst effects of climate change, and reach net zero by 2050.
 
 
 ### National policies and action
@@ -225,7 +226,7 @@
 		- Plans: BDP-2100, MCPP (2022-2041), NAPA (2023-2050)
 	- **Action / infrastructure**
 		- *423 disaster shelters* in 247 upazillas in 42 districts (400-800 people each)
-		- *505 Mujib killas*
+		- *550 Mujib killas*
 		- *Hotline 1090* toll-free
 		- Research on salinity and flooding-resistant crops
 - **Mitigation** strategies
@@ -282,7 +283,7 @@ But the mankind is a species of unfathomable potential. We not only persevered, 
 
 Yet within all this shimmer, something was missing. We couldn't pinpoint exactly what, but many elderlies readily recognised it. What was missing was the connection to mother nature. Much like an unruly child who enters into a rebellious adolescence, we shrugged off the calls to restrain ourselves. We pushed our economies further and further chasing the dreams of prosperity, extracting every bit as we could from nature with no compunction, until she started to show the signs of illness.
 
-And as she is our nurturer, we too suffer the consequences. Pollution kills more people each year than AIDS, TB, and Malaria, three of the deadliest infectious diseases in existence, do combined. Climate change, largely a product of air pollution, is disrupting weather patterns and delivering fatal blows to economies reducing over a tenth of the global GDP. 
+And as she is our nurturer, we too suffer the consequences. *Pollution kills more people each year than AIDS, TB, and Malaria, three of the deadliest infectious diseases in existence, do combined*. Climate change, largely a product of air pollution, is disrupting weather patterns and delivering fatal blows to economies reducing over a tenth of the global GDP. 
 
 We find ourselves at a historical crossroads where we have to make a conscious choice between developing wisely ensuring the best of nature, or choosing to run amok until the entirety of our much-vaunted economy faces imminent implosion. As such, it is of paramount importance to address pollution much, much louder than ever before, now more than ever.
 
@@ -305,7 +306,8 @@ We find ourselves at a historical crossroads where we have to make a conscious c
 
 > "Environment is where we live, and development is what we all do in attempting to improve our lot within that abode. The two are inseparable... Ensure that it meets the needs of the present wihout compromising the ability of future generations to meet their own needs" - Brundtland report '87 (Our Common Future)
 
-- "The **triad of pollution, climate change, and biodiversity loss** are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
+> "The **triad of pollution, climate change, and biodiversity loss** are the **key global environmental issues** of our time." - *The Lancet Planetary Health*, Pollution and Health: A Progress Update.
+
 - Men are more likely to die from air pollution, lead pollution, and occupational pollutants than women. Women and children are more likely to die from water pollution.
 
 

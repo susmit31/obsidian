@@ -57,7 +57,7 @@ The **current status** of the SCO is that it is an active and influential region
 	- *Petrodollar*
 - ***"...de-dollarization is evident in FX reserves, where the dollar’s share has declined to a record low of 58%.”*** - Meera Chandan, Co-Head of Global FX Strategy, J.P. Morgan
 - According to the *IMF* (2020), USD reserves are at a *record-lowest compared to the past 25 years* 
-- renminbi makes up just 2.3% of SWIFT payments, versus the dollar’s share of 43% and the euro’s share of 32%
+- renminbi makes up just 3% of SWIFT payments (all-time high; 0.03% @2010), versus the dollar’s share of 46% (also all-time high; avg. @43%) and the euro’s share of 32%
 - Russian oil is now either sold in the local currencies of the buyers or in the currencies of countries that Russia perceives as friendly. For example, some Indian refiners have begun paying for Russian oil purchased via Dubai-based traders in dirhams, while others are considering doing so in yuan
 - major Russian commodity producers have started issuing bonds in yuan
 - In September 2022, state-owned oil company Rosneft made a public offering of 10 billion yuan in bonds, followed by a second tranche of 15 billion yuan in March 2023. 
