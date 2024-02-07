@@ -13,6 +13,14 @@
 - [ ] Chomsky - Failed States (and others)
 - [ ] Abdul Hye
 - [ ] E-IR
+- [ ] The Globalisation Reader
+
+## History
+- [ ] Niall Ferguson - War of the World
+
+## Econ
+- [ ] Mohaimin Patwary
+- 
 
 ## Philosophy
 
@@ -27,4 +35,4 @@
 
 ## Others
 - [ ] Jiboner ganitik rohosyo
-
+- [ ] Animal Farm, 1984

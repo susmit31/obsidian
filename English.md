@@ -613,4 +613,5 @@
 - **Forebode** - to have an inward conviction of (something, such as a coming ill or misfortune) (e.g. *the dry summer doesn't **forebode** well for the harvest*)
 
 - **Stickler for** - always demanding sth (e.g. *Magnus was a **stickler for** perfection*)
+- post-war plan that prioritises the normalisation of diplomatic relations between Israel and Saudi Arabia, something likely to **spark ire** among Palestinians
 - 
