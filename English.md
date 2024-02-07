@@ -614,4 +614,4 @@
 
 - **Stickler for** - always demanding sth (e.g. *Magnus was a **stickler for** perfection*)
 - post-war plan that prioritises the normalisation of diplomatic relations between Israel and Saudi Arabia, something likely to **spark ire** among Palestinians
-- 
+- The 2024 presidential race is shaping up to be a rematch of the 2020 election, where Biden **edged out** (narrowly defeated) former Republican President Donald Trump. 
