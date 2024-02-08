@@ -20,7 +20,8 @@
 
 ## Econ
 - [ ] Mohaimin Patwary
-- 
+- [ ] Akbar Ali Khan
+- [ ] Amartya Sen
 
 ## Philosophy
 

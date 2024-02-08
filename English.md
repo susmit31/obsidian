@@ -620,4 +620,5 @@
 - **Kerfuffle** - fuss / commotion (e.g. *The **kerfuffle** over the South China sea has been a burning issue for decades*)
 
 - ***Rife with discontent***
-- 
+- The 2024 presidential race is shaping up to be a rematch of the 2020 election, where Biden **edged out** (narrowly defeated) former Republican President Donald Trump.
+- **Effigy** - a sculpture or model of a person (e.g. Demonstrators hold up a bloody *effigy* of Biden)
