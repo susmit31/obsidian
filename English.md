@@ -98,7 +98,7 @@
 	- *The **accession** of the new Queen.*
 	- *The politician's **accession** to power.*
 - **Toast**: someone highly admired (e.g. *she's the **toast** of our school*. *Bangladesh's impressive campaign against poverty has made it the **toast** of the developing nations*.)
-- **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile** *)
+- **A country mile**: a long distance / far cry (e.g. *the lofty but unrealistic target will be unmet by **a country mile**.*)
 - **Wishy-washy**: ineffective (e.g. *a **wishy-washy** leadership*)
 
 - *Budget support from development partners is not a guarantee, so should he decide to borrow from the central bank during the course of the fiscal year to **plug the holes in the books**, it would be catastrophic, as it would **fan the inflationary flames** even further*.
@@ -142,7 +142,7 @@
 - **Riveting** - holding sb's attention completely (e.g. *the secretary shared a **riveting** account of how diplomacy has helped shape the world we live in*)
 
 
-- **Discern** - detect (e.g.* **Discern** right from wrong. I **discerned** a strange odour.*)
+- **Discern** - detect (e.g. ***Discern** right from wrong. I **discerned** a strange odour.*)
 - **Half-baked** - poorly done (e.g. *a **half-baked** research*)
 - *He has helped establish a political climate where the **knee-jerk response** to any predicament is costly government intervention.*
 - *This has been **little short of** disastrous*
@@ -615,3 +615,9 @@
 - **Stickler for** - always demanding sth (e.g. *Magnus was a **stickler for** perfection*)
 - post-war plan that prioritises the normalisation of diplomatic relations between Israel and Saudi Arabia, something likely to **spark ire** among Palestinians
 - The 2024 presidential race is shaping up to be a rematch of the 2020 election, where Biden **edged out** (narrowly defeated) former Republican President Donald Trump. 
+- **Glean from** - obtain information from various sources with difficulty (e.g. *what do we **glean from** Argentina's last-minute pullout?*)
+- *The economy is still **beleaguered** from the blows dealt by the RU war*
+- **Kerfuffle** - fuss / commotion (e.g. *The **kerfuffle** over the South China sea has been a burning issue for decades*)
+
+- ***Rife with discontent***
+- 
