@@ -24,7 +24,8 @@
 - [ ] Amartya Sen
 
 ## Philosophy
-
+- [ ] Aristotle's Politics
+- [ ] Plato's Republic
 
 ## BD
 - [ ] Ami Bijoy Dekhechi

@@ -1,7 +1,7 @@
 $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - The child is the father of the man -> Wordsworth (My heart leaps up)
 - He prayeth best, who loveth best 
-   All things both great and small -> Coleridge (Mariner)
+  All things both great and small -> Coleridge (Mariner)
 - I am daughter of Earth and Water -> PB Shelley (The Cloud) 
 - Our sweetest songs are those that tell of our saddest stories -> PB Shelley (To a Skylark) 
 - Poets are unacknowledged legislators of the world -> PB Shelley (A defence of poetry)
@@ -64,12 +64,11 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - I am one who loved not wisely but too well -> Othello 
 - Life's but a walking shadow; a poor player, that struts and frets his hour upon the stage, and then is heard no more: it is a tale told by an idiot, full of sound and fury, signifying nothing -> Macbeth 
 - I am a man more sinned against than sinning -> King Lear 
-- Solitude is sometimes best society -> Paradise Lost 
 - Ignorance is not innocence but sin -> Browning 
+- There is no sin but ignorance -> Jew of Malta
 - Beware of false knowledge, it is more dangerous than ignorance -> Shaw (Man and Superman)
 - No love is sincerer than the love of food -> Shaw (Man and Superman)
 - There are two tragedies in life. One is not to get your heart's desire, and the other is to get it -> Shaw (Man and Superman)
-- Cowards die many times before their death -> Julius Caesar 
 - Some books are to be tasted, others to be swallowed and some others to be chewed and digested -> Bacon 
 - Old wood best to burn, old wine to drink, old friend to trust and old author to read -> Bacon 
 - Hope springs eternal in the human breast -> Pope 
@@ -80,7 +79,7 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - Cowards die many times before their death, but the valiant never taste of the death but once -> Julius Caesar 
 - A man can be destroyed but not defeated -> Hemingway 
 - Injustice anywhere is a threat to justice everywhere -> ML King
-- Men make their own history -> Marx
+- Men make their own history -> Marx (... own fate -> Marlowe)
 - If God didn't exist, it would be necessary to invent him -> Voltaire 
 - The more we study, the more we discover our ignorance -> PB Shelley (the revolt of Islam)
 - Eat to live not live to eat -> Ben Franklin
@@ -95,16 +94,24 @@ $$\small\text{Miracle $\rightarrow$ pg 590}$$
 - If you want to shine like the sun, first burn like it -> APJ Abdul Kalam
 - Speech is great, silence is greater -> Thomas Carlyle 
 - Popular opinion is the greatest lie -> Carlyle 
-- Hell is empty, and all the devils are here - Tempest
-- Love all, trust a few, do harm to none - all's well that ends well
+- Hell is empty, and all the devils are here -> Tempest
+- Love all, trust a few, do harm to none -> all's well that ends well
 - Poetry is the breath and the finer spirit of knowledge -> Wordsworth 
 - Death is the golden key that opens the place of eternity -> Milton
-- An honest man is the noblest work of God -> Pope (Am Essay on Man)
+- An honest man is the noblest work of God -> Pope (An Essay on Man)
 - Sorrows are the best educator -> Tennyson 
 - The old order changeth, yielding place to the new -> Tennyson
 - All changed, changed utterly. A terrible beauty is born -> Yeats (Easter 1916)
 - Grow old along with me. The best is yet to be -> Robert Browning (Rabbi Ben Ezra)
 - I must be cruel, only to be kind. Thus bad begins, and worse remains behind -> Hamlet
 - 'Tis better to have loved and lost than never to have loved at all -> Tennyson (In Memoriam)
+- We first make our habits, then our habits make us -> Dryden
+- Do not go where the path may lead. Go instead where there is no path and leave a trail -> Ralph Waldo Emerson
+- Truth is the property of no individual but is the treasure of all men -> Emerson
+- All live to die, and rise to fall -> Marlowe (Edward II)
+- Fools that will laugh on earth, most weep in hell -> Faustus
+- The childhood shows the man as morning shows the day -> Paradise regained
+- Solitude is sometimes the best society -> Paradise Lost 
+- In prayer, it is better to have a heart without words than to have words without heart -> Pilgrim's Progress (Bunyan)
 - 
 
