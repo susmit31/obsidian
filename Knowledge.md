@@ -1,0 +1,14 @@
+- Observations needed to change opinion (reflects certainty associated with the held belief)
+- Knowledge vs hunch (both are beliefs, knowledge being more certain (i.e. with higher ONCO) than hunch).
+- Knowledge = True belief + ↑ONCO
+- **Knowledge = Resilient True Belief? (RTB)**
+- When people say they know, they for the most part don't reason their way through the claim to justify it. Rather, the purpose of justification or any other condition X in XTB is to make a true belief that is *resilient* i.e. need a high degree of evidence (qualitatively, quantitatively, or both ways) before the opinion is changed. The resilience can come either from *coherence* or from *experience*.
+- Gettier issues arise because in XTB, X is a subjective assessment associated with truth, while T is assessed objectively.
+- Gettier issues have the general form that XTB are all obtained without knowledge. Whatever X be, as long as it doesn't necessarily imply truth, there will be cases where XTB are all obtained without knowledge, since X and T don't always correspond.
+- All knowledge claims are about beliefs, so should we really include B in the criteria? Or is it rather that we're looking for criteria that B must have (e.g. JT) to be elevated into "knowledgehood"?
+- Does the person who does the knowing need to know that he knows?
+- What is justification and what is truth?
+- View beliefs in coherentism as a puzzle piece fitting into the puzzle (no one puzzle piece is "justified" by any other single puzzle piece - the proper positioning of a puzzle piece is only justified by the puzzle as a whole), i.e. **holistic coherentism, rather than linear coherentism** (a closed loop formed by a subset of beliefs each of which justify the next link in the chain)
+- **Network theory of Truth** - that truth is neither pure correspondence nor pure coherence, but rather a mix of the two. Strictly speaking, coherence theory grounded on basic truths of correspondence or logical truth no longer remains distinct from correspondence theory, as any set of coherent facts may be said to correspond within themselves.
+- What justifies a theory of truth? What makes a theory of truth, true?
+- As truth must be defined from an externalist point of view, so too must be knowledge. For assume a universe containing just a single mind, all else being the same as ours. What would knowledge amount to in such a universe?

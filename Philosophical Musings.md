@@ -1,0 +1,2 @@
+## On the Ontological Status of Universals
+- "My shirt is white" here "white", although it describes a quality, can be said to physically exist, in that it consists in reflecting all parts of the visible spectrum. But what about "my car is fast"? Does "fast" physically exist? What about the charge in "electrons have charge"?
