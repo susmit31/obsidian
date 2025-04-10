@@ -1,0 +1,17 @@
+
+- [ ] Middle East Conflagration: Solution and Peace 
+- [ ] Role of Student Movements in Shaping Political Changes (1952 to 2024) / Historical Dynamics of Mass Uprisings and Aspiration for Bangladesh 
+- [ ] Communal Harmony in Bangladesh: A Path to Unity and Progress 
+- [ ] Constitutional Debate: Proposal for Changes 
+- [ ] Quality and Standard Education in Bangladesh: Challenges and Opportunities / Education Reform: Challenges and Initiatives 
+- [ ] Emancipation of Women in Bangladesh / Empowerment of Women in Bangladesh 
+- [ ] Global Climate Crisis / Climate Change / Impacts of Climate Change on Bangladesh / Climate Diplomacy: Perspective Bangladesh
+- [ ] Renewable Energy in the Development of Bangladesh / Importance of Renewable Energy in the Development of Bangladesh 
+- [ ] Turning Students from Job Seekers to Job Creators / Youth Start-up or Entrepreneurship 
+- [ ] Three Zeros World and Sustainable Development 
+- [ ] Role of Microfinance in Poverty Alleviation and Rural Development 
+- [ ] Democracy, Development and Corruption: Bangladesh Perspective / Democracy and Good Governance 
+- [ ] The Transformative Potential of Social Business in Contemporary Economics 
+- [ ] The Causes, Effects, and Solutions to Economic Stagnation and Exorbitant Prices of Commodities 
+- [ ] Youth Involvement in Social, Political and Economic Changes in Bangladesh 
+- [ ] Preparing Bangladesh for Fourth Industrial Revolution (4IR): Opportunities & Challenges
