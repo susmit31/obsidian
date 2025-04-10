@@ -12,9 +12,10 @@
 - [ ] How to Avoid A Climate Disaster - B Gates
 ### FCPS
 #### MHS
-- [ ] Endo pt 2
-- [ ] Psych
+- [x] Endo pt 2
+- [x] Psych
 - [ ] Adolescence
+- [ ] DM
 #### PassMed
 - [ ] Derma
 - [ ] Cardio
