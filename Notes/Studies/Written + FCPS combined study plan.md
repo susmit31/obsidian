@@ -36,7 +36,7 @@
 ##### Mental - 50/50
 - [ ] Live MCQ
 ##### Leftovers
-- [ ] BCS daily bangla lecture -  30/100
+- [x] BCS daily bangla lecture -  30/100
 - [ ] Manual complete
 - [ ] Basic view problem solving
 #### Primary sources
