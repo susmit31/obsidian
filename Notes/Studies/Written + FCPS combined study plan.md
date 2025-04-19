@@ -23,6 +23,9 @@
 - [ ] Why 2nd Indep
 - [ ] Gen Z
 - [ ] Issues with 72 constitution - rewrite or amend?
+- [ ] 2nd republic
+- [ ] Syrian civil war and Assad's ousting
+- [ ] 
 
 ## Apr 13 - Apr 20
 ### BCS
@@ -47,3 +50,10 @@
 - [ ] CPD reports
 - [ ] OHCHR report
 - [ ] Reform commissions reports 
+- [ ] Editorials
+### FCPS
+- [ ] Resp I study
+- [ ] Resp I practise MHS
+- [ ] Resp II study
+- [ ] Endo practise MHS
+- [ ] Cardio practise MHS
