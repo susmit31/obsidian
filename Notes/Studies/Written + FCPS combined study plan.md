@@ -40,19 +40,19 @@
 - [ ] Live MCQ
 ##### Leftovers
 - [x] BCS daily bangla lecture -  30/100
-- [ ] Manual complete
+- [x] Manual complete
 - [ ] Basic view problem solving
 #### Primary sources
 - [ ] Anatomy of a Revolution - Crane Brinton
 - [ ] Unnoyon Bivrom - Z Hassan
-- [ ] World of Three Zeros - Yunus
+- [x] World of Three Zeros - Yunus
 - [ ] How to Avoid a Climate Disaster - Gates
 - [ ] CPD reports
 - [ ] OHCHR report
 - [ ] Reform commissions reports 
 - [ ] Editorials
 ### FCPS
-- [ ] Resp I study
+- [x] Resp I study
 - [ ] Resp I practise MHS
 - [ ] Resp II study
 - [ ] Endo practise MHS
