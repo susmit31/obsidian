@@ -25,7 +25,7 @@
 - [ ] Issues with 72 constitution - rewrite or amend?
 - [ ] 2nd republic
 - [ ] Syrian civil war and Assad's ousting
-- [ ] 
+- [ ] King's party
 
 ## Apr 13 - Apr 20
 ### BCS
@@ -35,9 +35,9 @@
 - [ ] সমাজ অর্থনীতি সাহিত্য সংস্কৃতি
 - [ ] সংবিধান
 ##### Int'l - 40/100
-- [ ] Conceptual
+- [x] Conceptual ⅓
 ##### Mental - 50/50
-- [ ] Live MCQ
+- [x] Live MCQ
 ##### Leftovers
 - [x] BCS daily bangla lecture -  30/100
 - [x] Manual complete
@@ -57,3 +57,26 @@
 - [ ] Resp II study
 - [ ] Endo practise MHS
 - [ ] Cardio practise MHS
+
+## Apr 21 - Apr 25
+### FCPS
+- [ ] Gastro hepato haemato MHS practice
+- [ ] Nephro 1 Davidson
+### BCS
+#### BDA
+- [ ] BER 25
+- [ ] CPD reports
+- [ ] Muktijuddho, shongbidhan
+#### INT'L
+- [ ] Conceptual finish
+- [ ] Empirical skim
+- [ ] Prob solving
+#### Bangla
+- [ ] Grammar past papers
+- [ ] Uttoron slides lit
+- [ ] BCS daily slides lit
+#### English
+- [ ] Past papers solution
+#### Math/Mental 
+- [ ] LM mental practice
+- [ ] Math past papers
