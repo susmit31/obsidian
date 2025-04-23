@@ -196,13 +196,12 @@ This duality makes Sylhet exceptionally rich in both limestone and natural gas r
     
 - **Offshore Exploration:** Bengal offshore basins remain underexplored but highly promising for hydrocarbons.
     
-
-|Region|Future Resource Potential|
-|:--|:--|
-|Sundarbans and coastal areas|Peat → Lignite (millions of years)|
-|Sylhet Basin|Deeper undiscovered gas fields|
-|Offshore Bengal Basin|Major oil and gas reserves likely|
-|Chittagong Hill Tracts|Minor potential unless new basins form|
+| Region                       | Future Resource Potential              |
+| :--------------------------- | :------------------------------------- |
+| Sundarbans and coastal areas | Peat → Lignite (millions of years)     |
+| Sylhet Basin                 | Deeper undiscovered gas fields         |
+| Offshore Bengal Basin        | Major oil and gas reserves likely      |
+| Chittagong Hill Tracts       | Minor potential unless new basins form |
 
 ## Comprehensive Geological Evolution Timeline
 
