@@ -68,7 +68,7 @@
 - [ ] CPD reports
 - [ ] Muktijuddho, shongbidhan
 #### INT'L
-- [ ] Conceptual finish
+- [x] Conceptual finish
 - [ ] Empirical skim
 - [ ] Prob solving
 #### Bangla
