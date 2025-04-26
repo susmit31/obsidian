@@ -61,7 +61,7 @@
 ## Apr 21 - Apr 25
 ### FCPS
 - [ ] Gastro hepato haemato MHS practice
-- [ ] Nephro 1 Davidson
+- [x] Nephro 1 Davidson
 ### BCS
 #### BDA
 - [ ] BER 25
@@ -78,5 +78,18 @@
 #### English
 - [ ] Past papers solution
 #### Math/Mental 
-- [ ] LM mental practice
+- [x] LM mental practice
 - [ ] Math past papers
+## Apr 26 - Apr 30
+- [ ] BD Aff prioritize as sorted by PPM
+- [ ] Int'l empirical and prob solving
+- [ ] LM PDFs
+- [ ] Data
+- [ ] CPD
+- [ ] Reform commissions' reports
+- [ ] LM mental practice
+- [ ] Math english bangla past papers
+- [ ] Acute med
+- [ ] Austere
+- [ ] Neuro stroke
+- [ ] Nephro 2
