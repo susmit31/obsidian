@@ -93,3 +93,15 @@
 - [ ] Austere
 - [ ] Neuro stroke
 - [ ] Nephro 2
+### Ki ki baki
+#### BCS
+- [ ] Int empirical, prob half
+- [ ] BD all except geo
+- [ ] Bangla past papers + grammar + lit
+- [ ] Eng past papers
+- [ ] MM 
+### Resources
+- [ ] CPD
+- [ ] Reform reports
+- [ ] Past papers
+- [ ] Uttoron slides
