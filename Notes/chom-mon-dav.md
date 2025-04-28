@@ -373,9 +373,8 @@ Montague’s formal semantics was revolutionary in treating **natural language**
 
 Montague would interpret this sentence using the language of **lambda calculus** and **quantification theory**. He would analyze this in terms of **quantifiers** and **existential predicates**. The sentence would be interpreted as:
 
-\[
-\forall x \, (Student(x) \rightarrow \exists y \, (Teacher(y) \land Likes(x, y)))
-\]
+
+$$\forall x \, (Student(x) \rightarrow \exists y \, (Teacher(y) \land Likes(x, y)))$$
 
 Here, Montague’s approach provides a rigorous, **formal** representation of natural language syntax and semantics. Montague’s innovation was to show that the meaning of sentences could be formally modeled using the tools of **mathematical logic**, which provided a **compositional** approach to interpreting natural language. Montague’s work demonstrated how **syntax** and **semantics** can be **unified** under a **formal system**.
 
@@ -415,23 +414,100 @@ Montague’s formal approach also intersects with **philosophical issues** relat
 
 ---
 
-## Comparison Between Russell, Frege, and Montague
+### An In-Depth Exploration of the Theories of Frege, Russell, and Montague
 
-### **Russell, Frege, and Montague: A Philosophical and Formal Comparison**
-
-The works of **Russell**, **Frege**, and **Montague** form a significant continuum in the development of formal semantics and the philosophy of language. Each thinker contributed uniquely to our understanding of how meaning arises in language, and how we can formalize it for rigorous analysis.
-
-#### **Russell’s Theory of Descriptions vs. Frege’s Sense and Reference**
-- **Frege** developed a distinction between **sense** and **reference**, positing that the meaning of a name or description is tied to both the **way it presents an object (sense)** and the **object it refers to (reference)**. His work underpins much of modern logic and the philosophy of language.
-  
-- **Russell** challenged this duality by asserting that **descriptions** must satisfy the conditions of **existence** and **uniqueness** in order to refer. He rejected the idea of **sense** as a separate layer of meaning and argued that **logical form** dictates the meaning of sentences, with emphasis on **truth conditions**.
-
-#### **Montague’s Formalism and its Relation to Russell and Frege**
-Montague’s work builds on **Russell’s theory of quantifiers** and **Frege’s focus on logical structures**. However, Montague takes the ideas of both philosophers further by formalizing meaning through **lambda calculus** and **model theory**, demonstrating that **syntax** and **semantics** can be treated **compositional** and **mathematically rigorous**. This formalization allows for the analysis of **natural language** in a way that incorporates both **syntax** and **semantics**.
-
-While **Russell** focused on the **logical structure** of language, and **Frege** emphasized the role of **sense** and **reference**, **Montague** used **formal logic** to provide a unifying framework that accounts for both syntactic structure and meaning in a **compositional** manner.
+In the domain of formal semantics and the philosophy of language, the contributions of **Gottlob Frege**, **Bertrand Russell**, and **Richard Montague** stand as pivotal cornerstones. Each theorist brought forward distinct, innovative insights that not only transformed the study of meaning but also had lasting impacts on fields like logic, philosophy, and cognitive science. Understanding these thinkers' contributions is crucial for anyone grappling with the nature of language, reference, and meaning—areas that Montague and Davidson would later build upon, critique, or transform in their own work.
 
 ---
 
-This concludes the added **case studies**, **philosophical implications**, and **comparison** between **Russell**, **Frege**, and **Montague**. The inclusion of case studies serves as practical examples of how these theories are applied in the analysis of natural language, while the philosophical implications highlight their deeper contributions to the philosophy of language and mind.
+#### **1. Frege’s Theory of Meaning and Reference**
+
+Gottlob Frege is considered one of the **founding figures** of modern logic and the philosophy of language, and his work laid the groundwork for many developments in these fields. His theory of meaning, expressed most thoroughly in his **"Begriffsschrift"** and later in his essays on the philosophy of language, introduces a distinction between **sense (Sinn)** and **reference (Bedeutung)**.
+
+##### **Sense and Reference**
+Frege's distinction between sense and reference is pivotal in understanding his theory of meaning. For Frege, **reference** is the actual object in the world to which a term refers (also called its **denotation**), while **sense** is the way in which that object is presented or the mode of its presentation. 
+
+- For example, the phrases **“the morning star”** and **“the evening star”** both refer to the same celestial object (i.e., the planet Venus), but they have different senses. The sense of a term determines how it is cognitively or conceptually related to its referent.
+  
+Frege’s theory becomes especially important when we consider **identity statements**. The statement “the morning star is the evening star” is informative because it reveals that two different senses (morning star and evening star) refer to the same object (Venus). This distinction would later influence **Montague’s formal semantics** and **Davidson’s** theory of meaning, particularly in their handling of sentences involving reference and sense.
+
+##### **Frege’s Compositionality Principle**
+Frege is also well-known for his **compositionality principle**. According to this principle, the meaning of a complex expression is determined by the meanings of its parts and how they are combined. This principle was influential in the development of **Montague Grammar**, which would later adopt a formal approach to compositional semantics, mapping sentences to structured meanings in a systematic way.
+
+---
+
+#### **2. Russell’s Theory of Descriptions**
+
+Bertrand Russell, one of the towering figures in analytic philosophy, is perhaps best known for his **theory of descriptions**. This theory directly addresses the problem of **reference**—specifically, how we can refer to things in the world using language, particularly when they may not exist in reality.
+
+##### **Russell's Theory of Descriptions**
+Russell introduced the concept of **definite descriptions** (e.g., “the current King of France”) as part of his broader project to understand **meaning** and **reference**. In his famous work, *On Denoting* (1905), Russell argued that definite descriptions do not **refer to** objects in a direct way; rather, they are **quantified expressions** that must be treated within a logical framework to account for their meaning.
+
+According to Russell, when we use a **definite description** (such as “the tallest mountain”), we are implicitly asserting that:
+1. **There exists** a unique object that satisfies the description.
+2. **The object in question** is the only one that satisfies that description.
+
+Thus, in **Russell’s view**, the statement “the current King of France is bald” should be understood not as an existential claim about a particular person but as a **logical expression** that can be analyzed using **quantifiers**. The sentence implicitly carries a contradiction because there is **no current King of France**. Russell’s approach aims to eliminate unnecessary metaphysical assumptions and make language more rigorous by interpreting descriptions in terms of **logical structure**.
+
+##### **Russell’s Influence on Montague**
+Russell’s work on **definite descriptions** had a significant influence on **Montague’s formal semantics**, especially in how to treat noun phrases and the rules for their interpretation. Montague's use of formal logic, particularly **predicate logic**, was largely inspired by Russell’s treatment of **quantification** and **logical structure**. However, Montague took this one step further by incorporating more **complex types** and **lambda calculus** into his model, allowing him to formalize meanings in a more precise and general way.
+
+---
+
+#### **3. Montague’s Grammar: A Synthesis of Logic and Linguistics**
+
+Richard Montague's work represents a monumental synthesis of **formal logic** and **linguistic theory**, creating what is now known as **Montague Grammar**. This formal framework aimed to provide a mathematical model for **natural language semantics**, where the meaning of sentences is represented as objects in a logical space.
+
+##### **Montague’s Formal Semantics**
+Montague’s key insight was to treat natural languages as formal languages, using **lambda calculus** and **type theory** to model meaning. In contrast to Frege and Russell, who primarily focused on the relationship between language and reference, Montague took a more systematic approach to formalize how meaning is composed in sentences. 
+
+- Montague proposed that the meaning of a sentence could be derived from its parts via **compositional rules**. This was an extension of Frege’s principle of compositionality, but Montague implemented it in a **rigorous logical framework** that could be extended to account for the full range of linguistic phenomena.
+
+##### **Lambda Calculus and Syntax-Semantics Interface**
+In **Montague Grammar**, sentences are analyzed as **lambda expressions**, which represent meanings in a way that allows them to be manipulated within logical formulas. These lambda expressions act as the **semantic interpretations** of sentences and serve to link syntax (structure) with semantics (meaning).
+
+- For example, the meaning of the sentence “John loves Mary” can be represented by a lambda expression that combines the meanings of the individual words “John,” “loves,” and “Mary.” The structure of the sentence helps determine how these elements combine to form a **truth-conditional meaning**.
+
+This approach allowed Montague to treat **natural language syntax** as **isomorphic** to **formal logical syntax**. In doing so, Montague bridged the gap between **linguistics** and **formal logic**, offering a more comprehensive and formal approach to semantics than what Frege or Russell had provided.
+
+##### **Montague’s Legacy**
+Montague’s theory had a lasting influence on **formal semantics** and **linguistics**, providing the groundwork for the development of **model-theoretic semantics**. His formalization of the syntax-semantics interface was an essential development, influencing later work in **semantic theory**, **syntax** (especially **minimalism**), and computational linguistics. His emphasis on the **compositionality** of meaning was a key tenet for much of the later **formal semantic work**, including **Davidson’s** theories of events and meaning.
+
+---
+
+#### **4. Comparing Frege, Russell, and Montague**
+
+While all three thinkers—**Frege**, **Russell**, and **Montague**—focused on issues of meaning and reference, they approached these problems from different philosophical and logical perspectives, each contributing distinct innovations that still influence contemporary philosophy of language today.
+
+##### **Frege vs. Russell: Sense and Reference**
+Frege and Russell are often seen as the two central figures in early analytic philosophy of language, yet their views on **meaning** and **reference** differ significantly:
+- **Frege's** distinction between **sense** and **reference** was a groundbreaking development, emphasizing the **cognitive dimension** of meaning. For Frege, understanding a term requires knowing both its **reference** (the object it refers to) and its **sense** (the way in which the object is presented). This was crucial for understanding **semantic puzzles** like identity statements or ambiguous names.
+  
+- **Russell**, on the other hand, rejected Frege’s view of **sense** as unnecessary, arguing that meaning could be adequately captured through a logical analysis of language. He believed that terms like **definite descriptions** did not refer directly to objects but instead involved a **logical assertion** that could be analyzed with **quantifiers**. Russell’s approach focused on **logical form**, stripping language of any metaphysical baggage.
+
+##### **Frege and Montague: Compositionality and Formal Semantics**
+Both **Frege** and **Montague** championed the principle of **compositionality**, but they implemented it in different ways:
+- **Frege** focused on the **structure** of **concepts** and their interrelations, developing a **logic-based framework** for understanding how meaning could be derived from the combination of simple terms.
+  
+- **Montague** extended this principle into **formal logic** using **lambda calculus** and **type theory** to give a more **mathematically rigorous** account of how meaning is composed. Montague’s framework was designed to **model natural language semantics** on the same terms as formal logic, setting the stage for later developments in computational linguistics.
+
+##### **Russell and Montague: Descriptions and Quantification**
+The relationship between **Russell** and **Montague** is more directly rooted in their treatment of **quantification**:
+- **Russell’s theory of descriptions** sought to clarify the reference of terms like "the current King of France," using **quantifiers** to formalize the way descriptions function in logical discourse.
+  
+- **Montague** built on this work, particularly in his treatment of noun phrases and quantifiers. However, Montague extended Russell’s work by using **lambda calculus** to allow for a richer interpretation of quantification in natural language. Unlike Russell’s system, which focused more on **logical forms**, Montague’s system included more **complex types** and **semantic interpretations**.
+
+---
+
+#### **5. Conclusion: The Legacy of Frege, Russell, and Montague**
+
+The work of **Frege**, **Russell**, and **Montague** continues to influence the study of language, logic, and meaning. Their theories laid the foundation for many of the debates and developments that followed in **formal semantics**, **philosophy of language**, and **cognitive science**.
+
+- **Frege's** contributions to understanding meaning and reference continue to shape how philosophers think about the relationship between language and thought, particularly in terms of **sense** and **reference**.
+  
+- **Russell's theory of descriptions** remains foundational in understanding how language interacts with the world, particularly in the context of **quantification** and the **logical structure** of language.
+
+- **Montague’s formal semantics** revolutionized the field by creating a formal framework that bridged the gap between **linguistics** and **logic**, providing a new way to think about the **syntax-semantics interface** and leading to the development of model-theoretic semantics.
+
+Each theorist, in their own way, advanced the understanding of meaning, reference, and language’s connection to logic, helping shape modern approaches to **semantics**, **syntax**, and **philosophy of language**.
 
