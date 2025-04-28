@@ -1,0 +1,29 @@
+\documentclass[12pt]{article}
+\usepackage{hyperref}  % For hyperlinks
+\usepackage{enumitem}  % For tightlist (important for Markdown lists)
+
+% Explicitly define tightlist if enumitem doesn't work
+\newcommand{\tightlist}{\itemsep 0pt\parskip 0pt\parsep 0pt}
+
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+
+$if(title)$
+\title{$title$}
+$endif$
+
+$if(author)$
+\author{$author$}
+$endif$
+
+\setcounter{secnumdepth}{0}
+
+\begin{document}
+
+$if(title)$
+\maketitle
+$endif$
+
+$body$
+
+\end{document}

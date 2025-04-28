@@ -1,3 +1,4 @@
+
 # 1. Introduction
 
 The relationship between **syntax** and **semantics** has been one of the most hotly debated areas within **linguistics**, **philosophy of language**, and **cognitive science**. From Noam Chomsky's groundbreaking theories to the competing models of Richard Montague and Donald Davidson, the exploration of these domains spans both theoretical rigor and empirical nuance. The central questions include: How is meaning encoded in language? How does syntax, the structure of sentences, relate to this meaning? And, most fundamentally, what cognitive mechanisms enable human beings to both produce and understand the vast array of linguistic constructions?
@@ -217,7 +218,7 @@ Richard Montague, influenced by the mathematical precision of **logic**, sought 
 Montague’s most important insight was that the meaning of a sentence could be represented using **formal logic**, and that syntactic structures could be mapped onto **logical forms**. In this view, sentences in natural language are not only structured according to syntactic rules, but also generate **semantic interpretations** in the form of **truth conditions**.
 
 For example, the sentence "John loves Mary" can be translated into a **predicate calculus** formula like:  
-`Loves(John, Mary)`  
+$$Loves(John, Mary)$$  
 This formula specifies the **truth conditions** of the sentence — namely, that it is true if and only if John loves Mary. Similarly, Montague extended this approach to more complex constructions, like questions, relative clauses, and modality, which had previously been difficult to account for in formal grammar.
 
 ### 7.1.2 Truth-Conditional Semantics
