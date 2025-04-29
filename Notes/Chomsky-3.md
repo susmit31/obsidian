@@ -164,11 +164,13 @@ different cognitive faculties operating semi-independently.
 
 Sentences are built hierarchically using **phrase structure rules**:
 
-```
-S → NP VP  
-NP → Det N  
-VP → V NP
-```
+$$
+\begin{aligned}
+S &\rightarrow NP + VP \\
+NP &\rightarrow Det + N \\
+VP &\rightarrow V + NP
+\end{aligned}
+$$
 
 Where:
 
@@ -181,9 +183,9 @@ Where:
 
 Example:
 
-```
-The cat eats fish.
-```
+$$
+\text{The cat eats fish.}
+$$
 Generated via hierarchical assembly.
 
 ### 2. Transformational Rules
@@ -406,12 +408,12 @@ Example categories:
 
 | Symbol | Meaning |
 |:------|:--------|
-| `e` | entity |
-| `t` | truth value (true or false) |
-| `e → t` | function from entities to truth values (predicate) |
-| `(e → t) → t` | quantifier over entities |
+| $e$ | entity |
+| $t$ | truth value (true or false) |
+| $e \rightarrow{} t$ | function from entities to truth values (predicate) |
+| $(e \rightarrow{} t) \rightarrow{} t$ | quantifier over entities |
 
-Thus, "John" is of category `e` (entity), "runs" is of type `e → t` (predicate: takes an entity and returns a truth value).
+Thus, "John" is of category $e$ (entity), "runs" is of type $e \rightarrow{} t$ (predicate: takes an entity and returns a truth value).
 
 ### 2. **Type Theory**
 
@@ -419,17 +421,17 @@ Montague used **Higher-Order Typed Lambda Calculus** to organize semantic types.
 
 **Basic types**:
 
-- `e`: entities
-- `t`: truth values
+- $e$: entities
+- $t$: truth values
 
 **Complex types**:
 
-- If `α` and `β` are types, then `(α → β)` is the type of functions from `α` to `β`.
+- If $\alpha{}$ and $\beta{}$ are types, then $(\alpha{} \rightarrow{} \beta{})$ is the type of functions from $\alpha{}$ to $\beta{}$.
 
 Examples:
 
-- An intransitive verb ("runs") is of type `e → t`.
-- A transitive verb ("loves") is of type `e → (e → t)`.
+- An intransitive verb ("runs") is of type $e \rightarrow{} t$.
+- A transitive verb ("loves") is of type $e \rightarrow{} (e \rightarrow{} t)$.
 
 Thus, **types build a hierarchy**, enabling detailed semantic composition.
 
@@ -463,64 +465,66 @@ Let’s see how Montague would formally analyze a sentence.
 
 ### Step 1: Lexicon (syntactic categories and semantic types)
 
-| Word | Category | Type |
-|:----|:---------|:----|
-| every | determiner | `(e → t) → ((e → t) → t)` |
-| man | noun | `e → t` |
-| loves | transitive verb | `e → (e → t)` |
-| a | determiner | `(e → t) → ((e → t) → t)` |
-| woman | noun | `e → t` |
+| Word  | Category        | Type                                                                      |
+| :---- | :-------------- | :------------------------------------------------------------------------ |
+| every | determiner      | $(e \rightarrow{} t) \rightarrow{} ((e \rightarrow{} t) \rightarrow{} t)$ |
+| man   | noun            | $e \rightarrow{} t$                                                       |
+| loves | transitive verb | $e \rightarrow{} (e \rightarrow{} t)$                                     |
+| a     | determiner      | $(e \rightarrow{} t) \rightarrow{} ((e \rightarrow{} t) \rightarrow{} t)$ |
+| woman | noun            | $e \rightarrow{} t$                                                       |
 
 ### Step 2: Structure
 
 Simplified syntax tree:
 
-```
-[S
-  [NP [Det every] [N man]]
-  [VP [V loves] [NP [Det a] [N woman]]]
+$$
+\begin{aligned}
+[\text{S} \\
+\quad [\text{NP} \quad [\text{Det every}] \quad [\text{N man}]] \\
+\quad [\text{VP} \quad [\text{V loves}] \quad [\text{NP} \quad [\text{Det a}] \quad [\text{N woman}]]] \\
 ]
-```
+\end{aligned}
+$$
 
 ### Step 3: Semantic Derivation
 
-**(i) "man"** → function from entities to truth values (`λx. man(x)`).
+**(i) "man"** $\rightarrow{}$ function from entities to truth values ($\lambda{}x. man(x)$).
 
-**(ii) "every man"** → applies "every" to "man":
+**(ii) "every man"** $\rightarrow{}$ applies "every" to "man":
 - "every" expects a predicate and returns a generalized quantifier.
 
 Semantically:
 
-```
-every(man) = λP. ∀x (man(x) → P(x))
-```
+$$
+\text{every(man)} = \lambda{}P\;. \forall{}x \;(\text{man}(x) \rightarrow{} P(x))
+$$
 (For all x, if x is a man, then x satisfies predicate P.)
 
 **(iii) "loves a woman"**
 
-- "woman" → `λy. woman(y)`
-- "a woman" → generalized quantifier:
+- "woman" $\rightarrow{}\lambda{}y. woman(y)$
+- "a woman" $\rightarrow{}$ generalized quantifier:
 
-```
-a(woman) = λP. ∃y (woman(y) ∧ P(y))
-```
+$$
+a(\text{woman}) = \lambda{}P\;. \exists{}y \;(\text{woman}(y) \land{} P(y))
+$$
 
-- "loves" → `λx.λy. loves(x, y)` (curried form: loves takes x, then y).
+- "loves" $\rightarrow{}$ $\lambda{}x.\lambda{}y. loves(x, y)$ (curried form: loves takes x, then y).
 
 Now, **loves a woman** means:
 
-```
-λx. ∃y (woman(y) ∧ loves(x, y))
-```
+$$
+\lambda{}x\;. \exists{}y \;(\text{woman}(y) \land{} \text{loves}(x, y))
+$$
 (A function from entities x to truth values.)
 
 **(iv) Whole sentence**
 
 "every man" applies to "loves a woman":
 
-```
-∀x (man(x) → ∃y (woman(y) ∧ loves(x, y)))
-```
+$$
+\forall{}x \;(\text{man}(x) \rightarrow{} \exists{}y \;(\text{woman}(y) \land{} \text{loves}(x, y)))
+$$
 
 Thus, the sentence is interpreted as:
 
@@ -576,9 +580,9 @@ Montague proposed translating English into an intermediate formal language (e.g.
 
 **Pipeline**:
 
-```
-Natural Language → Intermediate Language → Model-Theoretic Interpretation
-```
+$$
+\text{Natural Language $\rightarrow{}$ Intermediate Language $\rightarrow{}$ Model-Theoretic Interpretation}
+$$
 
 Thus, ambiguities and complexities are handled systematically.
 
@@ -717,9 +721,9 @@ Davidson leans heavily on **Alfred Tarski’s** work.
 **Tarski's Schema**:  
 The meaning of "Snow is white" is captured by the *T-schema*:
 
-```
-'Snow is white' is true if and only if snow is white.
-```
+$$
+\text{'Snow is white' is true if and only if snow is white.}
+$$
 
 For a formal language \( L \):
 
@@ -730,7 +734,7 @@ Tarski’s **Convention T**:
 
 > Any adequate theory of truth must entail, for every sentence \( s \), a biconditional of the form:
 >
-> `'s' is true if and only if p`
+> $\text{'s' is true if and only if p}$
 >
 > where *p* is a translation of *s* into the metalanguage.
 
@@ -766,25 +770,28 @@ Suppose our toy language contains:
 
 **Syntax**:
 
-```
-Sentence → Name Verb Name  
-Name → John | Mary  
-Verb → loves | hates
-```
+$$
+\begin{align*}
+\text{Sentence} &\rightarrow \text{Name Verb Name} \\
+\text{Name} &\rightarrow \text{John}\ |\ \text{Mary} \\
+\text{Verb} &\rightarrow \text{loves}\ |\ \text{hates}
+\end{align*}
+
+$$
 
 **Goal**: Derive T-sentences like:
 
-```
-'John loves Mary' is true if and only if John loves Mary.
-```
+$$
+\text{'John loves Mary' is true if and only if John loves Mary.}
+$$
 
 **Recursive Rules**:
 
-- If `n1` and `n2` are names and `v` is a verb, then:
+- If $n1$ and $n2$ are names and $v$ is a verb, then:
   
-  ```
-  'n1 v n2' is true if and only if n1 v n2
-  ```
+  $$
+  \text{'n1 v n2' is true if and only if n1 v n2}
+  $$
 
 Thus, by **systematically specifying the truth conditions**, the theory provides the **meaning** of any sentence.
 
@@ -807,11 +814,11 @@ Each syntactic operation corresponds to a rule specifying the truth conditions.
 
 Example:
 
-- If `φ` and `ψ` are sentences:
+- If $\phi{}$ and $\psi{}$ are sentences:
   
-  ```
-  'φ and ψ' is true if and only if φ is true and ψ is true.
-  ```
+  $$
+  \text{'$\phi{}$ and $\psi{}$' is true if and only if $\phi{}$ is true and $\psi{}$ is true.}
+  $$
 
 Thus, logical connectives (and, or, not) are semantically transparent.
 
@@ -860,9 +867,9 @@ Natural language is messy: words have multiple meanings.
 
 Sentences like:
 
-```
-'John loves Mary' contains three words.
-```
+$$
+\text{'John loves Mary' contains three words.}
+$$
 require careful treatment to avoid paradoxes.
 
 Davidson refined Tarskian machinery to handle such cases but admitted that natural language complicates the picture.
@@ -871,9 +878,9 @@ Davidson refined Tarskian machinery to handle such cases but admitted that natur
 
 Sentences like:
 
-```
-John believes that Mary loves Peter.
-```
+$$
+\text{John believes that Mary loves Peter.}
+$$
 cannot be straightforwardly captured by extensional truth conditions.
 
 Davidson developed **paratactic analysis**:
@@ -882,10 +889,10 @@ Davidson developed **paratactic analysis**:
 
 Example:
 
-```
-John believes: [Mary loves Peter].
-```
-where `[Mary loves Peter]` is handled separately.
+$$
+\text{John believes: [Mary loves Peter].}
+$$
+where $\text{[Mary loves Peter]}$ is handled separately.
 
 
 ## Davidson vs Montague: A Contrast
@@ -963,13 +970,13 @@ Later theories (e.g., situation semantics, dynamic semantics) can be seen as mod
 
 ## Summary of Davidson's Contributions
 
-| Contribution | Importance |
-|:------------|:-----------|
-| Truth-conditional approach to meaning | Grounded meaning in truth, not mental entities |
-| Application of Tarski to natural language | Formalized semantics for messy languages |
-| Emphasis on compositionality | Explained how complex meanings arise |
-| Paratactic analysis of indirect discourse | New strategy for intensional contexts |
-| Philosophical elegance | Minimalist yet powerful theory of meaning |
+| Contribution                              | Importance                                     |
+| :---------------------------------------- | :--------------------------------------------- |
+| Truth-conditional approach to meaning     | Grounded meaning in truth, not mental entities |
+| Application of Tarski to natural language | Formalized semantics for messy languages       |
+| Emphasis on compositionality              | Explained how complex meanings arise           |
+| Paratactic analysis of indirect discourse | New strategy for intensional contexts          |
+| Philosophical elegance                    | Minimalist yet powerful theory of meaning      |
 
 Davidson offered a vision of meaning that was clear, disciplined, and logically grounded — even if some corners of language proved unruly.
 
@@ -1058,9 +1065,9 @@ Universal Grammar comprises a few foundational ideas:
 
 **Example**:
 
-| Feature | English | Italian |
-|:--------|:-------:|:-------:|
-| Null Subject (can omit subject pronoun) | No | Yes |
+| Feature                                 | English | Italian |
+| :-------------------------------------- | :-----: | :-----: |
+| Null Subject (can omit subject pronoun) |   No    |   Yes   |
 
 Thus, the **Null Subject Parameter** is set to 'off' in English and 'on' in Italian.
 
@@ -1116,8 +1123,8 @@ Transformations (like forming questions) map deep structures to surface structur
 
 Example:
 
-- "The" + "boy" → "the boy"
-- "The boy" + "runs" → "the boy runs"
+- "The" + "boy" $\rightarrow{}$ "the boy"
+- "The boy" + "runs" $\rightarrow{}$ "the boy runs"
 
 Hierarchical structures arise naturally from repeated applications of Merge.
 
@@ -1270,12 +1277,12 @@ This project was deeply influenced by his collaboration with Wittgenstein and an
 
 ## Comparison Between Frege and Russell
 
-| Aspect                      | Frege                                             | Russell                                        |
-|------------------------------|---------------------------------------------------|------------------------------------------------|
-| Meaning Structure            | Sense (mode of presentation) and Reference        | Primarily reference and logical analysis       |
-| Handling of Non-Referring Terms | Indirect reference via Sense                     | Eliminate by reanalyzing the logical structure |
-| Focus                        | Mental content (Thoughts), rigorous logic         | Logical structure, ontology of facts           |
-| Treatment of Sentences       | Sentences refer to truth-values                   | Sentences represent facts or their absence     |
+| Aspect                          | Frege                                      | Russell                                        |
+| ------------------------------- | ------------------------------------------ | ---------------------------------------------- |
+| Meaning Structure               | Sense (mode of presentation) and Reference | Primarily reference and logical analysis       |
+| Handling of Non-Referring Terms | Indirect reference via Sense               | Eliminate by reanalyzing the logical structure |
+| Focus                           | Mental content (Thoughts), rigorous logic  | Logical structure, ontology of facts           |
+| Treatment of Sentences          | Sentences refer to truth-values            | Sentences represent facts or their absence     |
 
 In short: **Frege focuses more on cognitive significance (how meaning is grasped),** while **Russell focuses more on ontological and logical structure (how meaning maps onto the world).**
 
@@ -1390,13 +1397,13 @@ Key to Davidson was **radical interpretation**: imagining yourself as an interpr
 
 Let’s now compare them along several dimensions:
 
-| Aspect | Frege | Russell | Chomsky | Montague | Davidson |
-|---|---|---|---|---|---|
-| **Focus** | Cognitive structure of meaning | Logical form and reference | Innate cognitive structures | Formal semantics | Truth-conditions via interpretation |
-| **View of Language** | Tool for expressing Thoughts | Mirror of atomic facts | Cognitive module | Formal system akin to logic | Medium for conveying truths |
-| **Approach** | Abstract, Platonist | Analytic, logical atomism | Biological, computational | Formal-logical, mathematical | Empirical, interpretive |
-| **Strengths** | Rich account of meaning | Sharp logical rigor | Explains language acquisition | Precision, formalization | Pragmatic, social dimension |
-| **Weaknesses** | Murky ontology | Oversimplified ontology | Syntax/semantics divorce | Unrealistic cognitive assumptions | Thin notion of meaning |
+| Aspect               | Frege                          | Russell                    | Chomsky                       | Montague                          | Davidson                            |
+| -------------------- | ------------------------------ | -------------------------- | ----------------------------- | --------------------------------- | ----------------------------------- |
+| **Focus**            | Cognitive structure of meaning | Logical form and reference | Innate cognitive structures   | Formal semantics                  | Truth-conditions via interpretation |
+| **View of Language** | Tool for expressing Thoughts   | Mirror of atomic facts     | Cognitive module              | Formal system akin to logic       | Medium for conveying truths         |
+| **Approach**         | Abstract, Platonist            | Analytic, logical atomism  | Biological, computational     | Formal-logical, mathematical      | Empirical, interpretive             |
+| **Strengths**        | Rich account of meaning        | Sharp logical rigor        | Explains language acquisition | Precision, formalization          | Pragmatic, social dimension         |
+| **Weaknesses**       | Murky ontology                 | Oversimplified ontology    | Syntax/semantics divorce      | Unrealistic cognitive assumptions | Thin notion of meaning              |
 
 
 ## 7. Critical Evaluation
