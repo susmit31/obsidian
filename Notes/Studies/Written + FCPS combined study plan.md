@@ -81,14 +81,6 @@
 - [x] LM mental practice
 - [ ] Math past papers
 ## Apr 26 - Apr 30
-- [ ] BD Aff prioritize as sorted by PPM
-- [ ] Int'l empirical and prob solving
-- [ ] LM PDFs
-- [ ] Data
-- [ ] CPD
-- [ ] Reform commissions' reports
-- [ ] LM mental practice
-- [ ] Math english bangla past papers
 - [ ] Acute med
 - [ ] Austere
 - [ ] Neuro stroke
