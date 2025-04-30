@@ -113,3 +113,48 @@ flowchart TD
 💡 **Clinical Insight**:  
 If a patient has **CN III palsy + contralateral cerebellar signs (ataxia, tremor)** → suspect **red nucleus involvement** = **Claude or Benedikt syndrome** → Think **PCA (paramedian branches)** ± **SCA** if cerebellar fibers are more involved.
 
+# 🧠 Brainstem Blood Supply — Medulla & Pons
+
+---
+
+## 🧠 MEDULLA
+
+| Artery                          | Supplied Territory                      | Key Structures                                                                 | Clinical Syndromes                                      |
+|---------------------------------|------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
+| **Anterior spinal artery**      | Anteromedial medulla                     | - Pyramids (corticospinal tract) <br> - Medial lemniscus <br> - CN XII nucleus/fascicles | **Medial medullary syndrome (Dejerine)**<br>—Contralateral hemiparesis<br>—Contralateral proprioception loss<br>—Ipsilateral tongue weakness |
+| **Posterior inferior cerebellar artery (PICA)** | Lateral medulla                        | - Spinothalamic tract <br> - Spinal trigeminal nucleus <br> - Vestibular nuclei <br> - Nucleus ambiguus <br> - Inferior cerebellar peduncle | **Lateral medullary syndrome (Wallenberg)**<br>—Dysphagia, hoarseness<br>—Contralateral body pain/temp loss<br>—Ipsilateral face pain/temp loss<br>—Vertigo, nystagmus, ataxia |
+| **Vertebral artery** (direct branches) | Lateral & ventrolateral medulla        | Often overlaps with PICA territory; supplies similar areas                       | Can mimic Wallenberg; large infarcts may affect both medial & lateral areas |
+
+---
+
+## 🧠 PONS
+
+| Artery                              | Supplied Territory                    | Key Structures                                                                 | Clinical Syndromes                                      |
+|-------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
+| **Paramedian branches of basilar artery** | Anteromedial pons                     | - Corticospinal tract <br> - Medial lemniscus <br> - CN VI nucleus/fascicles <br> - CN VII fascicles (sometimes) | **Medial pontine syndrome (Foville or Raymond)**<br>—Contralateral hemiparesis<br>—Contralateral vibration/proprioception loss<br>—Ipsilateral CN VI or VII palsy |
+| **Short circumferential branches (basilar)** | Anterolateral pons                   | - Middle cerebellar peduncle <br> - Pontine nuclei <br> - CN V motor/sensory roots | Rarely isolated infarcts; may contribute to **ataxia, facial weakness** |
+| **Long circumferential branches (AICA)** | Lateral caudal pons                  | - Spinothalamic tract <br> - Spinal trigeminal nucleus <br> - Vestibular nuclei <br> - CN VII nucleus/fibers <br> - Inferior cerebellar peduncle | **Lateral pontine syndrome (AICA infarct)**<br>—Facial paralysis<br>—Hearing loss<br>—Vertigo, nausea<br>—Contralateral pain/temp loss |
+| **Superior cerebellar artery (SCA)** | Dorsolateral rostral pons + cerebellum | - Superior cerebellar peduncle <br> - Lateral lemniscus <br> - Cerebellar structures | May cause **ataxia**, dysmetria, contralateral sensory changes; overlaps with midbrain in some infarcts |
+
+---
+
+## 🧠 Summary of Named Brainstem Syndromes
+
+| Syndrome                 | Level     | Territory Affected           | Artery                       | Key Features |
+|--------------------------|-----------|-------------------------------|------------------------------|--------------|
+| **Medial medullary (Dejerine)** | Medulla   | Anteromedial                  | Anterior spinal              | Hemiparesis, proprioception loss, tongue deviation |
+| **Lateral medullary (Wallenberg)** | Medulla   | Lateral                       | PICA                         | Dysphagia, ataxia, Horner's, pain/temp loss        |
+| **Medial pontine (Foville/Raymond)** | Pons      | Anteromedial                  | Paramedian basilar           | CN VI/ VII palsy, hemiparesis                      |
+| **Lateral pontine (AICA)**        | Pons      | Lateral caudal                | AICA                         | CN VII palsy, vertigo, hearing loss, ataxia        |
+
+---
+
+🧠 **Key Clinical Pearls**:
+- Medial = **motor** → corticospinal tract + CN nuclei → hemiparesis + cranial nerve palsy.
+- Lateral = **sensory + cerebellar + autonomic** → ataxia, vertigo, Horner’s, dissociated sensory loss.
+- CN localization helps determine level:  
+  - CN XII = medulla  
+  - CN VI/VII = pons  
+  - CN III = midbrain
+
+
