@@ -87,33 +87,29 @@ flowchart TD
 	MLem --> |Neck, trunk,<br/> limbs|VPL[Ventral<br/> Postero-Lateral<br/> Thalamus]
 ```
 
-## Artery supply
-| Region   | Artery                             |
-| -------- | ---------------------------------- |
-| Midbrain | Posterior cerebral artery          |
-| Pons     | Pontine branches of basilar artery |
-| Medulla  | PICA + vertebral artery            |
-## 🧠 Blood Supply of the Midbrain — Clinical Overview
+# 🧠 Blood Supply of the Midbrain — Clinical Overview (Updated with Red Nucleus)
 
-| Artery                                                                                 | Supplied Territory                                   | Key Structures                                                                                              | Clinical Correlates                                                            |
-| -------------------------------------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| **Posterior Cerebral Artery** (PCA) <br> — paramedian & short circumferential branches | Anteromedial & anterolateral midbrain                | - Cerebral peduncle <br> - Substantia nigra <br> - Oculomotor nerve fibers                                  | **Weber syndrome** <br> (ipsilateral CN III palsy + contralateral hemiparesis) |
-| **Quadrigeminal artery** <br> (branch of PCA)                                          | Dorsal midbrain (tectum)                             | - Superior & inferior colliculi <br> - Pretectal area                                                       | **Parinaud syndrome** <br> (upgaze palsy, light-near dissociation)             |
-| **Posterior choroidal arteries** (PCA branches)                                        | Posterior/dorsal midbrain + thalamus                 | - Pretectum <br> - Pulvinar, lateral geniculate body                                                        | Can contribute to **Parinaud syndrome** or thalamic syndromes                  |
-| **Superior Cerebellar Artery** (SCA)                                                   | Lateral and inferior dorsal midbrain (mostly caudal) | - Inferior colliculus <br> - Superior cerebellar peduncle <br> - Decussation of dentatorubrothalamic fibers | **Claude syndrome** <br> (CN III palsy + contralateral ataxia/tremor)          |
-| **Basilar artery (top end)**                                                           | Ventral midbrain                                     | - Crus cerebri <br> - CN III root fibers                                                                    | Can overlap with PCA territory, **Weber syndrome** possible                    |
+| Artery                        | Supplied Territory                             | Key Structures                                 | Clinical Correlates                             |
+|------------------------------|-------------------------------------------------|------------------------------------------------|--------------------------------------------------|
+| **Posterior Cerebral Artery** (PCA) <br> — paramedian & short circumferential branches | Anteromedial & medial tegmentum                | - **Cerebral peduncle** <br> - **Oculomotor nerve fascicles** <br> - **Substantia nigra** <br> - **Red nucleus** | **Weber syndrome** (CN III palsy + contralateral hemiparesis) <br> **Claude syndrome** (CN III palsy + contralateral ataxia/tremor) <br> **Benedikt syndrome** (CN III palsy + contralateral tremor + choreoathetosis) |
+| **Quadrigeminal artery** <br> (branch of PCA) | Dorsal midbrain (tectum)                        | - **Superior & inferior colliculi** <br> - **Pretectal area** | **Parinaud syndrome** (upgaze palsy, light-near dissociation, convergence-retraction nystagmus) |
+| **Posterior choroidal arteries** (PCA branches) | Posterior/dorsal midbrain + thalamus           | - Pretectum <br> - Pineal region structures <br> - Thalamic pulvinar | Can contribute to **Parinaud syndrome** or **thalamic syndromes** |
+| **Superior Cerebellar Artery** (SCA) | Lateral & inferior midbrain, esp. caudal tectum | - Inferior colliculus <br> - Superior cerebellar peduncle <br> - Decussation of dentatorubrothalamic fibers | May overlap in **Claude syndrome** (via cerebellar pathways) <br> Rarely contributes to **Parinaud** if inferior colliculus involved |
+| **Basilar artery (top end)** | Ventral midbrain                                 | - Basis pedunculi <br> - CN III rootlets       | Can cause **Weber-like syndromes** due to overlap with PCA territory |
 
 ---
 
-#### 🧠 Named Midbrain Stroke Syndromes:
-| Syndrome     | Lesion Site                          | Artery Involved                   | Key Features                                  |
-| ------------ | ------------------------------------ | --------------------------------- | --------------------------------------------- |
-| **Weber**    | Cerebral peduncle + CN III fascicles | PCA (paramedian branch)           | CN III palsy + contralateral hemiplegia       |
-| **Claude**   | Red nucleus + CN III fascicles       | PCA ± SCA                         | CN III palsy + contralateral ataxia/tremor    |
-| **Benedikt** | Red nucleus + medial tegmentum       | PCA (medial)                      | CN III palsy + contralateral tremor/athetosis |
-| **Parinaud** | Dorsal midbrain (pretectal area)     | Quadrigeminal/Posterior choroidal | Upgaze palsy, light-near dissociation         |
+### 🧠 Named Midbrain Stroke Syndromes (Refreshed)
+
+| Syndrome          | Lesion Site                              | Artery Involved             | Key Features                                       |
+|------------------|------------------------------------------|-----------------------------|----------------------------------------------------|
+| **Weber**        | Cerebral peduncle + CN III fascicles      | PCA (paramedian branch)     | CN III palsy + contralateral hemiplegia            |
+| **Claude**       | **Red nucleus** + CN III fascicles        | PCA (paramedian) ± SCA      | CN III palsy + contralateral ataxia/tremor         |
+| **Benedikt**     | Red nucleus + **medial tegmentum**        | PCA (paramedian)            | CN III palsy + contralateral tremor + athetosis    |
+| **Parinaud**     | **Pretectal area** and **superior colliculi** | Quadrigeminal / Posterior choroidal | Vertical gaze palsy, convergence-retraction nystagmus, light-near dissociation |
 
 ---
 
-💡 **Note**: Midbrain strokes are rare due to rich collateral supply. Tumors, demyelination, and hydrocephalus are more common culprits in dorsal lesions (e.g., Parinaud).
+💡 **Clinical Insight**:  
+If a patient has **CN III palsy + contralateral cerebellar signs (ataxia, tremor)** → suspect **red nucleus involvement** = **Claude or Benedikt syndrome** → Think **PCA (paramedian branches)** ± **SCA** if cerebellar fibers are more involved.
 
