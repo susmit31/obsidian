@@ -84,7 +84,7 @@
 - [ ] Acute med
 - [ ] Austere
 - [ ] Neuro stroke
-- [ ] Nephro 2
+- [x] Nephro 2
 ### Ki ki baki
 #### BCS
 - [ ] Int empirical, prob half
