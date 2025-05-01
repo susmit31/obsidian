@@ -73,7 +73,7 @@ geometry: margin=1in
 	- Vestibular nucleus
 	- Spinocerebellar tracts - coordinate ipsilateral limb movements
 	- Descending sympathetic fibres from hypothalamus - ipsilateral Horner
-- Clinical syndrome: **i5, 9-11 + CPT***
+- Clinical syndrome: ***i5, 9-11 + CPT***
 	- Ipsilateral - 5 (pain and temperature lost at ipsilateral face), \[9, 10, 11\] (bulbar palsy) lesion; dysequilibrium (vestibular nucleus); ataxia (spinocerebellar tract); Horner's (ptosis, miosis, anhidrosis, enophthalmos)
 	- Contralateral - pain and temperature lost (lateral spinothalamic) at contralateral body 
 
@@ -84,7 +84,7 @@ geometry: margin=1in
 	- Pyramidal tract
 	- Medial lemniscus
 	- Hypoglossal nucleus and nerve
-- Clinical *syndrome*: **i12, dc + CHP***
+- Clinical *syndrome*: ***i12, dc + CHP***
 	- Ipsilateral: fine touch, vibration (DCMLS); tongue paralysis (CN12)
 	- Contralateral: hemiplegia (pyramidal)
 
