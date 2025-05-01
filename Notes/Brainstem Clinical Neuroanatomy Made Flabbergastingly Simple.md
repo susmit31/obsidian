@@ -7,7 +7,7 @@ geometry: margin=1in
 
 # Midbrain
 
-![Midbrain](assets/20250501160940.png){ height=200pt }
+![Midbrain](assets/20250501160940.jpg){ height=200pt }
 
 
 ## Region 1: Crus cerebri  (Weber's Syndrome)
@@ -44,7 +44,7 @@ geometry: margin=1in
 
 # Pons
 
-![Pons](assets/20250501172214.png){ height=200pt }
+![Pons](assets/20250501172214.jpg){ height=200pt }
 
  
 ## Ventral (Basilar) Pons (Millard-Gubler Syndrome)
@@ -60,7 +60,7 @@ geometry: margin=1in
 # Medulla
 
 
-![Medulla](assets/20250501175044.png){ height=200pt }
+![Medulla](assets/20250501175044.jpg){ height=200pt }
 
 
 ## Posterolateral Medulla (Wallenberg / lateral medullary syndrome)
