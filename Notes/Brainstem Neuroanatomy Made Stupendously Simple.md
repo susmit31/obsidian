@@ -130,12 +130,12 @@ flowchart TD
 
 ## 🧠 Summary of Named Brainstem Syndromes
 
-| Syndrome                 | Level     | Territory Affected           | Artery                       | Key Features |
-|--------------------------|-----------|-------------------------------|------------------------------|--------------|
-| **Medial medullary (Dejerine)** | Medulla   | Anteromedial                  | Anterior spinal              | Hemiparesis, proprioception loss, tongue deviation |
-| **Lateral medullary (Wallenberg)** | Medulla   | Lateral                       | PICA                         | Dysphagia, ataxia, Horner's, pain/temp loss        |
-| **Medial pontine (Foville/Raymond)** | Pons      | Anteromedial                  | Paramedian basilar           | CN VI/ VII palsy, hemiparesis                      |
-| **Lateral pontine (AICA)**        | Pons      | Lateral caudal                | AICA                         | CN VII palsy, vertigo, hearing loss, ataxia        |
+| Syndrome                            | Level   | Territory Affected | Artery             | Key Features                                       |
+| ----------------------------------- | ------- | ------------------ | ------------------ | -------------------------------------------------- |
+| **Medial medullary (Dejerine)**     | Medulla | Anteromedial       | Anterior spinal    | Hemiparesis, proprioception loss, tongue deviation |
+| **Lateral medullary (Wallenberg)**  | Medulla | Lateral            | PICA               | Dysphagia, ataxia, Horner's, pain/temp loss        |
+| **Medial pontine (Millard-Gubler)** | Pons    | Anteromedial       | Paramedian basilar | CN VI/ VII palsy, hemiparesis                      |
+| **Lateral pontine (AICA)**          | Pons    | Lateral caudal     | AICA               | CN VII palsy, vertigo, hearing loss, ataxia        |
 
 ---
 
