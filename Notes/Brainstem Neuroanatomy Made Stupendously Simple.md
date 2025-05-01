@@ -2,7 +2,7 @@
 For commonly tested stroke variants, we have to
 - Locate lesions (\*\*\*)
 - Predict functional deficits (in addition to the ones mentioned in the vignette) (\*\*)
-- Identify arteries involved (\*\*)
+- Identify arteries involved (\*) (less important since most of the time these textbook syndromes occur due to tumours or other lesions, and rarely due to such well-targetedstrokes)
 ## Why?
 To motivate the forthcoming study plan and the previously stated target skills, we'll take a look at a table differentiating between common brainstem stroke syndromes.
 
@@ -43,7 +43,7 @@ We have to master the following topics in order to hammer down the aforementione
 ## Corticospinal tract
 ### Functions
 - Convey all motor signals to voluntary muscles
-### Pathway
+### Pathway - Simplified
 
 ```mermaid
 flowchart TD
@@ -57,11 +57,13 @@ flowchart TD
     InfPyr --> |15%| ACT[Anterior<br/> corticospinal<br/> tract]
 
 ```
+### Pathway - Detailed
+![[assets/Pasted image 20250501132124.png]]
 ## Spinothalamic tract
 ### Functions
 - **Anterior**: Crude touch, pressure
 - **Lateral**: Pain, temperature
-### Pathway
+### Pathway - Simplified
 ```mermaid
 flowchart TD
 	Cross[Cross within 2 segments] --> LMedulla[Lateral medulla - ascend as spinal lemniscus]
@@ -73,51 +75,47 @@ flowchart TD
 	PLICap --> PCGyrus[Post central gyrus]
 ```
 
+### Pathway - Detailed
+![[assets/Pasted image 20250501131802.png]]
+![[assets/Pasted image 20250501131857.png]]
+
 ## DCMLS
 ### Functions
 - Fine touch, vibration
-### Pathway
+### Pathway - Simplified
 ```mermaid
 flowchart TD
 	DCol[Dorsal Column] --> Medulla[Continue as fasciculus gracilis and cuneatus, upto posterosuperior part of medulla]
-	Medulla --> Decuss[Decussation at<br/> superior medulla<br/>beginning of <br/>medial lemniscus]
-	Decuss2[Decussation at<br/> superior medulla]
-	Decuss2 --> MLem[Medial lemniscus from<br/> medial-superior medulla<br/> upto lateral midbrain<br/> at superior colliculus]
+	Medulla --> Decuss[Decussation at<br/> rostral medulla<br/>beginning of <br/>medial lemniscus]
+	Decuss2[Decussation at<br/> rostral medulla]
+	Decuss2 --> MLem[Medial lemniscus from<br/> anteromedial medulla<br/> upto lateral midbrain<br/> at superior colliculus]
 	MLem --> |Head<br/> sensations|VPM[Ventral<br/> Postero-Medial<br/> Thalamus]
 	MLem --> |Neck, trunk,<br/> limbs|VPL[Ventral<br/> Postero-Lateral<br/> Thalamus]
 ```
 
-# 🧠 Blood Supply of the Midbrain — Clinical Overview (Updated with Red Nucleus)
+### Pathway - Detailed
+![[assets/Pasted image 20250501131647.png]]
 
-| Artery                        | Supplied Territory                             | Key Structures                                 | Clinical Correlates                             |
-|------------------------------|-------------------------------------------------|------------------------------------------------|--------------------------------------------------|
-| **Posterior Cerebral Artery** (PCA) <br> — paramedian & short circumferential branches | Anteromedial & medial tegmentum                | - **Cerebral peduncle** <br> - **Oculomotor nerve fascicles** <br> - **Substantia nigra** <br> - **Red nucleus** | **Weber syndrome** (CN III palsy + contralateral hemiparesis) <br> **Claude syndrome** (CN III palsy + contralateral ataxia/tremor) <br> **Benedikt syndrome** (CN III palsy + contralateral tremor + choreoathetosis) |
-| **Quadrigeminal artery** <br> (branch of PCA) | Dorsal midbrain (tectum)                        | - **Superior & inferior colliculi** <br> - **Pretectal area** | **Parinaud syndrome** (upgaze palsy, light-near dissociation, convergence-retraction nystagmus) |
-| **Posterior choroidal arteries** (PCA branches) | Posterior/dorsal midbrain + thalamus           | - Pretectum <br> - Pineal region structures <br> - Thalamic pulvinar | Can contribute to **Parinaud syndrome** or **thalamic syndromes** |
-| **Superior Cerebellar Artery** (SCA) | Lateral & inferior midbrain, esp. caudal tectum | - Inferior colliculus <br> - Superior cerebellar peduncle <br> - Decussation of dentatorubrothalamic fibers | May overlap in **Claude syndrome** (via cerebellar pathways) <br> Rarely contributes to **Parinaud** if inferior colliculus involved |
-| **Basilar artery (top end)** | Ventral midbrain                                 | - Basis pedunculi <br> - CN III rootlets       | Can cause **Weber-like syndromes** due to overlap with PCA territory |
+# Sensory pathways - general organisation
+![[assets/Pasted image 20250501132016.png]]
+
+
+
+# Blood Supply of the Brain - Circle of Willis
+![[assets/Pasted image 20250501154425.png]]
+
+
+
+---
+## Cranial Nerve Nuclei
+![[assets/Pasted image 20250501132710.png]]
+![[assets/Pasted image 20250501132936.png]]
+
+## 🧠 Brainstem Blood Supply — Medulla & Pons
 
 ---
 
-### 🧠 Named Midbrain Stroke Syndromes (Refreshed)
-
-| Syndrome          | Lesion Site                              | Artery Involved             | Key Features                                       |
-|------------------|------------------------------------------|-----------------------------|----------------------------------------------------|
-| **Weber**        | Cerebral peduncle + CN III fascicles      | PCA (paramedian branch)     | CN III palsy + contralateral hemiplegia            |
-| **Claude**       | **Red nucleus** + CN III fascicles        | PCA (paramedian) ± SCA      | CN III palsy + contralateral ataxia/tremor         |
-| **Benedikt**     | Red nucleus + **medial tegmentum**        | PCA (paramedian)            | CN III palsy + contralateral tremor + athetosis    |
-| **Parinaud**     | **Pretectal area** and **superior colliculi** | Quadrigeminal / Posterior choroidal | Vertical gaze palsy, convergence-retraction nystagmus, light-near dissociation |
-
----
-
-💡 **Clinical Insight**:  
-If a patient has **CN III palsy + contralateral cerebellar signs (ataxia, tremor)** → suspect **red nucleus involvement** = **Claude or Benedikt syndrome** → Think **PCA (paramedian branches)** ± **SCA** if cerebellar fibers are more involved.
-
-# 🧠 Brainstem Blood Supply — Medulla & Pons
-
----
-
-## 🧠 MEDULLA
+### 🧠 MEDULLA
 
 | Artery                          | Supplied Territory                      | Key Structures                                                                 | Clinical Syndromes                                      |
 |---------------------------------|------------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
@@ -125,16 +123,8 @@ If a patient has **CN III palsy + contralateral cerebellar signs (ataxia, tremor
 | **Posterior inferior cerebellar artery (PICA)** | Lateral medulla                        | - Spinothalamic tract <br> - Spinal trigeminal nucleus <br> - Vestibular nuclei <br> - Nucleus ambiguus <br> - Inferior cerebellar peduncle | **Lateral medullary syndrome (Wallenberg)**<br>—Dysphagia, hoarseness<br>—Contralateral body pain/temp loss<br>—Ipsilateral face pain/temp loss<br>—Vertigo, nystagmus, ataxia |
 | **Vertebral artery** (direct branches) | Lateral & ventrolateral medulla        | Often overlaps with PICA territory; supplies similar areas                       | Can mimic Wallenberg; large infarcts may affect both medial & lateral areas |
 
----
 
-## 🧠 PONS
 
-| Artery                              | Supplied Territory                    | Key Structures                                                                 | Clinical Syndromes                                      |
-|-------------------------------------|----------------------------------------|---------------------------------------------------------------------------------|----------------------------------------------------------|
-| **Paramedian branches of basilar artery** | Anteromedial pons                     | - Corticospinal tract <br> - Medial lemniscus <br> - CN VI nucleus/fascicles <br> - CN VII fascicles (sometimes) | **Medial pontine syndrome (Foville or Raymond)**<br>—Contralateral hemiparesis<br>—Contralateral vibration/proprioception loss<br>—Ipsilateral CN VI or VII palsy |
-| **Short circumferential branches (basilar)** | Anterolateral pons                   | - Middle cerebellar peduncle <br> - Pontine nuclei <br> - CN V motor/sensory roots | Rarely isolated infarcts; may contribute to **ataxia, facial weakness** |
-| **Long circumferential branches (AICA)** | Lateral caudal pons                  | - Spinothalamic tract <br> - Spinal trigeminal nucleus <br> - Vestibular nuclei <br> - CN VII nucleus/fibers <br> - Inferior cerebellar peduncle | **Lateral pontine syndrome (AICA infarct)**<br>—Facial paralysis<br>—Hearing loss<br>—Vertigo, nausea<br>—Contralateral pain/temp loss |
-| **Superior cerebellar artery (SCA)** | Dorsolateral rostral pons + cerebellum | - Superior cerebellar peduncle <br> - Lateral lemniscus <br> - Cerebellar structures | May cause **ataxia**, dysmetria, contralateral sensory changes; overlaps with midbrain in some infarcts |
 
 ---
 
