@@ -3,6 +3,7 @@ title: Brainstem Clinical Neuroanatomy Made Flabbergastingly Simple
 author: Dr. Susmit
 date: May 1, 2025
 geometry: margin=1in
+header-includes: \usepackage{array}
 ---
 # Introduction
 ## Skills to Achieve
@@ -17,14 +18,27 @@ To motivate the forthcoming study plan and the previously stated target skills, 
 ## Key Brainstem Syndromes Distilled
 
 
-|  **Syndrome**  |                     **Region & Artery**                     |         **Cranial Nerves**         |                             **Key Features**                             |
-| :------------: | :---------------------------------------------------------: | :--------------------------------: | :----------------------------------------------------------------------: |
-|     Claude     |              Midbrain (red <br> nucleus), PCA               |               CN III               |                            i3 + contra ataxia                            |
-|     Weber      | Midbrain (cerebral peduncle), Basilar (paramedian branches) |               CN III               |                        i3c7u + contra hemiparesis                        |
-|    Parinaud    |  Midbrain (tectum), SCA & posterior choroidal (PCA branch)  |                 —                  |               Vertical gaze palsy, light-near dissociation               |
-| Millard-Gubler |                Ventral pons, Basilar artery                 |           CN VI, CN VII            |                        i6, i7 + contra hemiplegia                        |
-|   Wallenberg   |               Lateral<br> medulla, <br/>PICA                | CN V (spinal nucleus), CN IX, CN X | Ipsi face pain/temp loss, contra body pain/temp loss, dysphagia, vertigo |
-|    Dejerine    |           Medial medulla, Anterior spinal artery            |               CN XII               |               i12 + contra hemiplegia, proprioception loss               |
+\begin{table}[h]
+\centering
+\small
+\begin{tabular}{|l|>{\raggedright\arraybackslash}m{4cm}|>{\raggedright\arraybackslash}m{2cm}|>{\raggedright\arraybackslash}m{4cm}|}
+\hline
+\textbf{Syndrome} & \textbf{Region \& Artery} & \textbf{Cranial Nerves} & \textbf{Key Features} \\
+\hline
+Claude & Midbrain (red nucleus), PCA & CN III & i3 + contralateral ataxia \\
+\hline
+Weber & Midbrain (cerebral peduncle), Basilar (paramedian branches) & CN III & i3c7u + contralateral hemiparesis \\
+\hline
+Parinaud & Midbrain (tectum), SCA \& posterior choroidal (PCA branch) & — & Vertical gaze palsy, light-near dissociation \\
+\hline
+Millard-Gubler & Ventral pons, Basilar artery & CN VI, CN VII & i6, i7 + contralateral hemiplegia \\
+\hline
+Wallenberg & Lateral medulla, PICA & CN V (spinal nucleus), CN IX, CN X & Ipsilateral face pain/temp loss, contralateral body pain/temp loss, dysphagia, vertigo \\
+\hline
+Dejerine & Medial medulla, Anterior spinal artery & CN XII & i12 + contralateral hemiplegia, proprioception loss \\
+\hline
+\end{tabular}
+\end{table}
 
 \newpage
 
