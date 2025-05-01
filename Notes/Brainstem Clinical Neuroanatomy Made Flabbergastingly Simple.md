@@ -1,6 +1,7 @@
 # Midbrain
 
-<img src="assets/Pasted image 20250501160940.png" width=80%>
+<img src="assets/Pasted image 20250501160940.png" width="200px">
+
 ## Region 1: Crus cerebri 
 (cerebral peduncle = crus anteriorly and tegmentum posteriorly)
 - *Artery*: Ventral paramedian branches of PCA
@@ -31,7 +32,7 @@
 	- Pupillary disorders (e.g. light-near dissociation) (due to pretectal nucleus lesion)
 # Pons
 
-<img src="assets/Pasted image 20250501172214.png" width=80%>
+<img src="assets/Pasted image 20250501172214.png" width="200px">
 
 ## Ventral (Basilar) Pons
 - *Artery*: Basilar artery (lodges in the median sulcus between the two sides of pons)
@@ -44,7 +45,7 @@
 	- Contralateral hemiplegia
 # Medulla
 
-<img src="assets/Pasted image 20250501175044.png" width = 80%>
+<img src="assets/Pasted image 20250501175044.png" width="200px">
 
 ## Posterolateral Medulla
 - *Artery*: PICA (posteroinferior cerebellar artery, br. of vertebral)
