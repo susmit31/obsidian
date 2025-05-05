@@ -61,6 +61,7 @@ We have to master the following topics in order to hammer down the aforementione
 			- Medulla
 			- Spinal cord
 - Know the **locations of the cranial nerve nuclei**
+- Know the **clinically important reflex pathways**
 - Know the clinically relevant **subdivisions** in **cross sections** of the different areas of the **brainstem**
 - Know the **arterial supply** of the different parts
 
@@ -210,7 +211,7 @@ We have to master the following topics in order to hammer down the aforementione
 	- Spinal trigeminal nucleus and tract: ipsilateral face - pain and temperature senses
 	- Lateral spinothalamic tract: contralateral body - pain and temperature senses
 	- Vestibular nucleus
-	- Spinocerebellar tracts - coordinate ipsilateral limb movements
+	- Spinocerebellar tracts, inferior cerebellar peduncles - coordinate ipsilateral limb movements
 	- Descending sympathetic fibres from hypothalamus - ipsilateral Horner
 - Clinical syndrome: ***i5, 9-11 + CPT***
 	- Ipsilateral - 5 (pain and temperature lost at ipsilateral face), \[9, 10, 11\] (bulbar palsy) lesion; dysequilibrium (vestibular nucleus); ataxia (spinocerebellar tract); Horner's (ptosis, miosis, anhidrosis, enophthalmos)
@@ -246,3 +247,23 @@ We have to master the following topics in order to hammer down the aforementione
 |                          |                          |                |                                                         |
 | Medulla (posterolateral) | PICA                     | Wallenberg     | i5, i9–11, Horner + contralateral pain/temp loss        |
 
+
+# Reflexes
+## Light and Accommodation Reflexes
+
+
+### Simplified Pathways
+- Light enters through the retina and passes through the optic nerves to the primary visual cortex, V1, generating the visual experience
+- V1 signals are transmitted to V2, V3 etc for higher-order processing
+- Another part of the signals from CN2 go to the pretectal nucleus, which then forwards it to Edinger-Westphal nuclei *of both sides*, thereby triggering, through CN3 efferents, the **light reflex** in both eyes
+- In case of accommodation, signals from V2, V3 etc higher order visual centres of both sides directly travel to EWN of both sides, thereby triggering the **accommodation reflex**.
+
+### Clinico-anatomical correlations
+- Since the *accommodation reflex bypasses pretectal nucleus*, lesions of the pretectal nucleus will cause **light-near dissociation**
+- Also, if the retina/CN2/optic chiasm happens on one side, then the pretectal nucleus of that side won't be stimulated when light is shone, and so light reflex doesn't get triggered. However since the accommodation reflex depends on afferents from higher-order visual processing which is inherently bilateral where both V1's share information through the corpus callosum, during lesions of retina/CN2 etc of one side, the other side will still contribute to the V2 and higher, and that means that V2 on the diseased side will trigger accommodation - i.e. there's also light-near dissociation in this case.
+
+
+### Aetiology of LND
+
+- **Argyll-Robertson pupil**: Pretectal nucleus lesion due to syphilis, which causes LND by the aforementioned mechanism.
+- **Holmes-Adie’s Tonic Pupil**: Results from damage to the ciliary ganglion or postganglionic parasympathetic fibers (e.g., due to viral infection, diabetes, or autoimmune conditions like Sjögren’s syndrome). The pupil is initially dilated, with slow or absent light response. Over time, aberrant regeneration of fibers to the ciliary muscle (for accommodation) restores the near response, but the light response remains poor.
