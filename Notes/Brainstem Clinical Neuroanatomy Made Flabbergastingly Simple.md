@@ -67,7 +67,7 @@ We have to master the following topics in order to hammer down the aforementione
 
 \newpage
 
-# Tracts
+# Tracts & Fasciculi
 ## Corticospinal Tract
 ### Functions
 - Convey all motor signals to voluntary muscles
@@ -137,6 +137,21 @@ We have to master the following topics in order to hammer down the aforementione
 \includegraphics[width=0.5\textwidth]{assets/20250501221607.png}
 \end{center}
 :::
+
+
+## Medial Longitudinal Fasciculus
+### Functions
+- Control conjugate eye movements by coordinating the actions of the nuclei of CN3, 4, and 6
+
+### Pathway
+![](assets/20250506031512.png){ height=200pt }
+
+
+
+### Effect of lesion - INO (internuclear ophthalmoplegia)
+
+![](assets/20250506031320.png){ height=250pt }
+
 
 \newpage
 
@@ -267,3 +282,10 @@ We have to master the following topics in order to hammer down the aforementione
 
 - **Argyll-Robertson pupil**: Pretectal nucleus lesion due to syphilis, which causes LND by the aforementioned mechanism.
 - **Holmes-Adie’s Tonic Pupil**: Results from damage to the ciliary ganglion or postganglionic parasympathetic fibers (e.g., due to viral infection, diabetes, or autoimmune conditions like Sjögren’s syndrome). The pupil is initially dilated, with slow or absent light response. Over time, aberrant regeneration of fibers to the ciliary muscle (for accommodation) restores the near response, but the light response remains poor.
+
+### RAPD (Marcus-Gunn Pupil) Mechanism
+
+- RAPD results from **asymmetric afferent pathway damage** (retina or optic nerve) reducing light signal transmission from the affected eye to the pretectal nucleus.
+- During the swinging flashlight test, weaker afferent input from the affected eye leads to reduced EWN activation, causing less pupillary constriction or paradoxical dilation in both eyes when the affected eye is stimulated.
+- The bilateral projection from the pretectal nucleus to both EWNs ensures that the defect affects both pupils’ responses, making RAPD a sensitive indicator of unilateral or asymmetric afferent pathology.
+- The near reflex is spared because it relies on cortical pathways, not the pretectal nucleus, explaining *light-near dissociation in RAPD* cases.
