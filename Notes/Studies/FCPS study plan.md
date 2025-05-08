@@ -1,5 +1,5 @@
 # May 07 - May 10
-- [ ] Finish Rheum
+- [x] Finish Rheum
 - [ ] Respiratory
 - [ ] Finish Neuro
 - [ ] Cardio
