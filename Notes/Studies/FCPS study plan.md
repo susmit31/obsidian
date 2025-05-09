@@ -1,7 +1,7 @@
 # May 07 - May 10
 - [x] Finish Rheum
 - [ ] Respiratory
-- [ ] Finish Neuro
+- [x] Finish Neuro
 - [ ] Cardio
 - [ ] Nephro
 - [ ] Genetics
