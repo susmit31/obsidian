@@ -1,3 +1,8 @@
+# Completed Tally
+ - Nephro 1
+ - Rheum 1
+ - Neuro 1
+
 # May 07 - May 10
 - [x] Finish Rheum
 - [ ] Respiratory
@@ -10,10 +15,22 @@
 # Head Neck Embryo
 # May 11 - May 14
 - [ ] Infectious upto bacterial
-- [ ] Resp
+- [x] Resp
 - [ ] Cardio
 - [ ] Nephro review
 - [ ] Rheum review
 - [ ] Neuro review
 - [ ] Genetics
 - [ ] General Aspects
+
+# May 15 - May 18
+- [ ] Derma
+- [ ] Infectious
+- [ ] Genetics
+- [ ] Psych
+- [ ] General
+- [ ] Neuro review
+- [ ] Rheum review
+- [ ] Resp review
+- [ ] Nephro review
+- [ ] 

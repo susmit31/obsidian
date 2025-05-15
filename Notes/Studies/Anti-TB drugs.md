@@ -5,47 +5,56 @@
 ### Flashcard 1
 
 **Front:** **What is the mode of action of Isoniazid?**  
-        Back: Cell wall synthesis
+
+	        Back: Cell wall synthesis
 
 ### Flashcard 2
 
 **Front:** **Which drug is associated with the major adverse reaction of peripheral neuropathy?**  
-        Back: Isoniazid
+
+		Back: Isoniazid
 
 ### Flashcard 3
 
 **Front:** **What is a major adverse reaction of Rifampicin?**  
-        Back: Febrile reactions
+        
+	        Back: Febrile reactions
 
 ### Flashcard 4
 
 **Front:** **Which drug has an unknown mode of action?**  
-        Back: Pyrazinamide
+       
+		Back: Pyrazinamide
 
 ### Flashcard 5
 
 **Front:** **What is a less common adverse reaction of Ethambutol?**  
-        Back: Rash
+	        
+	        Back: Rash
 
 ### Flashcard 6
 
 **Front:** **Which drug is linked to 8th nerve damage as a major adverse reaction?**  
-        Back: Streptomycin
+	        
+	        Back: Streptomycin
 
 ### Flashcard 7
 
 **Front:** **What is a major adverse reaction of Pyrazinamide?**  
-        Back: Hepatitis
+	        
+	        Back: Hepatitis
 
 ### Flashcard 8
 
 **Front:** **Which drug can cause retrobulbar neuritis as a major adverse reaction?**  
-        Back: Ethambutol
+	        
+	        Back: Ethambutol
 
 ### Flashcard 9
 
 **Front:** **What is a less common adverse reaction of Isoniazid?**  
-        Back: Lupoid reactions
+		
+		Back: Lupoid reactions
 
 ### Flashcard 10
 
