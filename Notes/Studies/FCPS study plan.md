@@ -33,4 +33,4 @@
 - [ ] Rheum review
 - [ ] Resp review
 - [ ] Nephro review
-- [ ] 
+- [ ] **4 Practice exams daily**
