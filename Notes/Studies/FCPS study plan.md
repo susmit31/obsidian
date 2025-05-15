@@ -12,7 +12,6 @@
 - [ ] Genetics
 - [ ] Onco
 - [ ] General Aspects
-# Head Neck Embryo
 # May 11 - May 14
 - [ ] Infectious upto bacterial
 - [x] Resp
@@ -24,13 +23,15 @@
 - [ ] General Aspects
 
 # May 15 - May 18
+- [ ] **4 Practice exams daily**
 - [ ] Derma
 - [ ] Infectious
+	- [ ] Notes
+	- [ ] Davidson
 - [ ] Genetics
 - [ ] Psych
-- [ ] General
+- [ ] General - lecture
 - [ ] Neuro review
 - [ ] Rheum review
 - [ ] Resp review
 - [ ] Nephro review
-- [ ] **4 Practice exams daily**
