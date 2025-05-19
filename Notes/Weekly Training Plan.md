@@ -7,7 +7,7 @@ Includes:
 
 ---
 
-## 🗓️ Schedule Overview
+## 🥋💪 Hybrid Martial Artist Regimen (10 Hours/Week Version)
 
 | Day      | Duration | Focus Areas                                                 |
 |----------|----------|-------------------------------------------------------------|
@@ -18,6 +18,32 @@ Includes:
 | Fri      | 1.5 hrs  | Muay Thai (Combos + Shadowboxing + Clinch)                  |
 | Sat      | 2 hrs    | Kyokushin (Sparring Drills + Kata + Conditioning)           |
 | Sun      | 1 hr     | Active Recovery (Mobility, Optional Drills)                 |
+
+## 🥋💪 Hybrid Martial Artist Regimen (5 Hours/Week Version)
+
+**Goal:** Sustainability, mastery through consistency. Strength, mobility, and martial discipline — without burning out.
+
+|Day|Focus|Duration|Details|
+|---|---|---|---|
+|Mon|Hybrid Calisthenics (Upper Focus)|50 min|Push-ups, Pull-ups, Power Twister, Core|
+|Tue|Kyokushin Karate (Basics + Kata)|45 min|Stances, kihon, movement drills, light kata|
+|Wed|Active Rest / Mobility|20–30 min|Stretching, dynamic mobility, deep breathing|
+|Thu|Hybrid Calisthenics (Lower + Core)|50 min|Squats, bridges, leg raises, power twister hold|
+|Fri|Muay Thai (Bag/Shadow + Conditioning)|45 min|Shadowboxing, combos, clinch, cardio bursts|
+|Sat|Optional Short Session|30–40 min|Pick any focus you want or repeat weakest area|
+|Sun|Full Rest|-|Reflect, read, recover|
+
+## 🥋🔥 Hybrid Martial Artist Regimen (7 Hours/Week Version)
+
+| Day | Focus                                        | Duration  | Details                                                           |
+| --- | -------------------------------------------- | --------- | ----------------------------------------------------------------- |
+| Mon | Hybrid Calisthenics (Full Upper)             | 60 min    | Explosive pushups, power twister, pull-up work                    |
+| Tue | Kyokushin Karate (Kihon + Kata)              | 60 min    | Stances, strikes, kata practice, philosophy notes                 |
+| Wed | Mobility + Forearms                          | 30–40 min | Deep mobility, wrist roller, towel hangs, holds                   |
+| Thu | Hybrid Calisthenics (Lower + Core)           | 60 min    | Pistol squat progression, bridges, core circuits                  |
+| Fri | Muay Thai (Pad/Bag or Shadow + Conditioning) | 60 min    | Combos, knees, footwork drills, HIIT finisher                     |
+| Sat | Mixed Skills (Sparring/Forms + Grip)         | 60 min    | Freestyle kata, mental rehearsal, grip work, light spar shadowing |
+| Sun | Optional Rest / Flow Practice                | 20–30 min | Karate or yoga-style movement flow                                |
 
 ---
 
