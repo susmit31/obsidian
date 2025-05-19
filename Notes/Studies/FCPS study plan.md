@@ -47,3 +47,6 @@
 	- [ ] Infectious
 - [ ] Cardio 
 - [ ] Derma
+- [ ] Toxico
+- [ ] Immuno
+- [ ] Nutri
