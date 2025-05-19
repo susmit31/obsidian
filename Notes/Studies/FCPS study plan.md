@@ -23,15 +23,27 @@
 - [ ] General Aspects
 
 # May 15 - May 18
-- [ ] **4 Practice exams daily**
+- [x] **4 Practice exams daily**
 - [ ] Derma
 - [ ] Infectious
-	- [ ] Notes
+	- [x] Notes
 	- [ ] Davidson
-- [ ] Genetics
-- [ ] Psych
+- [x] Genetics
+- [x] Psych
 - [ ] General - lecture
 - [ ] Neuro review
 - [ ] Rheum review
 - [ ] Resp review
 - [ ] Nephro review
+
+# May 19 - May 21
+- [ ] Review
+	- [ ] Neuro
+	- [ ] Rheum
+	- [ ] Resp
+	- [ ] Nephro
+	- [ ] Psych
+	- [ ] Gene
+	- [ ] Infectious
+- [ ] Cardio 
+- [ ] Derma
