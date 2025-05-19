@@ -37,7 +37,7 @@
 - [ ] Nephro review
 
 # May 19 - May 21
-- [ ] Review
+- [ ] Review - 4 exams / day (target: 20 q/mark)
 	- [ ] Neuro
 	- [ ] Rheum
 	- [ ] Resp
