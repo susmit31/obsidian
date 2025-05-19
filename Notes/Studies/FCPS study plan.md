@@ -49,4 +49,5 @@
 - [ ] Derma
 - [ ] Toxico
 - [ ] Immuno
-- [ ] Nutri
+- [ ] Nutrition
+- [ ] Austere
