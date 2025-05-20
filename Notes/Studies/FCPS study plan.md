@@ -46,10 +46,10 @@
 	- [ ] Gene
 	- [ ] Infectious
 - [ ] Cardio 
-- [ ] Derma
+- [x] Derma
 - [ ] Toxico
 - [ ] Immuno
-- [ ] Nutrition
+- [x] Nutrition
 - [ ] Austere
 - [ ] Biostat
 
