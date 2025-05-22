@@ -23,15 +23,15 @@ Includes:
 
 **Goal:** Sustainability, mastery through consistency. Strength, mobility, and martial discipline — without burning out.
 
-|Day|Focus|Duration|Details|
-|---|---|---|---|
-|Mon|Hybrid Calisthenics (Upper Focus)|50 min|Push-ups, Pull-ups, Power Twister, Core|
-|Tue|Kyokushin Karate (Basics + Kata)|45 min|Stances, kihon, movement drills, light kata|
-|Wed|Active Rest / Mobility|20–30 min|Stretching, dynamic mobility, deep breathing|
-|Thu|Hybrid Calisthenics (Lower + Core)|50 min|Squats, bridges, leg raises, power twister hold|
-|Fri|Muay Thai (Bag/Shadow + Conditioning)|45 min|Shadowboxing, combos, clinch, cardio bursts|
-|Sat|Optional Short Session|30–40 min|Pick any focus you want or repeat weakest area|
-|Sun|Full Rest|-|Reflect, read, recover|
+| Day | Focus                                 | Duration  | Details                                         |
+| --- | ------------------------------------- | --------- | ----------------------------------------------- |
+| Mon | Hybrid Calisthenics (Upper Focus)     | 50 min    | Push-ups, Pull-ups, Power Twister, Core         |
+| Tue | Kyokushin Karate (Basics + Kata)      | 45 min    | Stances, kihon, movement drills, light kata     |
+| Wed | Active Rest / Mobility                | 20–30 min | Stretching, dynamic mobility, deep breathing    |
+| Thu | Hybrid Calisthenics (Lower + Core)    | 50 min    | Squats, bridges, leg raises, power twister hold |
+| Fri | Rest and Reflect                      |           |                                                 |
+| Sat | Optional Short Session                | 30–40 min | Pick any focus you want or repeat weakest area  |
+| Sun | Muay Thai (Bag/Shadow + Conditioning) | 45 min    | Shadowboxing, combos, clinch, cardio bursts     |
 
 ## 🥋🔥 Hybrid Martial Artist Regimen (7 Hours/Week Version)
 
