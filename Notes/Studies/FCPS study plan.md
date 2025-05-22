@@ -50,6 +50,6 @@
 - [ ] Toxico
 - [ ] Immuno
 - [x] Nutrition
-- [ ] Austere
-- [ ] Biostat
+- [x] Austere
+- [x] Biostat
 
