@@ -53,3 +53,23 @@
 - [x] Austere
 - [x] Biostat
 
+# May 22 - May 24
+- [ ] Review - 4 exams / day  ($\ge$ 120 q/day) \*\*\*\*\*
+	- [ ] Neuro
+	- [ ] Rheum
+	- [ ] Resp
+	- [ ] Nephro
+	- [ ] Psych
+	- [ ] Gene
+	- [ ] Infectious
+	- [ ] Nutrition
+	- [ ] Austere
+	- [ ] Biostat
+	- [ ] Derma
+- [ ] Cardio
+- [ ] Toxico
+- [ ] Immuno
+- [ ] Decision
+- [ ] Maternal
+- [ ] Onco
+- [ ] Clin Biochem
