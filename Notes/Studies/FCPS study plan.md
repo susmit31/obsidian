@@ -87,7 +87,7 @@
 	- [ ] Austere
 	- [ ] Biostat
 	- [ ] Derma
-- [ ] Clin Biochem
+- [x] Clin Biochem
 - [ ] Cardio
 - [ ] Toxico
 - [ ] General
