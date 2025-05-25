@@ -72,5 +72,25 @@
 - [ ] Decision
 - [x] Maternal
 - [x] Ageing
-- [ ] Onco
+- [x] Onco
+- [x] Clin Biochem
+# May 25 - May 28
+- [ ] Review - 5 exams / day
+	- [ ] Neuro
+	- [ ] Rheum
+	- [ ] Resp
+	- [ ] Nephro
+	- [ ] PSych
+	- [ ] Gene
+	- [ ] Infectious
+	- [ ] Nutrition
+	- [ ] Austere
+	- [ ] Biostat
+	- [ ] Derma
 - [ ] Clin Biochem
+- [ ] Cardio
+- [ ] Toxico
+- [ ] General
+- [ ] Immuno
+- [ ] Geriatrics
+- [ ] Gastro
