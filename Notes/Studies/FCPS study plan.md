@@ -1,8 +1,3 @@
-# Completed Tally
- - Nephro 1
- - Rheum 1
- - Neuro 1
-
 # May 07 - May 10
 - [x] Finish Rheum
 - [ ] Respiratory
@@ -79,7 +74,7 @@
 	- [ ] Neuro
 	- [ ] Rheum
 	- [ ] Resp
-	- [ ] Nephro
+	- [ ] ClinNephro
 	- [ ] PSych
 	- [ ] Gene
 	- [ ] Infectious
@@ -89,9 +84,28 @@
 	- [ ] Derma
 - [x] Clin Biochem
 - [ ] Cardio
-- [ ] Toxico
-- [ ] General
-- [ ] Immuno
+- [x] Toxico
+- [x] General
+- [x] Immuno
 - [ ] Geriatrics
 - [ ] Gastro
 - [ ] Endo
+
+
+# May 30 - June 1
+- [ ] Core review: daily >=1
+	- [ ] Endo
+	- [ ] Cardio
+	- [ ] Neuro
+	- [ ] Infectious
+- [ ] Additional review: strong-suits 
+	- [ ] Genetics - 5
+	- [ ] Biostat - 5
+	- [ ] Psych - 5
+	- [ ] Toxico - 5
+	- [ ] Immuno - 5
+	- [ ] Biochem - 3
+	- [ ] Nutri - 3
+	- [ ] Derma - 4
+	- [ ] Decision - 5
+	- [ ] Nephro - 8
