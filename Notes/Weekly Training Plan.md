@@ -9,15 +9,15 @@ Includes:
 
 ## 🥋💪 Hybrid Martial Artist Regimen (10 Hours/Week Version)
 
-| Day      | Duration | Focus Areas                                                 |
-|----------|----------|-------------------------------------------------------------|
-| Mon      | 1.5 hrs  | Muay Thai (Technique + Light Conditioning)                  |
-| Tue      | 1.5 hrs  | Hybrid Calisthenics (Lower Body Focus) + Core               |
-| Wed      | 1.5 hrs  | Kyokushin (Kihon + Kata + Bag Work)                         |
-| Thu      | 1 hr     | Hybrid Calisthenics (Upper Body + Power Twister)            |
-| Fri      | 1.5 hrs  | Muay Thai (Combos + Shadowboxing + Clinch)                  |
-| Sat      | 2 hrs    | Kyokushin (Sparring Drills + Kata + Conditioning)           |
-| Sun      | 1 hr     | Active Recovery (Mobility, Optional Drills)                 |
+| Day | Duration | Focus Areas                                       |
+| --- | -------- | ------------------------------------------------- |
+| Mon | 1.5 hrs  | Muay Thai (Technique + Light Conditioning)        |
+| Tue | 1.5 hrs  | Hybrid Calisthenics (Lower Body Focus) + Core     |
+| Wed | 1.5 hrs  | Kyokushin (Kihon + Kata + Bag Work)               |
+| Thu | 1 hr     | Hybrid Calisthenics (Upper Body + Power Twister)  |
+| Fri |          | Rest and recover                                  |
+| Sat | 2 hrs    | Kyokushin (Sparring Drills + Kata + Conditioning) |
+| Sun | 1 hr     | Muay Thai (Combos + Shadowboxing + Clinch)        |
 
 ## 🥋💪 Hybrid Martial Artist Regimen (5 Hours/Week Version)
 

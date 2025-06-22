@@ -109,3 +109,10 @@
 	- [ ] Derma - 4
 	- [ ] Decision - 5
 	- [ ] Nephro - 8
+
+# June 4 - June 14
+## Goals
+- Skim text for GIHBS, Haema, Cardio, Endo, Infectious, Derma
+- Review text for Nephro, Psych, Toxico, Nutri
+- Practise all
+- 
