@@ -1,0 +1,5 @@
+- Words are basic "filters" acting on the set of all logically possible states of affairs ("concept space"?) \[top-down view\]
+- Strings of words i.e. sentences are then function compositions 
+- Logical negation of a word filters out the complement subset of the original word's filtered subset so that composing any word with its negation picks out the empty subset
+- Alternative view: each word takes a machine composed of many knobs and switches and turns the machine on and turns some knobs and flips some switches \[bottom-up view\]
+- 
